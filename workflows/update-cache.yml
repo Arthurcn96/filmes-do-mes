@@ -1,0 +1,35 @@
+name: Atualizar cache de filmes
+
+on:
+  schedule:
+    - cron: "0 4 * * 1"  # toda segunda-feira às 4h
+  workflow_dispatch:       # permite rodar manualmente pelo GitHub
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v4
+
+      - name: Instalar uv
+        uses: astral-sh/setup-uv@v4
+
+      - name: Instalar dependências
+        run: uv sync
+
+      - name: Rodar populate.py
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+        run: uv run populate.py --force-recent
+
+      - name: Commitar cache.json atualizado
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add cache.json
+          git diff --staged --quiet || git commit -m "chore: atualiza cache.json [$(date +'%Y-%m-%d')]"
+          git push
