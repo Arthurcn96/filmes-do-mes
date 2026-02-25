@@ -2,7 +2,7 @@ name: Atualizar cache de filmes
 
 on:
   schedule:
-    - cron: "0 4 * * 1"  # toda segunda-feira às 4h
+    - cron: "0 4 1,15 * *"  # toda dia 1 e dia 15 às 4h
   workflow_dispatch:       # permite rodar manualmente pelo GitHub
 
 jobs:
