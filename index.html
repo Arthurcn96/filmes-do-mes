@@ -119,7 +119,7 @@
     }
 
     .card-sem-poster {
-      width: 100%%;
+      width: 100%;
       height: 200px;
       background: #1a1a1a;
       display: flex;
@@ -198,13 +198,32 @@
       padding: 6rem;
       color: #e05;
     }
-  </style>
+
+    /* ===== MOBILE ===== */
+    @media (max-width: 600px) {
+      header {
+        padding: 2rem 1.2rem 1.5rem;
+      }/
+      header h1 {
+        font-size: 2.5rem;
+      }
+      #conteudo {
+        padding: 1.5rem 1.2rem 3rem;
+      }
+
+      .card img,
+      .card-sem-poster {
+        height: 179px;
+      }
+    }
+
+    </style>
 </head>
 <body>
 
 <header>
   <h1>FILMES DE <span id="mes-nome">...</span></h1>
-  <p>Os 10 melhores filmes lançados neste mês, em cada ano — ordenados por nota.</p>
+  <p>Os 20 melhores filmes lançados neste mês, em cada ano — ordenados por nota.</p>
   <div id="progresso"></div>
 </header>
 
@@ -219,10 +238,6 @@
 <script>
   const MESES_PT = ["Janeiro","Fevereiro","Março","Abril","Maio","Junho",
                     "Julho","Agosto","Setembro","Outubro","Novembro","Dezembro"];
-
-  // Detecta se está rodando local (FastAPI) ou no GitHub Pages (JSON estático)
-  const IS_LOCAL = location.hostname === "localhost" || location.hostname === "127.0.0.1";
-  const DATA_URL = IS_LOCAL ? "http://localhost:8000/filmes" : "./cache.json";
 
   function criarCard(filme) {
     const card = document.createElement("div");
@@ -252,102 +267,9 @@
     return card;
   }
 
-  function renderizarAnos(anos) {
-    const conteudo = document.getElementById("conteudo");
-    const progresso = document.getElementById("progresso");
-
-    // Ordena do ano mais recente pro mais antigo
-    anos.sort((a, b) => b.ano - a.ano);
-
-    anos.forEach((item, i) => {
-      if (!item.filmes || item.filmes.length === 0) return;
-
-      const bloco = document.createElement("div");
-      bloco.className = "ano-bloco";
-      bloco.style.animationDelay = `${i * 30}ms`;
-
-      const titulo = document.createElement("div");
-      titulo.className = "ano-titulo";
-      titulo.textContent = item.ano;
-      bloco.appendChild(titulo);
-
-      const grid = document.createElement("div");
-      grid.className = "filmes-grid";
-      item.filmes.forEach(f => grid.appendChild(criarCard(f)));
-      bloco.appendChild(grid);
-
-      conteudo.appendChild(bloco);
-    });
-
-    progresso.textContent = `${anos.length} anos carregados`;
-  }
-
-  async function carregarLocal() {
-    // Modo local — usa SSE do FastAPI
-    const conteudo = document.getElementById("conteudo");
-    const progresso = document.getElementById("progresso");
-    let recebidos = 0;
-    let total = 0;
-
-    const es = new EventSource(DATA_URL);
-
-    es.addEventListener("inicio", e => {
-      const data = JSON.parse(e.data);
-      document.getElementById("mes-nome").textContent = data.mes_nome.toUpperCase();
-      document.getElementById("loading").remove();
-      total = data.total;
-    });
-
-    es.addEventListener("ano", e => {
-      const { ano, filmes } = JSON.parse(e.data);
-      if (!filmes || filmes.length === 0) return;
-      recebidos++;
-      progresso.textContent = `Carregando... ${recebidos} de ${total} anos`;
-
-      // Insere na ordem correta
-      const bloco = document.createElement("div");
-      bloco.className = "ano-bloco";
-      bloco.dataset.ano = ano;
-
-      const titulo = document.createElement("div");
-      titulo.className = "ano-titulo";
-      titulo.textContent = ano;
-      bloco.appendChild(titulo);
-
-      const grid = document.createElement("div");
-      grid.className = "filmes-grid";
-      filmes.forEach(f => grid.appendChild(criarCard(f)));
-      bloco.appendChild(grid);
-
-      const blocos = conteudo.querySelectorAll(".ano-bloco");
-      let inserido = false;
-      for (const b of blocos) {
-        if (parseInt(b.dataset.ano) < ano) {
-          conteudo.insertBefore(bloco, b);
-          inserido = true;
-          break;
-        }
-      }
-      if (!inserido) conteudo.appendChild(bloco);
-    });
-
-    es.addEventListener("fim", () => {
-      progresso.textContent = `${recebidos} anos carregados`;
-      es.close();
-    });
-
-    es.onerror = () => {
-      const loading = document.getElementById("loading");
-      if (loading) loading.remove();
-      document.getElementById("erro").style.display = "block";
-      es.close();
-    };
-  }
-
-  async function carregarEstatico() {
-    // Modo GitHub Pages — lê cache.json direto
+  async function carregar() {
     try {
-      const res = await fetch(DATA_URL);
+      const res = await fetch("./cache.json");
       if (!res.ok) throw new Error();
       const cache = await res.json();
 
@@ -355,27 +277,44 @@
       document.getElementById("mes-nome").textContent = MESES_PT[mes - 1].toUpperCase();
       document.getElementById("loading").remove();
 
-      // Filtra entradas do mês atual e monta lista de anos
       const anos = Object.entries(cache)
         .filter(([chave]) => chave.startsWith(`${mes}-`))
         .map(([chave, valor]) => ({
           ano: parseInt(chave.split("-")[1]),
           filmes: valor.filmes || [],
-        }));
+        }))
+        .filter(item => item.filmes.length > 0)
+        .sort((a, b) => b.ano - a.ano);
 
-      renderizarAnos(anos);
+      const conteudo = document.getElementById("conteudo");
+
+      anos.forEach((item, i) => {
+        const bloco = document.createElement("div");
+        bloco.className = "ano-bloco";
+        bloco.style.animationDelay = `${i * 30}ms`;
+
+        const titulo = document.createElement("div");
+        titulo.className = "ano-titulo";
+        titulo.textContent = item.ano;
+        bloco.appendChild(titulo);
+
+        const grid = document.createElement("div");
+        grid.className = "filmes-grid";
+        item.filmes.forEach(f => grid.appendChild(criarCard(f)));
+        bloco.appendChild(grid);
+
+        conteudo.appendChild(bloco);
+      });
+
+      document.getElementById("progresso").textContent = `${anos.length} anos carregados`;
+
     } catch (e) {
       document.getElementById("loading").remove();
       document.getElementById("erro").style.display = "block";
     }
   }
 
-  // Inicializa no modo correto
-  if (IS_LOCAL) {
-    carregarLocal();
-  } else {
-    carregarEstatico();
-  }
+  carregar();
 </script>
 
 </body>
