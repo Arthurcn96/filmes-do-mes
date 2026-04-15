@@ -38,15 +38,6 @@
         "link": "https://www.themoviedb.org/movie/1412113"
       },
       {
-        "id": 1246369,
-        "titulo": "室町無頼",
-        "nota": 8.4,
-        "poster": "https://image.tmdb.org/t/p/w300/s0J4iywfMLMRg4HIXxegzjXncQf.jpg",
-        "resumo": "",
-        "data_lancamento": "2025-01-17",
-        "link": "https://www.themoviedb.org/movie/1246369"
-      },
-      {
         "id": 1159596,
         "titulo": "Oficina do Diabo",
         "nota": 8.3,
@@ -54,6 +45,15 @@
         "resumo": "Após tentar a vida como músico na cidade grande, Pedro fracassa e volta, sem rumo, para a casa de sua mãe no interior. O demônio Natan levou Pedro a escolhas erradas, no entanto, suas tentações não conseguiram desvirtuá-lo completamente. Decididos a condenar a alma de Pedro ao Inferno, a Oficina convoca o experiente demônio Fausto para guiar Natan em sua missão.",
         "data_lancamento": "2025-01-16",
         "link": "https://www.themoviedb.org/movie/1159596"
+      },
+      {
+        "id": 1246369,
+        "titulo": "室町無頼",
+        "nota": 8.3,
+        "poster": "https://image.tmdb.org/t/p/w300/s0J4iywfMLMRg4HIXxegzjXncQf.jpg",
+        "resumo": "",
+        "data_lancamento": "2025-01-17",
+        "link": "https://www.themoviedb.org/movie/1246369"
       },
       {
         "id": 1422196,
@@ -83,13 +83,13 @@
         "link": "https://www.themoviedb.org/movie/980477"
       },
       {
-        "id": 1414312,
-        "titulo": "O Freelancer: O Homem Por Trás da Foto",
-        "nota": 8.0,
-        "poster": "https://image.tmdb.org/t/p/w300/uAlTbVs2djEERGJdDTKXcY84TmE.jpg",
-        "resumo": "O segredo de um editor fotográfico de 52 anos desencadeia uma investigação de dois anos sobre uma das imagens mais famosas da Guerra do Vietnã.",
-        "data_lancamento": "2025-01-25",
-        "link": "https://www.themoviedb.org/movie/1414312"
+        "id": 1397163,
+        "titulo": "Mobile Suit Gundam GQuuuuuuX -Beginning-",
+        "nota": 8.1,
+        "poster": "https://image.tmdb.org/t/p/w300/ewrbbHuesdiFp8eamukQb5QkRS7.jpg",
+        "resumo": "",
+        "data_lancamento": "2025-01-17",
+        "link": "https://www.themoviedb.org/movie/1397163"
       },
       {
         "id": 1294947,
@@ -110,31 +110,22 @@
         "link": "https://www.themoviedb.org/movie/1341284"
       },
       {
+        "id": 1414312,
+        "titulo": "O Freelancer: O Homem Por Trás da Foto",
+        "nota": 8.0,
+        "poster": "https://image.tmdb.org/t/p/w300/uAlTbVs2djEERGJdDTKXcY84TmE.jpg",
+        "resumo": "O segredo de um editor fotográfico de 52 anos desencadeia uma investigação de dois anos sobre uma das imagens mais famosas da Guerra do Vietnã.",
+        "data_lancamento": "2025-01-25",
+        "link": "https://www.themoviedb.org/movie/1414312"
+      },
+      {
         "id": 1278656,
         "titulo": "Liza: A Truly Terrific Absolutely True Story",
-        "nota": 8.0,
+        "nota": 7.9,
         "poster": "https://image.tmdb.org/t/p/w300/xQG9oxaSe7BVOIlp4MvAgqyGW7p.jpg",
         "resumo": "",
         "data_lancamento": "2025-01-24",
         "link": "https://www.themoviedb.org/movie/1278656"
-      },
-      {
-        "id": 1397163,
-        "titulo": "Mobile Suit Gundam GQuuuuuuX -Beginning-",
-        "nota": 8.0,
-        "poster": "https://image.tmdb.org/t/p/w300/ewrbbHuesdiFp8eamukQb5QkRS7.jpg",
-        "resumo": "",
-        "data_lancamento": "2025-01-17",
-        "link": "https://www.themoviedb.org/movie/1397163"
-      },
-      {
-        "id": 1326649,
-        "titulo": "قصص غير محكية من غزة من المسافة صفر",
-        "nota": 8.0,
-        "poster": "https://image.tmdb.org/t/p/w300/fa1awdcPtuKEIpQNM4AKu9vCPQh.jpg",
-        "resumo": "",
-        "data_lancamento": "2025-01-03",
-        "link": "https://www.themoviedb.org/movie/1326649"
       },
       {
         "id": 1361934,
@@ -155,15 +146,6 @@
         "link": "https://www.themoviedb.org/movie/1403775"
       },
       {
-        "id": 1244068,
-        "titulo": "പൊൻMAN",
-        "nota": 7.8,
-        "poster": "https://image.tmdb.org/t/p/w300/cdXS0DcshLFUpuKQAU5dW7Qk1A2.jpg",
-        "resumo": "",
-        "data_lancamento": "2025-01-30",
-        "link": "https://www.themoviedb.org/movie/1244068"
-      },
-      {
         "id": 1421461,
         "titulo": "Senhoras e Senhores... 50 anos de música do SNL",
         "nota": 7.8,
@@ -173,6 +155,15 @@
         "link": "https://www.themoviedb.org/movie/1421461"
       },
       {
+        "id": 1244068,
+        "titulo": "പൊൻMAN",
+        "nota": 7.8,
+        "poster": "https://image.tmdb.org/t/p/w300/cdXS0DcshLFUpuKQAU5dW7Qk1A2.jpg",
+        "resumo": "",
+        "data_lancamento": "2025-01-30",
+        "link": "https://www.themoviedb.org/movie/1244068"
+      },
+      {
         "id": 1400201,
         "titulo": "Потяг у 31 грудня",
         "nota": 7.8,
@@ -180,20 +171,38 @@
         "resumo": "",
         "data_lancamento": "2025-01-01",
         "link": "https://www.themoviedb.org/movie/1400201"
+      },
+      {
+        "id": 926670,
+        "titulo": "Henry Danger: O Filme",
+        "nota": 7.7,
+        "poster": "https://image.tmdb.org/t/p/w300/ycddfSBZPE7z9VK4PqYELodmbxl.jpg",
+        "resumo": "Henry Danger conhece uma superfã - ansiosa para combater o crime com Kid Danger - que possui um dispositivo que pode abrir realidades alternativas. Enfrentando uma viagem alucinante, Henry precisará de seu melhor amigo Jasper e de sua nova companheira superfã para encontrar a saída ou ficar preso em outra dimensão para sempre.",
+        "data_lancamento": "2025-01-17",
+        "link": "https://www.themoviedb.org/movie/926670"
       }
     ],
-    "timestamp": 1775022556.953873
+    "timestamp": 1776232383.954119
   },
   "1-2026": {
     "filmes": [
       {
         "id": 1575337,
         "titulo": "Kaguya: A Princesa Espacial",
-        "nota": 8.4,
+        "nota": 8.5,
         "poster": "https://image.tmdb.org/t/p/w300/9lHbzF8h1do99LlIis8iemMOZSj.jpg",
         "resumo": "A vida de Iroha sai da órbita quando a fugitiva Kaguya chega direto da lua e a convence a se apresentar com ela em um mundo virtual.",
         "data_lancamento": "2026-01-22",
         "link": "https://www.themoviedb.org/movie/1575337"
+      },
+      {
+        "id": 1168719,
+        "titulo": "Amiga Silenciosa",
+        "nota": 8.2,
+        "poster": "https://image.tmdb.org/t/p/w300/1YCKtx2Cdu19LhEiBf9TRPZstvO.jpg",
+        "resumo": "",
+        "data_lancamento": "2026-01-15",
+        "link": "https://www.themoviedb.org/movie/1168719"
       },
       {
         "id": 1604628,
@@ -223,22 +232,22 @@
         "link": "https://www.themoviedb.org/movie/1596291"
       },
       {
+        "id": 1339876,
+        "titulo": "Corajosa 3",
+        "nota": 7.6,
+        "poster": "https://image.tmdb.org/t/p/w300/odEZ7CY6TlELZHptwEyNy65XaRg.jpg",
+        "resumo": "A destemida policial Shivani Shivaji Roy está de volta para derrubar uma quadrilha impiedosa, responsável por sequestrar mais de 90 meninas na Índia.",
+        "data_lancamento": "2026-01-30",
+        "link": "https://www.themoviedb.org/movie/1339876"
+      },
+      {
         "id": 1602705,
         "titulo": "Uma Carta à Minha Juventude",
-        "nota": 7.6,
+        "nota": 7.5,
         "poster": "https://image.tmdb.org/t/p/w300/xNOOOaRmv3NvRnVx8L0FK1aIq6N.jpg",
         "resumo": "Conta a história de um jovem rebelde que vive em um orfanato e de um monitor reservado que trabalham para superar traumas do passado. Após um primeiro encontro difícil, os dois desenvolvem uma amizade sincera e um vínculo profundo, onde as experiências da juventude se tornam o combustível para a cura na fase adulta. A narrativa, contada na perspectiva de Kefas (o jovem), explora memórias inesquecíveis durante sua visita à instituição anos depois.",
         "data_lancamento": "2026-01-29",
         "link": "https://www.themoviedb.org/movie/1602705"
-      },
-      {
-        "id": 1610413,
-        "titulo": "A Última Aventura: Nos Bastidores de Stranger Things 5",
-        "nota": 7.5,
-        "poster": "https://image.tmdb.org/t/p/w300/4C1EXyRhkG8WrNBVaA9rKo9pqxq.jpg",
-        "resumo": "Mergulhe nos bastidores da série dos irmãos Duffer que marcou uma geração, e confira todo o trabalho e anos de dedicação por trás da temporada final.",
-        "data_lancamento": "2026-01-11",
-        "link": "https://www.themoviedb.org/movie/1610413"
       },
       {
         "id": 1437873,
@@ -259,6 +268,15 @@
         "link": "https://www.themoviedb.org/movie/1599090"
       },
       {
+        "id": 1610413,
+        "titulo": "A Última Aventura: Nos Bastidores de Stranger Things 5",
+        "nota": 7.4,
+        "poster": "https://image.tmdb.org/t/p/w300/4C1EXyRhkG8WrNBVaA9rKo9pqxq.jpg",
+        "resumo": "Mergulhe nos bastidores da série dos irmãos Duffer que marcou uma geração, e confira todo o trabalho e anos de dedicação por trás da temporada final.",
+        "data_lancamento": "2026-01-11",
+        "link": "https://www.themoviedb.org/movie/1610413"
+      },
+      {
         "id": 1613335,
         "titulo": "Fenômeno no Gelo: Hóquei na Guerra Fria",
         "nota": 7.3,
@@ -266,6 +284,15 @@
         "resumo": "Esta é a história do \"Milagre no Gelo\", quando a equipe de hóquei dos EUA derrotou a URSS nas semifinais olímpicas de 1980, no auge da Guerra Fria, rumo à medalha de ouro. Essa icônica trajetória de superação é narrada por meio de filmagens inéditas em 16mm e relatos em primeira pessoa dos jogadores, que retornam ao cenário de sua vitória histórica.",
         "data_lancamento": "2026-01-30",
         "link": "https://www.themoviedb.org/movie/1613335"
+      },
+      {
+        "id": 1615284,
+        "titulo": "Caju, Meu Amigo",
+        "nota": 7.3,
+        "poster": "https://image.tmdb.org/t/p/w300/euYHIYx8d6sNI2FMePFXYzp0sA7.jpg",
+        "resumo": "Rafaela (Vitória Strada) tem sua vida transformada com a chegada de Pingo, um caramelo resgatado da enchente que atingiu Porto Alegre em 2024. O que ela não imaginava era reencontrar sua antiga tutora, Nice (Liane Venturella), que o chama de Caju. Quando o cão foge, as duas precisam atravessar a cidade em busca dele, enfrentando um impasse sobre a guarda e criando, no caminho, um laço inesperado. Em uma Porto Alegre que ainda carrega as marcas da enchente, nasce uma amizade capaz de acolher os traumas — e imaginar futuros possíveis.",
+        "data_lancamento": "2026-01-19",
+        "link": "https://www.themoviedb.org/movie/1615284"
       },
       {
         "id": 1116201,
@@ -277,15 +304,6 @@
         "link": "https://www.themoviedb.org/movie/1116201"
       },
       {
-        "id": 1272837,
-        "titulo": "Extermínio: O Templo dos Ossos",
-        "nota": 7.2,
-        "poster": "https://image.tmdb.org/t/p/w300/tbECC1mMbytgaynCnBhgVPzCZcd.jpg",
-        "resumo": "Dr. Kelson se vê envolvido num novo relacionamento chocante – com consequências que podem mudar o mundo como eles o conhecem – e o encontro de Spike com Jimmy Crystal se torna um pesadelo do qual ele não consegue escapar.",
-        "data_lancamento": "2026-01-14",
-        "link": "https://www.themoviedb.org/movie/1272837"
-      },
-      {
         "id": 1611398,
         "titulo": "Un hombre por semana",
         "nota": 7.2,
@@ -295,31 +313,49 @@
         "link": "https://www.themoviedb.org/movie/1611398"
       },
       {
-        "id": 1595481,
-        "titulo": "Sequestro: Elizabeth Smart",
+        "id": 1407432,
+        "titulo": "అనగనగా ఒక రాజు",
         "nota": 7.2,
-        "poster": "https://image.tmdb.org/t/p/w300/jdjJZWxjmKACZtrebAcipm86cl3.jpg",
-        "resumo": "Elizabeth Smart, de 14 anos, foi sequestrada em sua própria casa nos Estados Unidos. Este documentário examina o caso com depoimentos dela e materiais inéditos.",
-        "data_lancamento": "2026-01-20",
-        "link": "https://www.themoviedb.org/movie/1595481"
+        "poster": "https://image.tmdb.org/t/p/w300/iCzGY1JD4DXqAjDKhsesKzs9vdK.jpg",
+        "resumo": "",
+        "data_lancamento": "2026-01-14",
+        "link": "https://www.themoviedb.org/movie/1407432"
       },
       {
         "id": 1601082,
         "titulo": "Chitas de Perto com Bertie Gregory",
-        "nota": 7.1,
+        "nota": 7.2,
         "poster": "https://image.tmdb.org/t/p/w300/5nC1F6LrhyvRn0YWpQiispac6mI.jpg",
         "resumo": "Bertie chega ao Serengeti bem no início da espetacular migração dos gnus. Sua missão filmar o animal terrestre mais rápido do mundo: a chita. Ao acompanhar de perto uma mãe cuidando dos filhotinhos e um grupo de jovens machos caçando em equipe, ele descobre os desafios inesperados que a espécie enfrenta.",
         "data_lancamento": "2026-01-01",
         "link": "https://www.themoviedb.org/movie/1601082"
       },
       {
-        "id": 1198994,
-        "titulo": "Socorro!",
-        "nota": 7.1,
-        "poster": "https://image.tmdb.org/t/p/w300/furPD78BZsKAWZoGvoqArIJYPy2.jpg",
-        "resumo": "Após um acidente aéreo, um chefe e uma funcionária que se odeiam são os únicos sobreviventes. Isolados numa ilha deserta, eles precisam decidir se cooperam ou competem para escapar, mas é difícil deixar para trás os conflitos do escritório.",
+        "id": 1272837,
+        "titulo": "Extermínio: O Templo dos Ossos",
+        "nota": 7.2,
+        "poster": "https://image.tmdb.org/t/p/w300/tbECC1mMbytgaynCnBhgVPzCZcd.jpg",
+        "resumo": "Dr. Kelson se vê envolvido num novo relacionamento chocante – com consequências que podem mudar o mundo como eles o conhecem – e o encontro de Spike com Jimmy Crystal se torna um pesadelo do qual ele não consegue escapar.",
+        "data_lancamento": "2026-01-14",
+        "link": "https://www.themoviedb.org/movie/1272837"
+      },
+      {
+        "id": 1219542,
+        "titulo": "Die drei ??? – Toteninsel",
+        "nota": 7.2,
+        "poster": "https://image.tmdb.org/t/p/w300/cQy8PqmhwRKuSmyb9eFdUe55B9V.jpg",
+        "resumo": "",
         "data_lancamento": "2026-01-22",
-        "link": "https://www.themoviedb.org/movie/1198994"
+        "link": "https://www.themoviedb.org/movie/1219542"
+      },
+      {
+        "id": 1595481,
+        "titulo": "Sequestro: Elizabeth Smart",
+        "nota": 7.1,
+        "poster": "https://image.tmdb.org/t/p/w300/jdjJZWxjmKACZtrebAcipm86cl3.jpg",
+        "resumo": "Elizabeth Smart, de 14 anos, foi sequestrada em sua própria casa nos Estados Unidos. Este documentário examina o caso com depoimentos dela e materiais inéditos.",
+        "data_lancamento": "2026-01-20",
+        "link": "https://www.themoviedb.org/movie/1595481"
       },
       {
         "id": 1473635,
@@ -329,45 +365,9 @@
         "resumo": "",
         "data_lancamento": "2026-01-29",
         "link": "https://www.themoviedb.org/movie/1473635"
-      },
-      {
-        "id": 1290436,
-        "titulo": "Ma frère",
-        "nota": 7.1,
-        "poster": "https://image.tmdb.org/t/p/w300/j4p4TaoK4LrlLgCK0m0pBUT5CcB.jpg",
-        "resumo": "",
-        "data_lancamento": "2026-01-07",
-        "link": "https://www.themoviedb.org/movie/1290436"
-      },
-      {
-        "id": 1306368,
-        "titulo": "Dinheiro Suspeito",
-        "nota": 7.1,
-        "poster": "https://image.tmdb.org/t/p/w300/bm04TGkE5ySrHbHlO6YloYZvs4P.jpg",
-        "resumo": "Quando uma equipe de policiais de Miami encontra milhões de dólares em um muquifo usado como esconderijo, a confiança fica abalada e todos viram suspeitos.",
-        "data_lancamento": "2026-01-13",
-        "link": "https://www.themoviedb.org/movie/1306368"
-      },
-      {
-        "id": 1034716,
-        "titulo": "De Férias com Você",
-        "nota": 7.0,
-        "poster": "https://image.tmdb.org/t/p/w300/yDNXI2I1h1HFHGheOn8OoKBxPyH.jpg",
-        "resumo": "Poppy é livre, leve e solta. Já Alex, planeja tudo. Depois de vários anos passando férias juntos, esses dois opostos começam a achar que são perfeitos um para o outro.",
-        "data_lancamento": "2026-01-06",
-        "link": "https://www.themoviedb.org/movie/1034716"
-      },
-      {
-        "id": 1376415,
-        "titulo": "L’affaire Bojarski",
-        "nota": 7.0,
-        "poster": "https://image.tmdb.org/t/p/w300/v12qqT8GrLjdGj4mnp4iMik7kvx.jpg",
-        "resumo": "",
-        "data_lancamento": "2026-01-14",
-        "link": "https://www.themoviedb.org/movie/1376415"
       }
     ],
-    "timestamp": 1775022556.549966
+    "timestamp": 1776232383.331185
   },
   "1-2018": {
     "filmes": [
@@ -674,7 +674,7 @@
         "link": "https://www.themoviedb.org/movie/1056735"
       }
     ],
-    "timestamp": 1775022559.37684
+    "timestamp": 1776232385.988468
   },
   "1-2019": {
     "filmes": [
@@ -776,7 +776,7 @@
       {
         "id": 1225332,
         "titulo": "Mr Bates vs The Post Office: The Real Story",
-        "nota": 8.5,
+        "nota": 8.4,
         "poster": "https://image.tmdb.org/t/p/w300/kh0YMPdn3fkPunbE55kMDKpca2b.jpg",
         "resumo": "",
         "data_lancamento": "2024-01-04",
@@ -846,15 +846,6 @@
         "link": "https://www.themoviedb.org/movie/971606"
       },
       {
-        "id": 1229913,
-        "titulo": "El Roomie",
-        "nota": 7.6,
-        "poster": "https://image.tmdb.org/t/p/w300/zaRzz2BxjxIVb7ja0gSedj1Hn1E.jpg",
-        "resumo": "",
-        "data_lancamento": "2024-01-18",
-        "link": "https://www.themoviedb.org/movie/1229913"
-      },
-      {
         "id": 1181863,
         "titulo": "Animal Adventures: Save The Forest",
         "nota": 7.6,
@@ -862,6 +853,15 @@
         "resumo": "",
         "data_lancamento": "2024-01-15",
         "link": "https://www.themoviedb.org/movie/1181863"
+      },
+      {
+        "id": 1229913,
+        "titulo": "El Roomie",
+        "nota": 7.6,
+        "poster": "https://image.tmdb.org/t/p/w300/zaRzz2BxjxIVb7ja0gSedj1Hn1E.jpg",
+        "resumo": "",
+        "data_lancamento": "2024-01-18",
+        "link": "https://www.themoviedb.org/movie/1229913"
       },
       {
         "id": 1212670,
@@ -880,15 +880,6 @@
         "resumo": "",
         "data_lancamento": "2024-01-24",
         "link": "https://www.themoviedb.org/movie/1232790"
-      },
-      {
-        "id": 1235677,
-        "titulo": "Roman Frayssinet : Ô dedans",
-        "nota": 7.5,
-        "poster": "https://image.tmdb.org/t/p/w300/5WpWlBOtPhzPjPb6Clnuosv0Azh.jpg",
-        "resumo": "",
-        "data_lancamento": "2024-01-24",
-        "link": "https://www.themoviedb.org/movie/1235677"
       },
       {
         "id": 696047,
@@ -918,15 +909,6 @@
         "link": "https://www.themoviedb.org/movie/1175229"
       },
       {
-        "id": 1232289,
-        "titulo": "A Sociedade da Neve: Quem Fomos na Montanha",
-        "nota": 7.4,
-        "poster": "https://image.tmdb.org/t/p/w300/3fnxlntG3eFNzf6MHzuIVHdQtL1.jpg",
-        "resumo": "Um olhar aprofundado para o processo criativo de \"A Sociedade da Neve\", com participação do elenco e da equipe, além do diretor J.A. Bayona e sobreviventes reais.",
-        "data_lancamento": "2024-01-23",
-        "link": "https://www.themoviedb.org/movie/1232289"
-      },
-      {
         "id": 1197989,
         "titulo": "الحريفة",
         "nota": 7.4,
@@ -945,6 +927,15 @@
         "link": "https://www.themoviedb.org/movie/986355"
       },
       {
+        "id": 1232289,
+        "titulo": "A Sociedade da Neve: Quem Fomos na Montanha",
+        "nota": 7.4,
+        "poster": "https://image.tmdb.org/t/p/w300/3fnxlntG3eFNzf6MHzuIVHdQtL1.jpg",
+        "resumo": "Um olhar aprofundado para o processo criativo de \"A Sociedade da Neve\", com participação do elenco e da equipe, além do diretor J.A. Bayona e sobreviventes reais.",
+        "data_lancamento": "2024-01-23",
+        "link": "https://www.themoviedb.org/movie/1232289"
+      },
+      {
         "id": 1239993,
         "titulo": "Ikea, le seigneur des forêts",
         "nota": 7.3,
@@ -952,9 +943,18 @@
         "resumo": "",
         "data_lancamento": "2024-01-22",
         "link": "https://www.themoviedb.org/movie/1239993"
+      },
+      {
+        "id": 1231550,
+        "titulo": "Klaus & Barroso",
+        "nota": 7.3,
+        "poster": "https://image.tmdb.org/t/p/w300/6gXelVWYjkkrfnS86g8BJ4imNha.jpg",
+        "resumo": "",
+        "data_lancamento": "2024-01-16",
+        "link": "https://www.themoviedb.org/movie/1231550"
       }
     ],
-    "timestamp": 1775022558.543191
+    "timestamp": 1776232385.534965
   },
   "1-2017": {
     "filmes": [
@@ -9185,31 +9185,40 @@
   "2-2026": {
     "filmes": [
       {
+        "id": 1600421,
+        "titulo": "Stray Kids: The dominATE Experience",
+        "nota": 8.2,
+        "poster": "https://image.tmdb.org/t/p/w300/bHqQvO1BifBciDdLG16yyLHcvkj.jpg",
+        "resumo": "Com a participação do fenômeno global do K-pop Stray Kids e uma performance ao vivo de sua turnê mundial recordista, além de imagens exclusivas dos bastidores e entrevistas intimistas com o grupo, Stray Kids: The dominATE Experience é um épico filme-concerto que oferece aos fãs tanto um espetáculo em primeira fila quanto um acesso único à sua banda favorita.",
+        "data_lancamento": "2026-02-04",
+        "link": "https://www.themoviedb.org/movie/1600421"
+      },
+      {
         "id": 1445363,
         "titulo": "EPiC: Elvis Presley in Concert",
-        "nota": 8.3,
-        "poster": "https://image.tmdb.org/t/p/w300/p0PDEzOHamr0hKujhr66vrTtghC.jpg",
+        "nota": 8.0,
+        "poster": "https://image.tmdb.org/t/p/w300/u3bvHXu9hldOehUNKir7avnN8cc.jpg",
         "resumo": "Elvis canta e conta a sua história como nunca se viu antes.",
         "data_lancamento": "2026-02-18",
         "link": "https://www.themoviedb.org/movie/1445363"
       },
       {
-        "id": 1154538,
-        "titulo": "Nirvanna the Band the Show the Movie",
-        "nota": 7.8,
-        "poster": "https://image.tmdb.org/t/p/w300/sm5TGX8WbnCd9Uo26cLyTxVwA1n.jpg",
-        "resumo": "",
-        "data_lancamento": "2026-02-13",
-        "link": "https://www.themoviedb.org/movie/1154538"
-      },
-      {
         "id": 1297842,
         "titulo": "Um Cabra Bom de Bola",
-        "nota": 7.7,
+        "nota": 7.9,
         "poster": "https://image.tmdb.org/t/p/w300/x0SRTrltSJi1iQiIAUpyvkxnr41.jpg",
         "resumo": "Uma pequena cabra com grandes sonhos recebe uma oportunidade única na vida de se juntar aos profissionais e jogar berrobol, um esporte de alta intensidade, misto e de contato total, dominado pelos animais mais rápidos e ferozes do mundo.",
         "data_lancamento": "2026-02-11",
         "link": "https://www.themoviedb.org/movie/1297842"
+      },
+      {
+        "id": 1154538,
+        "titulo": "Nirvanna the Band the Show the Movie",
+        "nota": 7.7,
+        "poster": "https://image.tmdb.org/t/p/w300/sm5TGX8WbnCd9Uo26cLyTxVwA1n.jpg",
+        "resumo": "",
+        "data_lancamento": "2026-02-13",
+        "link": "https://www.themoviedb.org/movie/1154538"
       },
       {
         "id": 1261188,
@@ -9221,15 +9230,6 @@
         "link": "https://www.themoviedb.org/movie/1261188"
       },
       {
-        "id": 1365378,
-        "titulo": "Le rêve américain",
-        "nota": 7.5,
-        "poster": "https://image.tmdb.org/t/p/w300/uXGqYv2cahBG062OQ93oMqWQCs5.jpg",
-        "resumo": "",
-        "data_lancamento": "2026-02-18",
-        "link": "https://www.themoviedb.org/movie/1365378"
-      },
-      {
         "id": 1602727,
         "titulo": "夜王",
         "nota": 7.5,
@@ -9239,13 +9239,40 @@
         "link": "https://www.themoviedb.org/movie/1602727"
       },
       {
+        "id": 1307373,
+        "titulo": "Wasteman",
+        "nota": 7.5,
+        "poster": "https://image.tmdb.org/t/p/w300/lKK9ImwpoTCwDZKgYpjIIJCnlf0.jpg",
+        "resumo": "As esperanças de Taylor por um recomeço após a liberdade condicional são ameaçadas pela chegada de seu companheiro de cela, Dee. À medida que Dee o acolhe sob sua proteção, um ataque brutal coloca à prova o vínculo entre eles, forçando Taylor a escolher entre proteger Dee e suas próprias chances de liberdade.",
+        "data_lancamento": "2026-02-20",
+        "link": "https://www.themoviedb.org/movie/1307373"
+      },
+      {
         "id": 1260643,
         "titulo": "Paul McCartney: Homem em Fuga",
-        "nota": 7.5,
+        "nota": 7.4,
         "poster": "https://image.tmdb.org/t/p/w300/knvjDPSFRhsGpQR6QvJE8l14zpy.jpg",
         "resumo": "Homem em Fuga é um retrato íntimo da jornada de Paul McCartney após os Beatles, quando ele e a esposa, Linda, formam os Wings. Dirigido por Morgan Neville, vencedor do Oscar, o filme explora a reinvenção de McCartney com filmagens raras que registram as lutas e vitórias de se redefinir numa nova era musical.",
         "data_lancamento": "2026-02-19",
         "link": "https://www.themoviedb.org/movie/1260643"
+      },
+      {
+        "id": 1365378,
+        "titulo": "Le rêve américain",
+        "nota": 7.4,
+        "poster": "https://image.tmdb.org/t/p/w300/uXGqYv2cahBG062OQ93oMqWQCs5.jpg",
+        "resumo": "",
+        "data_lancamento": "2026-02-18",
+        "link": "https://www.themoviedb.org/movie/1365378"
+      },
+      {
+        "id": 1608616,
+        "titulo": "Because of Cupid",
+        "nota": 7.4,
+        "poster": "https://image.tmdb.org/t/p/w300/qLcGqmRs8pMUxYshdqXy7ECg7BX.jpg",
+        "resumo": "",
+        "data_lancamento": "2026-02-14",
+        "link": "https://www.themoviedb.org/movie/1608616"
       },
       {
         "id": 1608615,
@@ -9257,6 +9284,15 @@
         "link": "https://www.themoviedb.org/movie/1608615"
       },
       {
+        "id": 662707,
+        "titulo": "Starbright",
+        "nota": 7.3,
+        "poster": "https://image.tmdb.org/t/p/w300/m1Zl07DNYeSyNcz9hf8hDsS2oB5.jpg",
+        "resumo": "Uma jovem órfã escapa da realidade fantasiando com um mundo de conto de fadas, até que acaba entrando nele.",
+        "data_lancamento": "2026-02-27",
+        "link": "https://www.themoviedb.org/movie/662707"
+      },
+      {
         "id": 1617908,
         "titulo": "Taylor Tomlinson: A Filha Pródiga",
         "nota": 7.3,
@@ -9266,31 +9302,22 @@
         "link": "https://www.themoviedb.org/movie/1617908"
       },
       {
+        "id": 1268127,
+        "titulo": "Inteligência Humana",
+        "nota": 7.3,
+        "poster": "https://image.tmdb.org/t/p/w300/zmv8yxTmswmMZk7mUktzY9wWXcO.jpg",
+        "resumo": "Ao investigar um cartel russo, um agente sul-coreano fica cara a cara com um agente norte-coreano, e ambos são dragados por perigos e segredos.",
+        "data_lancamento": "2026-02-11",
+        "link": "https://www.themoviedb.org/movie/1268127"
+      },
+      {
         "id": 1265609,
         "titulo": "Máquina de Guerra",
-        "nota": 7.3,
+        "nota": 7.2,
         "poster": "https://image.tmdb.org/t/p/w300/48h40o6Q97hZaqH0g7bOiXOrImX.jpg",
         "resumo": "Em sua última missão de treinamento, um engenheiro de combate precisa liderar sua equipe de elite em uma luta pela sobrevivência contra uma máquina mortal.",
         "data_lancamento": "2026-02-12",
         "link": "https://www.themoviedb.org/movie/1265609"
-      },
-      {
-        "id": 1327688,
-        "titulo": "One Mile: Chapter One",
-        "nota": 7.2,
-        "poster": "https://image.tmdb.org/t/p/w300/1GZaoYe0mQy211DgDSAxAXr30ul.jpg",
-        "resumo": "Após ser libertado da prisão, um pai tenta se reconectar com sua filha levando-a para conhecer a universidade, mas logo eles se veem lutando por algo mais do que o relacionamento perdido quando um culto assassino começa a persegui-los.",
-        "data_lancamento": "2026-02-20",
-        "link": "https://www.themoviedb.org/movie/1327688"
-      },
-      {
-        "id": 1570282,
-        "titulo": "Esta Sou Eu",
-        "nota": 7.2,
-        "poster": "https://image.tmdb.org/t/p/w300/dqMgB4z8oxUDACfCuRcwUlKauoh.jpg",
-        "resumo": "Vítima de bullying por buscar a fama, Kenji encontra acolhimento em um cabaré e recebe ajuda de um médico pioneiro para revelar sua verdadeira identidade, Ai Haruna.",
-        "data_lancamento": "2026-02-10",
-        "link": "https://www.themoviedb.org/movie/1570282"
       },
       {
         "id": 1515615,
@@ -9302,6 +9329,33 @@
         "link": "https://www.themoviedb.org/movie/1515615"
       },
       {
+        "id": 1570282,
+        "titulo": "Esta Sou Eu",
+        "nota": 7.2,
+        "poster": "https://image.tmdb.org/t/p/w300/dqMgB4z8oxUDACfCuRcwUlKauoh.jpg",
+        "resumo": "Vítima de bullying por buscar a fama, Kenji encontra acolhimento em um cabaré e recebe ajuda de um médico pioneiro para revelar sua verdadeira identidade, Ai Haruna.",
+        "data_lancamento": "2026-02-10",
+        "link": "https://www.themoviedb.org/movie/1570282"
+      },
+      {
+        "id": 1548113,
+        "titulo": "O Show dos Muppets",
+        "nota": 7.2,
+        "poster": "https://image.tmdb.org/t/p/w300/rVnxHAbQVtNbuz1ig3oSNyltj4I.jpg",
+        "resumo": "É o \"Muppet Show\"! Kermit, Miss Piggy e a amada turma dos Muppets estão de volta em um evento especial inédito. Música, comédia e muita confusão estão garantidas quando os Muppets sobem mais uma vez ao palco do Muppet Theatre original com a convidada especialíssima, Sabrina Carpenter!",
+        "data_lancamento": "2026-02-03",
+        "link": "https://www.themoviedb.org/movie/1548113"
+      },
+      {
+        "id": 1327688,
+        "titulo": "One Mile: Chapter One",
+        "nota": 7.2,
+        "poster": "https://image.tmdb.org/t/p/w300/1GZaoYe0mQy211DgDSAxAXr30ul.jpg",
+        "resumo": "Após ser libertado da prisão, um pai tenta se reconectar com sua filha levando-a para conhecer a universidade, mas logo eles se veem lutando por algo mais do que o relacionamento perdido quando um culto assassino começa a persegui-los.",
+        "data_lancamento": "2026-02-20",
+        "link": "https://www.themoviedb.org/movie/1327688"
+      },
+      {
         "id": 1577457,
         "titulo": "Franco Battiato - Il lungo viaggio",
         "nota": 7.2,
@@ -9309,63 +9363,9 @@
         "resumo": "",
         "data_lancamento": "2026-02-02",
         "link": "https://www.themoviedb.org/movie/1577457"
-      },
-      {
-        "id": 1462229,
-        "titulo": "飞驰人生3",
-        "nota": 7.1,
-        "poster": "https://image.tmdb.org/t/p/w300/cL5vAK6bUHYWTOnypi34mzzWI8X.jpg",
-        "resumo": "",
-        "data_lancamento": "2026-02-17",
-        "link": "https://www.themoviedb.org/movie/1462229"
-      },
-      {
-        "id": 1548113,
-        "titulo": "O Show dos Muppets",
-        "nota": 7.1,
-        "poster": "https://image.tmdb.org/t/p/w300/rVnxHAbQVtNbuz1ig3oSNyltj4I.jpg",
-        "resumo": "É o \"Muppet Show\"! Kermit, Miss Piggy e a amada turma dos Muppets estão de volta em um evento especial inédito. Música, comédia e muita confusão estão garantidas quando os Muppets sobem mais uma vez ao palco do Muppet Theatre original com a convidada especialíssima, Sabrina Carpenter!",
-        "data_lancamento": "2026-02-03",
-        "link": "https://www.themoviedb.org/movie/1548113"
-      },
-      {
-        "id": 467905,
-        "titulo": "Manual Prático da Vingança Lucrativa",
-        "nota": 7.1,
-        "poster": "https://image.tmdb.org/t/p/w300/yC7kvzSBopVid128M60E5YOKsp.jpg",
-        "resumo": "Becket Redfellow é um homem marcado pela frustração e pela falta de oportunidades. Após a morte de sua mãe, ele decide reivindicar a fortuna que acredita ser sua por direito, custe o que custar. Disposto a tudo para recuperar seu lugar na elite, o herdeiro despojado traça um plano implacável para eliminar, um a um, os familiares que se interpõem entre ele e o patrimônio dos Redfellow. No entanto, sua jornada de vingança rapidamente se transforma em uma sequência de acidentes inquietantes, onde cada crime parece aproximá-lo ainda mais do seu próprio desastre.",
-        "data_lancamento": "2026-02-19",
-        "link": "https://www.themoviedb.org/movie/467905"
-      },
-      {
-        "id": 1305781,
-        "titulo": "镖人：风起大漠",
-        "nota": 7.1,
-        "poster": "https://image.tmdb.org/t/p/w300/AsWzPlQK2xJTIrzw6McT8Yvy6H2.jpg",
-        "resumo": "",
-        "data_lancamento": "2026-02-17",
-        "link": "https://www.themoviedb.org/movie/1305781"
-      },
-      {
-        "id": 1291335,
-        "titulo": "Solo Mio",
-        "nota": 7.1,
-        "poster": "https://image.tmdb.org/t/p/w300/efSsZJaddeq0LOABZqpCXdMxv9P.jpg",
-        "resumo": "Com o coração partido em Roma após um desastre no casamento, um noivo encalhado encontra sua lua de mel arruinada transformada por um morador determinado e viajantes intrometidos, provando que às vezes o desgosto é apenas o começo.",
-        "data_lancamento": "2026-02-05",
-        "link": "https://www.themoviedb.org/movie/1291335"
-      },
-      {
-        "id": 1447971,
-        "titulo": "惊蛰无声",
-        "nota": 7.0,
-        "poster": "https://image.tmdb.org/t/p/w300/cPdZiwjdLel5DD7Nm99FcSsXuSr.jpg",
-        "resumo": "",
-        "data_lancamento": "2026-02-17",
-        "link": "https://www.themoviedb.org/movie/1447971"
       }
     ],
-    "timestamp": 1775022556.549517
+    "timestamp": 1776232383.174588
   },
   "1-1964": {
     "filmes": [
@@ -10422,15 +10422,6 @@
         "link": "https://www.themoviedb.org/movie/1166133"
       },
       {
-        "id": 876127,
-        "titulo": "도그데이즈",
-        "nota": 7.6,
-        "poster": "https://image.tmdb.org/t/p/w300/bl3YQHEENj4B80Ku3PkTJWWLnj5.jpg",
-        "resumo": "",
-        "data_lancamento": "2024-02-07",
-        "link": "https://www.themoviedb.org/movie/876127"
-      },
-      {
         "id": 1128606,
         "titulo": "Snoopy Apresenta: Seja Bem-vindo, Franklin!",
         "nota": 7.6,
@@ -10447,6 +10438,15 @@
         "resumo": "",
         "data_lancamento": "2024-02-10",
         "link": "https://www.themoviedb.org/movie/1156787"
+      },
+      {
+        "id": 876127,
+        "titulo": "도그데이즈",
+        "nota": 7.6,
+        "poster": "https://image.tmdb.org/t/p/w300/bl3YQHEENj4B80Ku3PkTJWWLnj5.jpg",
+        "resumo": "",
+        "data_lancamento": "2024-02-07",
+        "link": "https://www.themoviedb.org/movie/876127"
       },
       {
         "id": 1238127,
@@ -10476,7 +10476,7 @@
         "link": "https://www.themoviedb.org/movie/1212009"
       }
     ],
-    "timestamp": 1775022557.83059
+    "timestamp": 1776232384.717446
   },
   "1-1965": {
     "filmes": [
@@ -10578,7 +10578,7 @@
       {
         "id": 1290182,
         "titulo": "A Menina dos Meus Olhos",
-        "nota": 8.5,
+        "nota": 8.4,
         "poster": "https://image.tmdb.org/t/p/w300/c4Be1Ph4t3xo33tH2Ve0gdjhYHl.jpg",
         "resumo": "A trama, uma refilmagem homônima de um filme taiwanês lançado em 2011, acompanha um grupo de amigos que frequentam uma escola particular e são apaixonados pela mesma garota, Sun-ah (Dahyun). Jin Young interpreta o único do grupo que afirma não ter sentimentos pela aluna popular.",
         "data_lancamento": "2025-02-21",
@@ -10603,15 +10603,6 @@
         "link": "https://www.themoviedb.org/movie/1425725"
       },
       {
-        "id": 1262426,
-        "titulo": "Tinā",
-        "nota": 8.1,
-        "poster": "https://image.tmdb.org/t/p/w300/nx9DPAzainWTqPKuirLIXasbU3z.jpg",
-        "resumo": "",
-        "data_lancamento": "2025-02-27",
-        "link": "https://www.themoviedb.org/movie/1262426"
-      },
-      {
         "id": 1429299,
         "titulo": "Com Você no Futuro",
         "nota": 8.1,
@@ -10619,6 +10610,15 @@
         "resumo": "Carlos e Elena estão prestes a assinar o divórcio quando recebem um presente inesperado que faz os dois viajarem no tempo. De volta aos anos 90, aquela era nostálgica de jaquetas de couro, penteados descolados e pop rock, eles vão tentar mudar o próprio destino.",
         "data_lancamento": "2025-02-06",
         "link": "https://www.themoviedb.org/movie/1429299"
+      },
+      {
+        "id": 1262426,
+        "titulo": "Tinā",
+        "nota": 8.1,
+        "poster": "https://image.tmdb.org/t/p/w300/nx9DPAzainWTqPKuirLIXasbU3z.jpg",
+        "resumo": "",
+        "data_lancamento": "2025-02-27",
+        "link": "https://www.themoviedb.org/movie/1262426"
       },
       {
         "id": 1429786,
@@ -10641,7 +10641,7 @@
       {
         "id": 1219555,
         "titulo": "Wunderschöner",
-        "nota": 7.8,
+        "nota": 7.9,
         "poster": "https://image.tmdb.org/t/p/w300/aPJVxNLNffSeiEgJPo1b3yAkZP2.jpg",
         "resumo": "",
         "data_lancamento": "2025-02-13",
@@ -10684,15 +10684,6 @@
         "link": "https://www.themoviedb.org/movie/765897"
       },
       {
-        "id": 950396,
-        "titulo": "Entre Montanhas",
-        "nota": 7.6,
-        "poster": "https://image.tmdb.org/t/p/w300/7zL6RxMPmpPSdU5OTdVC4dtiKcr.jpg",
-        "resumo": "Dois agentes altamente treinados se aproximam à distância após serem enviados para proteger lados opostos de um desfiladeiro misterioso. Quando um mal emerge, eles precisam trabalhar juntos para sobreviver ao que está lá dentro.",
-        "data_lancamento": "2025-02-13",
-        "link": "https://www.themoviedb.org/movie/950396"
-      },
-      {
         "id": 1413196,
         "titulo": "The Wish Swap",
         "nota": 7.6,
@@ -10700,6 +10691,15 @@
         "resumo": "",
         "data_lancamento": "2025-02-08",
         "link": "https://www.themoviedb.org/movie/1413196"
+      },
+      {
+        "id": 950396,
+        "titulo": "Entre Montanhas",
+        "nota": 7.6,
+        "poster": "https://image.tmdb.org/t/p/w300/7zL6RxMPmpPSdU5OTdVC4dtiKcr.jpg",
+        "resumo": "Dois agentes altamente treinados se aproximam à distância após serem enviados para proteger lados opostos de um desfiladeiro misterioso. Quando um mal emerge, eles precisam trabalhar juntos para sobreviver ao que está lá dentro.",
+        "data_lancamento": "2025-02-13",
+        "link": "https://www.themoviedb.org/movie/950396"
       },
       {
         "id": 1273049,
@@ -10720,6 +10720,15 @@
         "link": "https://www.themoviedb.org/movie/1284856"
       },
       {
+        "id": 1001435,
+        "titulo": "La Vie devant moi",
+        "nota": 7.5,
+        "poster": "https://image.tmdb.org/t/p/w300/j179kr6sLF89MlhTBj0vyNfWBww.jpg",
+        "resumo": "",
+        "data_lancamento": "2025-02-26",
+        "link": "https://www.themoviedb.org/movie/1001435"
+      },
+      {
         "id": 1429886,
         "titulo": "Nós Derrotamos o Dream Team",
         "nota": 7.5,
@@ -10736,18 +10745,9 @@
         "resumo": "Na pequena cidade de Malegaon, onde o cinema é a única distração dos problemas diários, o cineasta amador Nasir Shaikh reúne um grupo de amigos para fazer um filme para o povo e pelo povo de Malegaon. Nesta história de amizade e produções cinematográficas, a paixão supera os orçamentos baixos, a criatividade conquista os desafios e os sonhos alimentam a esperança, dando uma nova vida à cidade.",
         "data_lancamento": "2025-02-27",
         "link": "https://www.themoviedb.org/movie/1226572"
-      },
-      {
-        "id": 1001435,
-        "titulo": "La Vie devant moi",
-        "nota": 7.5,
-        "poster": "https://image.tmdb.org/t/p/w300/j179kr6sLF89MlhTBj0vyNfWBww.jpg",
-        "resumo": "",
-        "data_lancamento": "2025-02-26",
-        "link": "https://www.themoviedb.org/movie/1001435"
       }
     ],
-    "timestamp": 1775022557.59322
+    "timestamp": 1776232384.567095
   },
   "2-2023": {
     "filmes": [
@@ -10806,6 +10806,15 @@
         "link": "https://www.themoviedb.org/movie/1006141"
       },
       {
+        "id": 965171,
+        "titulo": "Ice Merchants",
+        "nota": 7.8,
+        "poster": "https://image.tmdb.org/t/p/w300/uDoiGF4KqyNglxaIJlRWdFQ4WJT.jpg",
+        "resumo": "Todos os dias, um pai e seu filho saltam de paraquedas de sua casa vertiginosa e fria, presa a um penhasco, para irem a uma distante aldeia no chão, onde vendem o gelo que produzem diariamente.",
+        "data_lancamento": "2023-02-16",
+        "link": "https://www.themoviedb.org/movie/965171"
+      },
+      {
         "id": 1081789,
         "titulo": "The Weeknd: Ao Vivo do SoFi Stadium",
         "nota": 7.8,
@@ -10813,15 +10822,6 @@
         "resumo": "O superastro canadense The Weeknd em performance histórica direto do SoFi Stadium, Los Angeles.",
         "data_lancamento": "2023-02-25",
         "link": "https://www.themoviedb.org/movie/1081789"
-      },
-      {
-        "id": 965171,
-        "titulo": "Ice Merchants",
-        "nota": 7.7,
-        "poster": "https://image.tmdb.org/t/p/w300/uDoiGF4KqyNglxaIJlRWdFQ4WJT.jpg",
-        "resumo": "Todos os dias, um pai e seu filho saltam de paraquedas de sua casa vertiginosa e fria, presa a um penhasco, para irem a uma distante aldeia no chão, onde vendem o gelo que produzem diariamente.",
-        "data_lancamento": "2023-02-16",
-        "link": "https://www.themoviedb.org/movie/965171"
       },
       {
         "id": 887870,
@@ -10923,16 +10923,16 @@
         "link": "https://www.themoviedb.org/movie/892504"
       },
       {
-        "id": 1073125,
-        "titulo": "Em Seus Sonhos",
+        "id": 958279,
+        "titulo": "O Cafetã Azul",
         "nota": 7.3,
-        "poster": "https://image.tmdb.org/t/p/w300/vdxN87J2SdCkeGt2WuF6xSV4ElO.jpg",
-        "resumo": "Você conhece a sensação. Parece que o tempo desacelera quando seus olhos se encontram com os de um estranho. E, quando passam um pelo outro, nenhum dos dois olha para trás. Foi o que aconteceu com Pelin e Engin. De repente, eles acordam na mesma cama. E prepare-se para essa: como um casal casado! Deve ser só um sonho. Não, um pesadelo. Mas agora, para acordar, eles precisam se apaixonar.",
-        "data_lancamento": "2023-02-03",
-        "link": "https://www.themoviedb.org/movie/1073125"
+        "poster": "https://image.tmdb.org/t/p/w300/jQucnjbFiil5n9ZbDXOkANEYUCq.jpg",
+        "resumo": "Halim é casado há muito tempo com Mina, com quem dirige uma loja tradicional de cafetãs na medina (cidade velha) de Salé, Marrocos.  O casal sempre conviveu com o segredo de Halim – sua homossexualidade – sobre o qual ele aprendeu a ficar calado.  No entanto, a doença de Mina e a chegada de um jovem aprendiz perturbam esse equilíbrio.  Unidos em seu amor, cada um ajudará o outro a enfrentar seus medos.",
+        "data_lancamento": "2023-02-10",
+        "link": "https://www.themoviedb.org/movie/958279"
       }
     ],
-    "timestamp": 1775022559.155452
+    "timestamp": 1776232385.759017
   },
   "2-2019": {
     "filmes": [
@@ -18042,7 +18042,7 @@
       {
         "id": 1326106,
         "titulo": "Kaiju No. 8: Missão de Reconhecimento",
-        "nota": 7.9,
+        "nota": 8.0,
         "poster": "https://image.tmdb.org/t/p/w300/5xFbaAZIprcOD1iBP7vlQ08OM7c.jpg",
         "resumo": "O filme Kaiju No. 8: Missão de Reconhecimento apresenta uma recapitulação da primeira temporada, seguido por um episódio especial original intitulado A Folga de Hoshina.",
         "data_lancamento": "2025-03-28",
@@ -18112,6 +18112,15 @@
         "link": "https://www.themoviedb.org/movie/1411865"
       },
       {
+        "id": 1049082,
+        "titulo": "Jumbo: Um Coração Gigante",
+        "nota": 7.7,
+        "poster": "https://image.tmdb.org/t/p/w300/g4Xew5ghnOBKoPyX2M4qh8jtuyn.jpg",
+        "resumo": "Um menino acima do peso chamado Jumbo conhece um espírito que precisa de ajuda para reunir uma família marcada por conflitos. Juntos, eles vivem uma jornada sensível e fantástica que transforma medo em coragem e amizade.",
+        "data_lancamento": "2025-03-31",
+        "link": "https://www.themoviedb.org/movie/1049082"
+      },
+      {
         "id": 1314750,
         "titulo": "Oeste Outra Vez",
         "nota": 7.6,
@@ -18139,15 +18148,6 @@
         "link": "https://www.themoviedb.org/movie/1379520"
       },
       {
-        "id": 1424217,
-        "titulo": "Julgamento: O Estado Contra Um Homem Comum",
-        "nota": 7.6,
-        "poster": "https://image.tmdb.org/t/p/w300/5Ptu1NCrqx5ZOaLKxwQ0nRjkiJc.jpg",
-        "resumo": "Um advogado obstinado combate um sistema judiciário corrupto para defender um homem cujo relacionamento com uma jovem de 17 anos provoca a fúria da família.",
-        "data_lancamento": "2025-03-14",
-        "link": "https://www.themoviedb.org/movie/1424217"
-      },
-      {
         "id": 964875,
         "titulo": "Le Garçon",
         "nota": 7.5,
@@ -18157,13 +18157,22 @@
         "link": "https://www.themoviedb.org/movie/964875"
       },
       {
-        "id": 1049082,
-        "titulo": "Jumbo: Um Coração Gigante",
+        "id": 1433499,
+        "titulo": "What They Found",
         "nota": 7.5,
-        "poster": "https://image.tmdb.org/t/p/w300/g4Xew5ghnOBKoPyX2M4qh8jtuyn.jpg",
-        "resumo": "Um menino acima do peso chamado Jumbo conhece um espírito que precisa de ajuda para reunir uma família marcada por conflitos. Juntos, eles vivem uma jornada sensível e fantástica que transforma medo em coragem e amizade.",
-        "data_lancamento": "2025-03-31",
-        "link": "https://www.themoviedb.org/movie/1049082"
+        "poster": "https://image.tmdb.org/t/p/w300/rFTkgfukjkVlYZvqRYcllKix2Xr.jpg",
+        "resumo": "",
+        "data_lancamento": "2025-03-26",
+        "link": "https://www.themoviedb.org/movie/1433499"
+      },
+      {
+        "id": 1424217,
+        "titulo": "Julgamento: O Estado Contra Um Homem Comum",
+        "nota": 7.5,
+        "poster": "https://image.tmdb.org/t/p/w300/5Ptu1NCrqx5ZOaLKxwQ0nRjkiJc.jpg",
+        "resumo": "Um advogado obstinado combate um sistema judiciário corrupto para defender um homem cujo relacionamento com uma jovem de 17 anos provoca a fúria da família.",
+        "data_lancamento": "2025-03-14",
+        "link": "https://www.themoviedb.org/movie/1424217"
       },
       {
         "id": 1419826,
@@ -18177,23 +18186,14 @@
       {
         "id": 1169789,
         "titulo": "Um Pai para Lily",
-        "nota": 7.4,
+        "nota": 7.5,
         "poster": "https://image.tmdb.org/t/p/w300/mWsocTTLdQ0Wb3NN2mgmwUIx0gm.jpg",
         "resumo": "Quando a solitária Lily Trevino, de 20 e poucos anos, acidentalmente faz amizade com um estranho online que compartilha o mesmo nome de seu pai egocêntrico, o incentivo e o apoio deste novo Bob Trevino podem mudar sua vida. Inspirado em uma história real.",
         "data_lancamento": "2025-03-20",
         "link": "https://www.themoviedb.org/movie/1169789"
-      },
-      {
-        "id": 1315476,
-        "titulo": "Paradiso",
-        "nota": 7.4,
-        "poster": "https://image.tmdb.org/t/p/w300/jN5fvKt25DtWVoPTRaEQgGmmMqd.jpg",
-        "resumo": "",
-        "data_lancamento": "2025-03-15",
-        "link": "https://www.themoviedb.org/movie/1315476"
       }
     ],
-    "timestamp": 1775022557.963169
+    "timestamp": 1776232384.728729
   },
   "2-1961": {
     "filmes": [
@@ -18358,29 +18358,38 @@
       {
         "id": 1318417,
         "titulo": "La maison des femmes",
-        "nota": 8.6,
+        "nota": 8.7,
         "poster": "https://image.tmdb.org/t/p/w300/3blpQb6lMwX3VW4enxNpkX9po1c.jpg",
         "resumo": "",
         "data_lancamento": "2026-03-01",
         "link": "https://www.themoviedb.org/movie/1318417"
       },
       {
-        "id": 687163,
-        "titulo": "Devoradores de Estrelas",
-        "nota": 8.2,
-        "poster": "https://image.tmdb.org/t/p/w300/bOzG3SG6gBxHGGHYiq7xXeNb1bG.jpg",
-        "resumo": "O professor de ciências Ryland Grace acorda em uma espaçonave anos-luz de casa sem memória de quem ele é ou como chegou lá. Enquanto sua memória volta, ele começa a descobrir sua missão: desvendar o misteriosa substância que está causando a morte do Sol.",
-        "data_lancamento": "2026-03-15",
-        "link": "https://www.themoviedb.org/movie/687163"
-      },
-      {
         "id": 1628116,
         "titulo": "BTS: O Reencontro",
-        "nota": 7.9,
+        "nota": 8.4,
         "poster": "https://image.tmdb.org/t/p/w300/vfE6dI8ECv4mbctoHQF5vSpLZEX.jpg",
         "resumo": "Acompanha os sete membros após o serviço militar, reunidos em Los Angeles para compor o novo álbum ARIRANG. O documentário registra o processo criativo, reflexões sobre o amadurecimento e a pressão do retorno, destacando a camaradagem do grupo em uma fase íntima.",
         "data_lancamento": "2026-03-27",
         "link": "https://www.themoviedb.org/movie/1628116"
+      },
+      {
+        "id": 687163,
+        "titulo": "Devoradores de Estrelas",
+        "nota": 8.2,
+        "poster": "https://image.tmdb.org/t/p/w300/bOzG3SG6gBxHGGHYiq7xXeNb1bG.jpg",
+        "resumo": "O professor de ciências Ryland Grace acorda em uma espaçonave anos-luz de casa sem memória de quem ele é ou como chegou lá. Enquanto sua memória volta, ele começa a descobrir sua missão: desvendar a misteriosa substância que está causando a morte do Sol. Ele deve contar com seu conhecimento científico e ideias inesperadas pra salvar a Terra da extinção... até que uma amizade inesperada marque que ele não precisa fazer isso sozinho.",
+        "data_lancamento": "2026-03-15",
+        "link": "https://www.themoviedb.org/movie/687163"
+      },
+      {
+        "id": 1582770,
+        "titulo": "धुरंधर: द रिवेंज",
+        "nota": 7.8,
+        "poster": "https://image.tmdb.org/t/p/w300/ov8vrRLZGoXHpYjSY9Vpv1tHJX7.jpg",
+        "resumo": "",
+        "data_lancamento": "2026-03-18",
+        "link": "https://www.themoviedb.org/movie/1582770"
       },
       {
         "id": 1318335,
@@ -18401,45 +18410,54 @@
         "link": "https://www.themoviedb.org/movie/1327819"
       },
       {
-        "id": 1582770,
-        "titulo": "धुरंधर: द रिवेंज",
+        "id": 1315657,
+        "titulo": "Gelbe Briefe",
         "nota": 7.5,
-        "poster": "https://image.tmdb.org/t/p/w300/ov8vrRLZGoXHpYjSY9Vpv1tHJX7.jpg",
+        "poster": "https://image.tmdb.org/t/p/w300/taBK5pXtvKnSHY4XnlaO3jDv9FE.jpg",
         "resumo": "",
-        "data_lancamento": "2026-03-18",
-        "link": "https://www.themoviedb.org/movie/1582770"
+        "data_lancamento": "2026-03-05",
+        "link": "https://www.themoviedb.org/movie/1315657"
       },
       {
-        "id": 1266127,
-        "titulo": "Casamento Sangrento: A Viúva",
+        "id": 1088548,
+        "titulo": "Natal Amargo",
         "nota": 7.4,
-        "poster": "https://image.tmdb.org/t/p/w300/uUP8RqH8zOnFu042U50k4lENOTO.jpg",
-        "resumo": "A noiva retorna em uma nova e sinistra rodada do tradicional jogo de esconde-esconde, agora com elementos sobrenaturais e demoníacos.",
-        "data_lancamento": "2026-03-19",
-        "link": "https://www.themoviedb.org/movie/1266127"
-      },
-      {
-        "id": 1637319,
-        "titulo": "Hannah Montana: Especial de 20° Aniversário",
-        "nota": 7.4,
-        "poster": "https://image.tmdb.org/t/p/w300/v3U31jWWRCAurkJ12jmv1Axh0PZ.jpg",
-        "resumo": "Miley Cyrus retorna às origens para celebrar o 20º aniversário de Hannah Montana, a série icônica que definiu uma geração e se tornou um fenômeno da cultura pop. Este especial é uma carta de amor aos fãs, repleta de uma nostalgia emocionante. Em uma entrevista profunda e exclusiva com Alex Cooper, Miley Cyrus revê seus momentos mais memoráveis. O público também poderá conferir os bastidores da coleção pessoal de Miley, reencontrar rostos conhecidos, convidados surpresas e uma apresentação musical especial de Miley Cyrus.",
-        "data_lancamento": "2026-03-23",
-        "link": "https://www.themoviedb.org/movie/1637319"
+        "poster": "https://image.tmdb.org/t/p/w300/imfGMQkG1BP5O5bjQyWKiB0J1jA.jpg",
+        "resumo": "Elsa, uma diretora de publicidade, perde a mãe durante um longo feriado de dezembro. Para evitar o luto, ela mergulha no trabalho, até sofrer um ataque de pânico que a obriga a desacelerar. Seu companheiro Bonifacio torna-se seu apoio emocional nesse momento difícil. Em busca de alívio, Elsa viaja para Lanzarote com a amiga Patricia, enquanto Bonifacio permanece em Madri.",
+        "data_lancamento": "2026-03-20",
+        "link": "https://www.themoviedb.org/movie/1088548"
       },
       {
         "id": 1381027,
         "titulo": "Heel",
-        "nota": 7.4,
+        "nota": 7.3,
         "poster": "https://image.tmdb.org/t/p/w300/x0wD4Qxe0wulV0bxarsQ05PqDNF.jpg",
         "resumo": "Um criminoso de 19 anos, Tommy, é sequestrado e forçado a se reabilitar por um casal disfuncional, Chris e Kathryn, que tentam transformá-lo em um \"bom garoto\". Tommy deve encontrar uma maneira de escapar.",
         "data_lancamento": "2026-03-06",
         "link": "https://www.themoviedb.org/movie/1381027"
       },
       {
+        "id": 1482168,
+        "titulo": "A Origem dos Red Hot Chili Peppers: Nosso Irmão Hillel",
+        "nota": 7.3,
+        "poster": "https://image.tmdb.org/t/p/w300/5yaZn7arwlDSdiEH8aAxSArVJ0t.jpg",
+        "resumo": "Este documentário revisita os primeiros anos do Red Hot Chili Peppers e a influência decisiva do guitarrista original da banda, Hillel Slovak.",
+        "data_lancamento": "2026-03-13",
+        "link": "https://www.themoviedb.org/movie/1482168"
+      },
+      {
+        "id": 1629369,
+        "titulo": "A Tragédia de Moriah Wilson",
+        "nota": 7.2,
+        "poster": "https://image.tmdb.org/t/p/w300/mVwDPMZr6x3u2uEq9pclqbigPh2.jpg",
+        "resumo": "A ciclista Moriah Wilson parecia ter tudo: uma ética de trabalho inata e um talento explosivo para corridas profissionais de gravel, um esporte pelo qual era profundamente apaixonada; uma família extremamente amorosa que a apoiava em cada passo; amizades profundas com pessoas que compartilhavam seu amor pelo ciclismo; e um novo e empolgante relacionamento com um colega competidor. Mas, justamente quando parecia estar atingindo o auge, a vida de Moriah foi interrompida por um assassinato brutal.",
+        "data_lancamento": "2026-03-19",
+        "link": "https://www.themoviedb.org/movie/1629369"
+      },
+      {
         "id": 875828,
         "titulo": "Peaky Blinders: O Homem Imortal",
-        "nota": 7.3,
+        "nota": 7.2,
         "poster": "https://image.tmdb.org/t/p/w300/8XLNDeumvz0cXa6sntZJ6p4zfLb.jpg",
         "resumo": "Após o envolvimento do filho em um complô nazista, o gângster Tommy Shelby precisa deixar o exílio e voltar a Birmingham para salvar a família e a nação.",
         "data_lancamento": "2026-03-05",
@@ -18455,79 +18473,61 @@
         "link": "https://www.themoviedb.org/movie/1383731"
       },
       {
-        "id": 1367642,
-        "titulo": "Uma Segunda Chance",
-        "nota": 7.0,
-        "poster": "https://image.tmdb.org/t/p/w300/yC3byha23vhC2GMR139p4W42n36.jpg",
-        "resumo": "Kenna comete um erro imperdoável que a leva à prisão. Sete anos depois, ela retorna à sua cidade natal, no Wyoming, na esperança de reconstruir a vida e conquistar a chance de se reencontrar com sua filha pequena, a quem nunca conheceu.",
-        "data_lancamento": "2026-03-11",
-        "link": "https://www.themoviedb.org/movie/1367642"
+        "id": 1637319,
+        "titulo": "Hannah Montana: Especial de 20° Aniversário",
+        "nota": 7.2,
+        "poster": "https://image.tmdb.org/t/p/w300/v3U31jWWRCAurkJ12jmv1Axh0PZ.jpg",
+        "resumo": "Miley Cyrus retorna às origens para celebrar o 20º aniversário de Hannah Montana, a série icônica que definiu uma geração e se tornou um fenômeno da cultura pop. Este especial é uma carta de amor aos fãs, repleta de uma nostalgia emocionante. Em uma entrevista profunda e exclusiva com Alex Cooper, Miley Cyrus revê seus momentos mais memoráveis. O público também poderá conferir os bastidores da coleção pessoal de Miley, reencontrar rostos conhecidos, convidados surpresas e uma apresentação musical especial de Miley Cyrus.",
+        "data_lancamento": "2026-03-23",
+        "link": "https://www.themoviedb.org/movie/1637319"
       },
       {
-        "id": 1297446,
-        "titulo": "Slanted",
-        "nota": 6.9,
-        "poster": "https://image.tmdb.org/t/p/w300/cr2SfN854IlEoZQBtIfpyC0zXR5.jpg",
-        "resumo": "",
-        "data_lancamento": "2026-03-13",
-        "link": "https://www.themoviedb.org/movie/1297446"
+        "id": 1636918,
+        "titulo": "Detox de Plástico",
+        "nota": 7.1,
+        "poster": "https://image.tmdb.org/t/p/w300/q97dOzjJNNz1Kw2lWZkdEjzJttp.jpg",
+        "resumo": "Este documentário acompanha seis casais com problemas inexplicáveis de fertilidade que diminuem a exposição aos plásticos na esperança de conseguir engravidar.",
+        "data_lancamento": "2026-03-16",
+        "link": "https://www.themoviedb.org/movie/1636918"
       },
       {
         "id": 1523145,
         "titulo": "Um Amor de Mentiras",
-        "nota": 6.9,
+        "nota": 7.1,
         "poster": "https://image.tmdb.org/t/p/w300/hXNn25hE2SH2kHMPVOLjqDISSxf.jpg",
         "resumo": "Polina, uma estudante do ensino médio, é salva do bullying em sua nova escola e faz um acordo com o principal valentão, Bars: ele deve fingir ser seu namorado e protegê-la, e ela deve fazer tudo o que ele mandar. Durante esse jogo, o casal desenvolve sentimentos verdadeiros, mas sua família e colegas de classe têm motivos para separá-los.",
         "data_lancamento": "2026-03-26",
         "link": "https://www.themoviedb.org/movie/1523145"
       },
       {
-        "id": 1002109,
-        "titulo": "Police Flash 80",
-        "nota": 6.9,
-        "poster": "https://image.tmdb.org/t/p/w300/2HD9MuSt5Fk6i7uAgI3m75VATjk.jpg",
-        "resumo": "",
-        "data_lancamento": "2026-03-18",
-        "link": "https://www.themoviedb.org/movie/1002109"
-      },
-      {
-        "id": 1397373,
-        "titulo": "Cena di classe",
-        "nota": 6.8,
-        "poster": "https://image.tmdb.org/t/p/w300/tq62SABP6986u7fYJ39vnexjgFU.jpg",
-        "resumo": "",
+        "id": 1325734,
+        "titulo": "O Drama",
+        "nota": 7.1,
+        "poster": "https://image.tmdb.org/t/p/w300/tM3hbeEwJZdQAjwwt5UjFn638AY.jpg",
+        "resumo": "Profundamente apaixonados e em meio aos preparativos finais para o grande dia do casamento, o casal tem sua felicidade ameaçada quando vêm à tona segredos que jamais poderiam imaginar.",
         "data_lancamento": "2026-03-26",
-        "link": "https://www.themoviedb.org/movie/1397373"
+        "link": "https://www.themoviedb.org/movie/1325734"
       },
       {
         "id": 1561687,
         "titulo": "Made in Korea",
-        "nota": 6.8,
+        "nota": 7.1,
         "poster": "https://image.tmdb.org/t/p/w300/foEObhyAMM3dxYeBEr242EdQDB7.jpg",
         "resumo": "Shenba sonhava em morar na Coreia do Sul desde criança. Mas quando finalmente consegue, será que ela vai reconstruir a vida e seguir em frente?",
         "data_lancamento": "2026-03-12",
         "link": "https://www.themoviedb.org/movie/1561687"
       },
       {
-        "id": 1376412,
-        "titulo": "La guerre des prix",
-        "nota": 6.8,
-        "poster": "https://image.tmdb.org/t/p/w300/2JaBN5K9Q3toMRBLMiBmEhCvufW.jpg",
-        "resumo": "",
-        "data_lancamento": "2026-03-18",
-        "link": "https://www.themoviedb.org/movie/1376412"
-      },
-      {
-        "id": 1115544,
-        "titulo": "Mike & Nick & Nick & Alice",
-        "nota": 6.7,
-        "poster": "https://image.tmdb.org/t/p/w300/7F0jc75HrSkLVcvOXR2FXAIwuEv.jpg",
-        "resumo": "Uma comédia de ação hilária e estilizada, para maiores de 18 anos, sobre dois gângsteres e a mulher que eles amam, tentando sobreviver à noite mais perigosa de suas vidas. Como se isso não bastasse, tem um ingrediente inusitado na mistura: uma máquina do tempo.",
-        "data_lancamento": "2026-03-14",
-        "link": "https://www.themoviedb.org/movie/1115544"
+        "id": 1266127,
+        "titulo": "Casamento Sangrento: A Viúva",
+        "nota": 7.0,
+        "poster": "https://image.tmdb.org/t/p/w300/l08o8b3NAPxDzJca9ZF0fdQvbaz.jpg",
+        "resumo": "A noiva retorna em uma nova e sinistra rodada do tradicional jogo de esconde-esconde, agora com elementos sobrenaturais e demoníacos.",
+        "data_lancamento": "2026-03-19",
+        "link": "https://www.themoviedb.org/movie/1266127"
       }
     ],
-    "timestamp": 1775022556.727407
+    "timestamp": 1776232383.330963
   },
   "2-1968": {
     "filmes": [
@@ -18893,6 +18893,15 @@
         "link": "https://www.themoviedb.org/movie/1247227"
       },
       {
+        "id": 1246463,
+        "titulo": "Fear of the Light",
+        "nota": 8.3,
+        "poster": "https://image.tmdb.org/t/p/w300/5JE7AiwgCHtSWnYxU0pwomPfCJQ.jpg",
+        "resumo": "",
+        "data_lancamento": "2024-03-11",
+        "link": "https://www.themoviedb.org/movie/1246463"
+      },
+      {
         "id": 1205386,
         "titulo": "52ヘルツのクジラたち",
         "nota": 8.2,
@@ -18909,15 +18918,6 @@
         "resumo": "",
         "data_lancamento": "2024-03-25",
         "link": "https://www.themoviedb.org/movie/1259162"
-      },
-      {
-        "id": 1246463,
-        "titulo": "Fear of the Light",
-        "nota": 8.2,
-        "poster": "https://image.tmdb.org/t/p/w300/5JE7AiwgCHtSWnYxU0pwomPfCJQ.jpg",
-        "resumo": "",
-        "data_lancamento": "2024-03-11",
-        "link": "https://www.themoviedb.org/movie/1246463"
       },
       {
         "id": 893397,
@@ -18983,13 +18983,13 @@
         "link": "https://www.themoviedb.org/movie/1084066"
       },
       {
-        "id": 1241978,
-        "titulo": "An Easter Bloom",
+        "id": 1188258,
+        "titulo": "18 Anos Depois",
         "nota": 7.6,
-        "poster": "https://image.tmdb.org/t/p/w300/5v8UUT74F6cRO38D6I6SlvQnHOF.jpg",
-        "resumo": "",
-        "data_lancamento": "2024-03-30",
-        "link": "https://www.themoviedb.org/movie/1241978"
+        "poster": "https://image.tmdb.org/t/p/w300/rYAAusd41OrNI0n4bCOrtdwXvwn.jpg",
+        "resumo": "No fundo do poço depois de perder o emprego e a empresa que ele próprio criou, um homem de 36 anos viaja sozinho ao Japão para tentar reencontrar um amor do passado.",
+        "data_lancamento": "2024-03-14",
+        "link": "https://www.themoviedb.org/movie/1188258"
       },
       {
         "id": 1265725,
@@ -19001,25 +19001,25 @@
         "link": "https://www.themoviedb.org/movie/1265725"
       },
       {
-        "id": 1188258,
-        "titulo": "18 Anos Depois",
+        "id": 1241978,
+        "titulo": "An Easter Bloom",
         "nota": 7.5,
-        "poster": "https://image.tmdb.org/t/p/w300/rYAAusd41OrNI0n4bCOrtdwXvwn.jpg",
-        "resumo": "No fundo do poço depois de perder o emprego e a empresa que ele próprio criou, um homem de 36 anos viaja sozinho ao Japão para tentar reencontrar um amor do passado.",
-        "data_lancamento": "2024-03-14",
-        "link": "https://www.themoviedb.org/movie/1188258"
+        "poster": "https://image.tmdb.org/t/p/w300/5v8UUT74F6cRO38D6I6SlvQnHOF.jpg",
+        "resumo": "",
+        "data_lancamento": "2024-03-30",
+        "link": "https://www.themoviedb.org/movie/1241978"
       },
       {
-        "id": 765421,
-        "titulo": "Caminhos Cruzados",
-        "nota": 7.5,
-        "poster": "https://image.tmdb.org/t/p/w300/az6PaAOJo5CTO9gzqcesWX39Igu.jpg",
-        "resumo": "Lia, uma ex-professora cansada do mundo e com dificuldades financeiras, prometeu realizar o último desejo de sua irmã recém-falecida: encontrar Tekla, sua filha trans, há muito tempo perdida. Junto com o ex-vizinho e amigo de Tekla, o jovem azarado Achi, ela embarca em uma jornada emocionante e cria um vínculo improvável e involuntário enquanto eles navegam juntos pelas ruelas de Istambul em busca da jovem.",
-        "data_lancamento": "2024-03-22",
-        "link": "https://www.themoviedb.org/movie/765421"
+        "id": 1231180,
+        "titulo": "Die Herrlichkeit des Lebens",
+        "nota": 7.4,
+        "poster": "https://image.tmdb.org/t/p/w300/7pY3CHbqE2txr8XkVHuaXIvyyry.jpg",
+        "resumo": "",
+        "data_lancamento": "2024-03-14",
+        "link": "https://www.themoviedb.org/movie/1231180"
       }
     ],
-    "timestamp": 1775022557.993403
+    "timestamp": 1776232385.05832
   },
   "3-2023": {
     "filmes": [
@@ -19033,15 +19033,6 @@
         "link": "https://www.themoviedb.org/movie/1084072"
       },
       {
-        "id": 1094643,
-        "titulo": "Miley Cyrus - Endless Summer Vacation (Backyard Sessions)",
-        "nota": 8.3,
-        "poster": "https://image.tmdb.org/t/p/w300/gWYpJXngqV7MQT9QCqsQD0LZHYB.jpg",
-        "resumo": "Miley Cyrus sobe ao palco deste evento musical imperdível do Disney+, com apresentações inéditas de seu esperado oitavo álbum, \"Endeless Summer Vacation\", além do sucesso: \"The Climb\". As apresentações cinematográficas e inigualáveis dessa estrela mundial unem-se a entrevistas exclusivas em que ela reflete sobre seu novo álbum e a pessoa que é hoje.",
-        "data_lancamento": "2023-03-10",
-        "link": "https://www.themoviedb.org/movie/1094643"
-      },
-      {
         "id": 1087771,
         "titulo": "Nada que ver",
         "nota": 8.3,
@@ -19049,6 +19040,15 @@
         "resumo": "",
         "data_lancamento": "2023-03-02",
         "link": "https://www.themoviedb.org/movie/1087771"
+      },
+      {
+        "id": 1094643,
+        "titulo": "Miley Cyrus - Endless Summer Vacation (Backyard Sessions)",
+        "nota": 8.2,
+        "poster": "https://image.tmdb.org/t/p/w300/gWYpJXngqV7MQT9QCqsQD0LZHYB.jpg",
+        "resumo": "Miley Cyrus sobe ao palco deste evento musical imperdível do Disney+, com apresentações inéditas de seu esperado oitavo álbum, \"Endeless Summer Vacation\", além do sucesso: \"The Climb\". As apresentações cinematográficas e inigualáveis dessa estrela mundial unem-se a entrevistas exclusivas em que ela reflete sobre seu novo álbum e a pessoa que é hoje.",
+        "data_lancamento": "2023-03-10",
+        "link": "https://www.themoviedb.org/movie/1094643"
       },
       {
         "id": 1092336,
@@ -19069,22 +19069,22 @@
         "link": "https://www.themoviedb.org/movie/915403"
       },
       {
-        "id": 626332,
-        "titulo": "Flamin' Hot: O Sabor que Mudou a História",
-        "nota": 8.0,
-        "poster": "https://image.tmdb.org/t/p/w300/swcV0H1ODbH2Afb9ljYzzdeUyCW.jpg",
-        "resumo": "A história inspiradora de Richard Montañez, um zelador da Frito Lay que aplicou sua criação e legado Mexicano-Americano para transformar o icônico salgadinho Cheetos Super Picante em um petisco que mudou a indústria alimentícia e tornou-se um fenômeno da cultura pop global.",
-        "data_lancamento": "2023-03-11",
-        "link": "https://www.themoviedb.org/movie/626332"
-      },
-      {
         "id": 941605,
         "titulo": "Heathers: The Musical",
-        "nota": 7.9,
+        "nota": 8.0,
         "poster": "https://image.tmdb.org/t/p/w300/gpG8tPSKjZ6ozPQH9INcolhxCjZ.jpg",
         "resumo": "Veronica Sawyer faz o melhor que pode para sobreviver ao último ano enquanto lida com as belas, porém cruéis Heathers, o novo colega de escola Jason \"J.D.\" Dean e a pressão constante para se encaixar com todos os outros.",
         "data_lancamento": "2023-03-28",
         "link": "https://www.themoviedb.org/movie/941605"
+      },
+      {
+        "id": 626332,
+        "titulo": "Flamin' Hot: O Sabor que Mudou a História",
+        "nota": 7.9,
+        "poster": "https://image.tmdb.org/t/p/w300/swcV0H1ODbH2Afb9ljYzzdeUyCW.jpg",
+        "resumo": "A história inspiradora de Richard Montañez, um zelador da Frito Lay que aplicou sua criação e legado Mexicano-Americano para transformar o icônico salgadinho Cheetos Super Picante em um petisco que mudou a indústria alimentícia e tornou-se um fenômeno da cultura pop global.",
+        "data_lancamento": "2023-03-11",
+        "link": "https://www.themoviedb.org/movie/626332"
       },
       {
         "id": 1107387,
@@ -19204,7 +19204,7 @@
         "link": "https://www.themoviedb.org/movie/1030196"
       }
     ],
-    "timestamp": 1775022558.00214
+    "timestamp": 1776232384.648206
   },
   "3-2021": {
     "filmes": [
@@ -28776,7 +28776,7 @@
         "link": "https://www.themoviedb.org/movie/1262310"
       }
     ],
-    "timestamp": 1775022558.595236
+    "timestamp": 1776232385.563761
   },
   "3-1961": {
     "filmes": [
@@ -28921,16 +28921,115 @@
   "4-2026": {
     "filmes": [
       {
+        "id": 1462146,
+        "titulo": "S4: The Bob Lazar Story",
+        "nota": 8.1,
+        "poster": "https://image.tmdb.org/t/p/w300/cHWXWjUQg5mjuvQDimllZxusjD6.jpg",
+        "resumo": "",
+        "data_lancamento": "2026-04-03",
+        "link": "https://www.themoviedb.org/movie/1462146"
+      },
+      {
+        "id": 1662432,
+        "titulo": "À Procura de Harry: A Arte por Trás da Magia",
+        "nota": 7.9,
+        "poster": "https://image.tmdb.org/t/p/w300/yKsg1Q9IZmKlN6a1ykxUZf8BkGL.jpg",
+        "resumo": "Um olhar exclusivo sobre a série Harry Potter da HBO, através dos artistas e da equipe de produção que estão dando vida à amada história.",
+        "data_lancamento": "2026-04-05",
+        "link": "https://www.themoviedb.org/movie/1662432"
+      },
+      {
+        "id": 1418657,
+        "titulo": "The Yeti",
+        "nota": 6.9,
+        "poster": "https://image.tmdb.org/t/p/w300/qW22SucWPODisKufindxiI5Frxm.jpg",
+        "resumo": "",
+        "data_lancamento": "2026-04-04",
+        "link": "https://www.themoviedb.org/movie/1418657"
+      },
+      {
         "id": 1226863,
         "titulo": "Super Mario Galaxy: O Filme",
-        "nota": 7.5,
-        "poster": "https://image.tmdb.org/t/p/w300/otgXO17Saq6qrclIbGoCp7BWkpp.jpg",
+        "nota": 6.8,
+        "poster": "https://image.tmdb.org/t/p/w300/b3WeTp42eJSRuE4UZfyPCOJW4c.jpg",
         "resumo": "Depois de salvar o Reino dos Cogumelos, Mario e seus amigos se encontram em uma missão intergaláctica para deter um novo vilão ameaçador.",
         "data_lancamento": "2026-04-01",
         "link": "https://www.themoviedb.org/movie/1226863"
+      },
+      {
+        "id": 1487320,
+        "titulo": "O Último Gigante",
+        "nota": 6.8,
+        "poster": "https://image.tmdb.org/t/p/w300/rxQE2GmdabPcLQtrG0ik2MYyMu3.jpg",
+        "resumo": "Quando o pai reaparece, um guia turístico precisa lidar com antigas feridas e encarar uma decisão que vai definir o futuro dos dois.",
+        "data_lancamento": "2026-04-01",
+        "link": "https://www.themoviedb.org/movie/1487320"
+      },
+      {
+        "id": 1404604,
+        "titulo": "Compostelle",
+        "nota": 6.8,
+        "poster": "https://image.tmdb.org/t/p/w300/wK8mBBlhckZ5yp6iH0rJK4edyur.jpg",
+        "resumo": "",
+        "data_lancamento": "2026-04-01",
+        "link": "https://www.themoviedb.org/movie/1404604"
+      },
+      {
+        "id": 1620551,
+        "titulo": "Sinta a Minha Voz",
+        "nota": 6.6,
+        "poster": "https://image.tmdb.org/t/p/w300/kaXWWskVuOumpcqWdjImjvolOWu.jpg",
+        "resumo": "Uma adolescente, a única ouvinte de uma família de surdos, descobre sua voz e aprende a acreditar em si mesma através de sua paixão pelo canto.",
+        "data_lancamento": "2026-04-03",
+        "link": "https://www.themoviedb.org/movie/1620551"
+      },
+      {
+        "id": 1508701,
+        "titulo": "...che Dio perdona a tutti",
+        "nota": 6.1,
+        "poster": "https://image.tmdb.org/t/p/w300/9a8l2fGK9cPbLEvxObO3bJBYKoj.jpg",
+        "resumo": "",
+        "data_lancamento": "2026-04-02",
+        "link": "https://www.themoviedb.org/movie/1508701"
+      },
+      {
+        "id": 1290417,
+        "titulo": "Ataque Brutal",
+        "nota": 6.0,
+        "poster": "https://image.tmdb.org/t/p/w300/349RbnEbWd38iLlqzELTUppjSt2.jpg",
+        "resumo": "Em meio a um furacão devastador, uma comunidade costeira luta pela sobrevivência, assolada não apenas pelas forças destrutivas da natureza, mas também pela ameaça implacável de tubarões. Lutando contra a chuva torrencial, ruas cobertas de destroços e a escuridão avassaladora, eles precisam se unir para repelir esses predadores mortais se quiserem ter alguma chance de sobreviver à tempestade.",
+        "data_lancamento": "2026-04-10",
+        "link": "https://www.themoviedb.org/movie/1290417"
+      },
+      {
+        "id": 1641319,
+        "titulo": "O Atirador: Sem Nação",
+        "nota": 6.0,
+        "poster": "https://image.tmdb.org/t/p/w300/gGhjs14pomQA6N8parCw5Bl3qoh.jpg",
+        "resumo": "Perseguidos por mercenários, Brandon Beckett e seu lendário pai realizam um resgate impossível.",
+        "data_lancamento": "2026-04-07",
+        "link": "https://www.themoviedb.org/movie/1641319"
+      },
+      {
+        "id": 1635276,
+        "titulo": "Comer, Rezar, Ladrar",
+        "nota": 5.7,
+        "poster": "https://image.tmdb.org/t/p/w300/zzjhOgtbXePGcKuacjeDmy5t4RH.jpg",
+        "resumo": "Cinco tutores procuram a ajuda de um adestrador lendário nas montanhas para lidar com seus cães arteiros. Mas talvez não sejam os pets que precisam de treinamento.",
+        "data_lancamento": "2026-04-01",
+        "link": "https://www.themoviedb.org/movie/1635276"
+      },
+      {
+        "id": 1523067,
+        "titulo": "Scuola di seduzione",
+        "nota": 5.5,
+        "poster": "https://image.tmdb.org/t/p/w300/vQtgFAT7GALLn5LJonQMcbBMjT3.jpg",
+        "resumo": "",
+        "data_lancamento": "2026-04-01",
+        "link": "https://www.themoviedb.org/movie/1523067"
       }
     ],
-    "timestamp": 1775022557.785564
+    "timestamp": 1776232384.747699
   },
   "4-2023": {
     "filmes": [
@@ -29079,15 +29178,6 @@
         "link": "https://www.themoviedb.org/movie/1108462"
       },
       {
-        "id": 1119679,
-        "titulo": "Hijacked: Flight 73",
-        "nota": 7.5,
-        "poster": "https://image.tmdb.org/t/p/w300/90FlTwBRlhYex67Lo1b7H7rum0M.jpg",
-        "resumo": "Antes do 11 de Setembro e de Lockerbie, um ataque brutal abalou o mundo e inspirou uma nova era de terrorismo global. O sequestro do voo 73 da Pan Am em Karachi, em 1986, é uma história de terror e tragédia, mas também uma história de bravura e sobrevivência - uma história que poderia ter sido incalculavelmente pior se não fossem as ações de um grupo de comissários de bordo novatos e de um Funcionário da Pan Am no local que arriscou a vida negociando com os sequestradores. Situado numa paisagem geopolítica emocionante, este longa-metragem funciona como um thriller, com testemunhos em primeira mão de passageiros, tripulação de voo e negociadores, acompanhados por uma reconstrução dramática.",
-        "data_lancamento": "2023-04-29",
-        "link": "https://www.themoviedb.org/movie/1119679"
-      },
-      {
         "id": 851977,
         "titulo": "宇宙探索编辑部",
         "nota": 7.5,
@@ -29109,13 +29199,22 @@
         "id": 1063241,
         "titulo": "せかいのおきく",
         "nota": 7.5,
-        "poster": "https://image.tmdb.org/t/p/w300/to9kfqpN4tSQw6BdSbYy23v0hE8.jpg",
+        "poster": "https://image.tmdb.org/t/p/w300/x5GZ8LW9xZl6L9dAwpjph2t5TDK.jpg",
         "resumo": "",
         "data_lancamento": "2023-04-28",
         "link": "https://www.themoviedb.org/movie/1063241"
+      },
+      {
+        "id": 912885,
+        "titulo": "Ninguém é de Ninguém",
+        "nota": 7.5,
+        "poster": "https://image.tmdb.org/t/p/w300/wBkP0yXOywAAU9tcqgXaJJjtfqz.jpg",
+        "resumo": "Gabriela, esposa de Roberto, é chamada para trabalhar no escritório de Renato, advogado bem-sucedido casado com Gioconda. Após a vida dos casais se entrelaçarem, o quarteto passa a sofrer com mentiras, relacionamentos desgastantes e tragédias.",
+        "data_lancamento": "2023-04-20",
+        "link": "https://www.themoviedb.org/movie/912885"
       }
     ],
-    "timestamp": 1775022559.233706
+    "timestamp": 1776232386.096927
   },
   "4-2021": {
     "filmes": [
@@ -29605,11 +29704,20 @@
       {
         "id": 1013052,
         "titulo": "Você é o Universo",
-        "nota": 7.6,
+        "nota": 7.7,
         "poster": "https://image.tmdb.org/t/p/w300/yBkXBIu947ptpwzXxolwPnkImCa.jpg",
         "resumo": "Em um futuro próximo, o astronauta ucraniano Andriy Melnyk transporta lixo nuclear em um cargueiro para Calisto, a lua abandonada de Júpiter. Durante seu voo de rotina, a Terra explode, mas Andriy consegue sobreviver. Ele se torna a última pessoa no universo, até que Catherine, uma francesa, o chama de uma estação espacial distante. Andriy decide encontrá-la apesar de todos os obstáculos.",
         "data_lancamento": "2025-04-24",
         "link": "https://www.themoviedb.org/movie/1013052"
+      },
+      {
+        "id": 1500099,
+        "titulo": "Versa",
+        "nota": 7.7,
+        "poster": "https://image.tmdb.org/t/p/w300/p2zKN6Ic81C1UbLbnak4dZ2wABl.jpg",
+        "resumo": "Um jovem casal vivencia uma gama de emoções, do luto a perda, chegando à alegria plena, conforme embarca em uma etérea \"dança cósmica da vida\".",
+        "data_lancamento": "2025-04-15",
+        "link": "https://www.themoviedb.org/movie/1500099"
       },
       {
         "id": 1261125,
@@ -29649,10 +29757,10 @@
       },
       {
         "id": 1396965,
-        "titulo": "Detective Conan: Reminiscências de Um Olho Só",
+        "titulo": "Detective Conan: One-Eyed Flashback",
         "nota": 7.4,
         "poster": "https://image.tmdb.org/t/p/w300/vcqqLs6Lzh70TJF6jH4DtOwEiVI.jpg",
-        "resumo": "",
+        "resumo": "Quando um pesquisador é atacado nas montanhas Yatsugatake, Kansuke Yamato e Yui Uehara, da polícia de Nagano, investigam o caso. No entanto, a antiga lesão no olho de Kansuke volta a incomodá-lo, sugerindo que haja uma conexão sombria. Enquanto isso, um ex-colega de Kogoro é assassinado após investigar um incidente do passado envolvendo Kansuke. Ao lado de Amuro e Kazami, Conan mergulha no caso para revelar a verdade por trás de tudo.",
         "data_lancamento": "2025-04-18",
         "link": "https://www.themoviedb.org/movie/1396965"
       },
@@ -29682,18 +29790,9 @@
         "resumo": "",
         "data_lancamento": "2025-04-23",
         "link": "https://www.themoviedb.org/movie/1000110"
-      },
-      {
-        "id": 1429743,
-        "titulo": "Frozen Hot Boys",
-        "nota": 7.4,
-        "poster": "https://image.tmdb.org/t/p/w300/3ScTCGjCuGyN3PcnasJ5ji7OmaU.jpg",
-        "resumo": "Para reencontrar o pai, a professora de um centro de reabilitação juvenil convence um grupo a participar de uma competição de esculturas de neve no Japão.",
-        "data_lancamento": "2025-04-10",
-        "link": "https://www.themoviedb.org/movie/1429743"
       }
     ],
-    "timestamp": 1775022558.469837
+    "timestamp": 1776232385.517858
   },
   "4-2017": {
     "filmes": [
@@ -37503,7 +37602,7 @@
   },
   "5-2026": {
     "filmes": [],
-    "timestamp": 1775022558.660748
+    "timestamp": 1776232385.792093
   },
   "5-2022": {
     "filmes": [
@@ -37650,7 +37749,7 @@
       {
         "id": 1448497,
         "titulo": "Oceanos com David Attenborough",
-        "nota": 8.1,
+        "nota": 8.0,
         "poster": "https://image.tmdb.org/t/p/w300/rYg8CxdRkln03xiKvR2d1KGcLHj.jpg",
         "resumo": "David Attenborough usa toda sua experiência para revelar os habitats subaquáticos mais espetaculares da Terra, mostrando que vivemos a maior era de descobertas nos oceanos e ressaltando sua importância vital. Ao expor os maiores desafios dos oceanos, a mensagem de Attenborough é de esperança: a oportunidade para a recuperação da vida marinha em uma escala inédita está ao nosso alcance.",
         "data_lancamento": "2025-05-08",
@@ -37664,6 +37763,15 @@
         "resumo": "Chimo, recém-completado com 18 anos, vem de uma família humilde e solidária. Desde a infância, sofreu bullying e, mesmo hoje, trabalhando em vários empregos e sonhando em abrir seu próprio negócio, continua enfrentando seu algoz: El Rubio. Quando Chimo tem a oportunidade de se vingar, ele nunca imaginaria que o que começou como um ato de retaliação poderia se transformar em uma amizade inesperada que mudará a vida de ambos para sempre.",
         "data_lancamento": "2025-05-09",
         "link": "https://www.themoviedb.org/movie/1285406"
+      },
+      {
+        "id": 1475666,
+        "titulo": "Por trás do volante",
+        "nota": 7.6,
+        "poster": "https://image.tmdb.org/t/p/w300/dvhMN5xl8ZdkTnvCJMQVUlwD5iv.jpg",
+        "resumo": "",
+        "data_lancamento": "2025-05-05",
+        "link": "https://www.themoviedb.org/movie/1475666"
       },
       {
         "id": 1380682,
@@ -37684,24 +37792,6 @@
         "link": "https://www.themoviedb.org/movie/1433379"
       },
       {
-        "id": 1475666,
-        "titulo": "Por trás do volante",
-        "nota": 7.5,
-        "poster": "https://image.tmdb.org/t/p/w300/dvhMN5xl8ZdkTnvCJMQVUlwD5iv.jpg",
-        "resumo": "",
-        "data_lancamento": "2025-05-05",
-        "link": "https://www.themoviedb.org/movie/1475666"
-      },
-      {
-        "id": 1235304,
-        "titulo": "Cores do Tempo",
-        "nota": 7.5,
-        "poster": "https://image.tmdb.org/t/p/w300/CkLEkxysfO8LNEGhRA5WuC7KMG.jpg",
-        "resumo": "Segue a vida de primos que herdam uma antiga casa na zona rural da Normandia e seguem os passos de seus ancestrais na Paris do século XIX.",
-        "data_lancamento": "2025-05-22",
-        "link": "https://www.themoviedb.org/movie/1235304"
-      },
-      {
         "id": 1417444,
         "titulo": "The Ainsley McGregor Mysteries: A Case for the Yarn Maker",
         "nota": 7.5,
@@ -37718,6 +37808,15 @@
         "resumo": "Testemunhe imagens nunca antes vistas e a história real por trás do fenômeno John Wick – do filme independente à franquia bilionária.",
         "data_lancamento": "2025-05-08",
         "link": "https://www.themoviedb.org/movie/1472668"
+      },
+      {
+        "id": 1235304,
+        "titulo": "Cores do Tempo",
+        "nota": 7.4,
+        "poster": "https://image.tmdb.org/t/p/w300/CkLEkxysfO8LNEGhRA5WuC7KMG.jpg",
+        "resumo": "Segue a vida de primos que herdam uma antiga casa na zona rural da Normandia e seguem os passos de seus ancestrais na Paris do século XIX.",
+        "data_lancamento": "2025-05-22",
+        "link": "https://www.themoviedb.org/movie/1235304"
       },
       {
         "id": 1465476,
@@ -37756,6 +37855,15 @@
         "link": "https://www.themoviedb.org/movie/1251970"
       },
       {
+        "id": 1233361,
+        "titulo": "Papillon",
+        "nota": 7.3,
+        "poster": "https://image.tmdb.org/t/p/w300/mRD7qOCw6s6XikKvRFqL4iJieFp.jpg",
+        "resumo": "",
+        "data_lancamento": "2025-05-15",
+        "link": "https://www.themoviedb.org/movie/1233361"
+      },
+      {
         "id": 1193647,
         "titulo": "Mensagem em uma Garrafa",
         "nota": 7.2,
@@ -37765,25 +37873,16 @@
         "link": "https://www.themoviedb.org/movie/1193647"
       },
       {
-        "id": 1482168,
-        "titulo": "A Origem dos Red Hot Chili Peppers: Nosso Irmão Hillel",
+        "id": 552524,
+        "titulo": "Lilo & Stitch",
         "nota": 7.2,
-        "poster": "https://image.tmdb.org/t/p/w300/5yaZn7arwlDSdiEH8aAxSArVJ0t.jpg",
-        "resumo": "Este documentário revisita os primeiros anos do Red Hot Chili Peppers e a influência decisiva do guitarrista original da banda, Hillel Slovak.",
-        "data_lancamento": "2025-05-21",
-        "link": "https://www.themoviedb.org/movie/1482168"
-      },
-      {
-        "id": 1233361,
-        "titulo": "Papillon",
-        "nota": 7.2,
-        "poster": "https://image.tmdb.org/t/p/w300/mRD7qOCw6s6XikKvRFqL4iJieFp.jpg",
-        "resumo": "",
-        "data_lancamento": "2025-05-15",
-        "link": "https://www.themoviedb.org/movie/1233361"
+        "poster": "https://image.tmdb.org/t/p/w300/m58Oxr3OZZbP2kTX2tj8TiAMLSv.jpg",
+        "resumo": "Stitch, um alienígena, chega ao planeta Terra após fugir de sua prisão e tenta se passar por um cachorro para se camuflar. As coisas mudam quando Lilo, uma travessa menina, o adota de um abrigo de animais. Juntos, eles aprendem os valores da amizade e família.",
+        "data_lancamento": "2025-05-17",
+        "link": "https://www.themoviedb.org/movie/552524"
       }
     ],
-    "timestamp": 1775022560.093119
+    "timestamp": 1776232386.833059
   },
   "5-2024": {
     "filmes": [
@@ -37968,7 +38067,7 @@
         "link": "https://www.themoviedb.org/movie/1214266"
       }
     ],
-    "timestamp": 1775022559.697393
+    "timestamp": 1776232386.432654
   },
   "5-2021": {
     "filmes": [
@@ -38237,18 +38336,9 @@
         "resumo": "",
         "data_lancamento": "2023-05-10",
         "link": "https://www.themoviedb.org/movie/1096905"
-      },
-      {
-        "id": 1122688,
-        "titulo": "The Getback",
-        "nota": 7.2,
-        "poster": "https://image.tmdb.org/t/p/w300/rFz0Pf7XhPPXZptfJvpPuJk9N.jpg",
-        "resumo": "",
-        "data_lancamento": "2023-05-19",
-        "link": "https://www.themoviedb.org/movie/1122688"
       }
     ],
-    "timestamp": 1775022560.180723
+    "timestamp": 1776232387.200874
   },
   "5-2018": {
     "filmes": [
@@ -45593,7 +45683,7 @@
   },
   "6-2026": {
     "filmes": [],
-    "timestamp": 1775022559.260112
+    "timestamp": 1776232386.527355
   },
   "5-1962": {
     "filmes": [
@@ -45925,7 +46015,7 @@
       {
         "id": 1359607,
         "titulo": "Miss Kobayashi's Dragon Maid: A Lonely Dragon Wants to Be Loved",
-        "nota": 8.2,
+        "nota": 8.0,
         "poster": "https://image.tmdb.org/t/p/w300/udnoedTfNkI01LEZYmU50HJKy2R.jpg",
         "resumo": "Quando o pai de Kanna retorna para levá-la ao Mundo dos Dragões em face de uma guerra iminente, ela fica dividida entre seu dever e seus amigos, enquanto uma força oculta ameaça destruir os dois mundos.",
         "data_lancamento": "2025-06-27",
@@ -45959,13 +46049,13 @@
         "link": "https://www.themoviedb.org/movie/682012"
       },
       {
-        "id": 568770,
-        "titulo": "La Exorcista",
+        "id": 1379266,
+        "titulo": "Kokuho: O Preço da Perfeição",
         "nota": 7.9,
-        "poster": "https://image.tmdb.org/t/p/w300/nEzENTKWOjV0xMln9jlrnYNuRuv.jpg",
-        "resumo": "",
-        "data_lancamento": "2025-06-05",
-        "link": "https://www.themoviedb.org/movie/568770"
+        "poster": "https://image.tmdb.org/t/p/w300/vXGU5Wu6RCbmuVglUODeOEOKTgl.jpg",
+        "resumo": "Nagasaki, 1964. Após a morte de seu pai, líder de uma gangue da yakuza, o jovem Kikuo, de 14 anos, é acolhido por um famoso ator de Kabuki. Ao lado de Shunsuke, o único filho do ator, ele decide se dedicar a essa tradicional forma de teatro. Ao longo das décadas, os dois jovens crescem e evoluem juntos, da escola de atuação aos palcos mais grandiosos. Em meio a escândalos e glórias, irmandade e traições, um deles se tornará o maior mestre japonês da arte do Kabuki.",
+        "data_lancamento": "2025-06-06",
+        "link": "https://www.themoviedb.org/movie/1379266"
       },
       {
         "id": 1087192,
@@ -45977,15 +46067,6 @@
         "link": "https://www.themoviedb.org/movie/1087192"
       },
       {
-        "id": 1379266,
-        "titulo": "Kokuho: O Preço da Perfeição",
-        "nota": 7.9,
-        "poster": "https://image.tmdb.org/t/p/w300/vXGU5Wu6RCbmuVglUODeOEOKTgl.jpg",
-        "resumo": "Nagasaki, 1964. Após a morte de seu pai, líder de uma gangue da yakuza, o jovem Kikuo, de 14 anos, é acolhido por um famoso ator de Kabuki. Ao lado de Shunsuke, o único filho do ator, ele decide se dedicar a essa tradicional forma de teatro. Ao longo das décadas, os dois jovens crescem e evoluem juntos, da escola de atuação aos palcos mais grandiosos. Em meio a escândalos e glórias, irmandade e traições, um deles se tornará o maior mestre japonês da arte do Kabuki.",
-        "data_lancamento": "2025-06-06",
-        "link": "https://www.themoviedb.org/movie/1379266"
-      },
-      {
         "id": 1474048,
         "titulo": "LUPIN THE IIIRD 銭形と2人のルパン",
         "nota": 7.9,
@@ -45995,15 +46076,6 @@
         "link": "https://www.themoviedb.org/movie/1474048"
       },
       {
-        "id": 1395140,
-        "titulo": "LUPIN THE IIIRD THE MOVIE 不死身の血族",
-        "nota": 7.9,
-        "poster": "https://image.tmdb.org/t/p/w300/b2MPK6pGFrdNHG41CyzY0z03bBQ.jpg",
-        "resumo": "",
-        "data_lancamento": "2025-06-27",
-        "link": "https://www.themoviedb.org/movie/1395140"
-      },
-      {
         "id": 1327872,
         "titulo": "Frozen: O Musical",
         "nota": 7.8,
@@ -46011,6 +46083,15 @@
         "resumo": "Vivencie a história que você conhece e ama como nunca antes. \"Frozen: O Musical\" da Disney traz a magia, a música e o encanto do filme de sucesso para o palco, com surpresas emocionantes e efeitos especiais surpreendentes. Curta doze novas canções escritas especialmente para o musical ao lado de clássicos, como \"Uma Vez na Eternidade\", \"Quer Brincar na Neve?\" e \"Livre Estou.\"",
         "data_lancamento": "2025-06-20",
         "link": "https://www.themoviedb.org/movie/1327872"
+      },
+      {
+        "id": 1395140,
+        "titulo": "LUPIN THE IIIRD THE MOVIE 不死身の血族",
+        "nota": 7.8,
+        "poster": "https://image.tmdb.org/t/p/w300/b2MPK6pGFrdNHG41CyzY0z03bBQ.jpg",
+        "resumo": "",
+        "data_lancamento": "2025-06-27",
+        "link": "https://www.themoviedb.org/movie/1395140"
       },
       {
         "id": 1376434,
@@ -46040,6 +46121,15 @@
         "link": "https://www.themoviedb.org/movie/1238307"
       },
       {
+        "id": 1404791,
+        "titulo": "Dollhouse",
+        "nota": 7.7,
+        "poster": "https://image.tmdb.org/t/p/w300/aap4OXDMOScEgoxXqXRvTaWkSiW.jpg",
+        "resumo": "Yoshie e Tadahiko são casados e tinham uma filha de 5 anos, Mei, que faleceu. Devastada pela perda, Yoshie mergulha em um espiral de desespero. Certo dia, em um mercado de antiguidades, ela encontra uma boneca semelhante a Mei e decide comprá-la.",
+        "data_lancamento": "2025-06-13",
+        "link": "https://www.themoviedb.org/movie/1404791"
+      },
+      {
         "id": 1426776,
         "titulo": "Até a Última Gota",
         "nota": 7.7,
@@ -46049,13 +46139,13 @@
         "link": "https://www.themoviedb.org/movie/1426776"
       },
       {
-        "id": 1404791,
-        "titulo": "Dollhouse",
-        "nota": 7.7,
-        "poster": "https://image.tmdb.org/t/p/w300/aap4OXDMOScEgoxXqXRvTaWkSiW.jpg",
-        "resumo": "Yoshie e Tadahiko são casados e tinham uma filha de 5 anos, Mei, que faleceu. Devastada pela perda, Yoshie mergulha em um espiral de desespero. Certo dia, em um mercado de antiguidades, ela encontra uma boneca semelhante a Mei e decide comprá-la.",
-        "data_lancamento": "2025-06-13",
-        "link": "https://www.themoviedb.org/movie/1404791"
+        "id": 1393017,
+        "titulo": "Miley Cyrus: Something Beautiful",
+        "nota": 7.6,
+        "poster": "https://image.tmdb.org/t/p/w300/lBfKLrCJh1Ko2eZiKa8rLQV9A9E.jpg",
+        "resumo": "\"Something Beautiful\" é uma ópera pop única envolvida pela fantasia, apresentando treze músicas originais e inéditas do álbum visual \"Something Beautiful\", de Miley Cyrus.",
+        "data_lancamento": "2025-06-12",
+        "link": "https://www.themoviedb.org/movie/1393017"
       },
       {
         "id": 1474450,
@@ -46067,7 +46157,7 @@
         "link": "https://www.themoviedb.org/movie/1474450"
       }
     ],
-    "timestamp": 1775022559.448726
+    "timestamp": 1776232386.53199
   },
   "6-2024": {
     "filmes": [
@@ -46209,7 +46299,7 @@
       {
         "id": 929563,
         "titulo": "Os Vizinhos Green: O Filme – Ferispaço",
-        "nota": 7.7,
+        "nota": 7.8,
         "poster": "https://image.tmdb.org/t/p/w300/Anymw1udcCIdBstKbxMp77cwFyy.jpg",
         "resumo": "Em busca de aventuras, Cricket Green faz sua família colocar o \"pé na estrada\" rumo ao espaço sideral e acaba colocando em risco todos os habitantes da Cidade Grande.",
         "data_lancamento": "2024-06-06",
@@ -46252,7 +46342,7 @@
         "link": "https://www.themoviedb.org/movie/1219439"
       }
     ],
-    "timestamp": 1775022559.590717
+    "timestamp": 1776232386.625238
   },
   "5-1964": {
     "filmes": [
@@ -46948,15 +47038,6 @@
         "link": "https://www.themoviedb.org/movie/1144146"
       },
       {
-        "id": 1050035,
-        "titulo": "Monster",
-        "nota": 7.9,
-        "poster": "https://image.tmdb.org/t/p/w300/mkQDVmNaOn81Kny7XLJUAi1agbH.jpg",
-        "resumo": "Uma mãe sente que há algo errado quando seu filho começa a se comportar de maneira estranha. Ao descobrir que um professor é o responsável, ela vai até a escola exigindo saber o que está acontecendo. Enquanto o caso se desenrola pelos olhos da mãe, do professor e da criança, a verdade começa a surgir.",
-        "data_lancamento": "2023-06-02",
-        "link": "https://www.themoviedb.org/movie/1050035"
-      },
-      {
         "id": 1033557,
         "titulo": "Amor Verdadeiro",
         "nota": 7.9,
@@ -46973,6 +47054,15 @@
         "resumo": "Depois de perdas devastadoras, Sailor Moon resiste em sua batalha contra a Shadow Galactica. Será que o desespero vai falar mais alto ou ela encontrará luz na escuridão?",
         "data_lancamento": "2023-06-30",
         "link": "https://www.themoviedb.org/movie/968870"
+      },
+      {
+        "id": 1050035,
+        "titulo": "Monster",
+        "nota": 7.9,
+        "poster": "https://image.tmdb.org/t/p/w300/mkQDVmNaOn81Kny7XLJUAi1agbH.jpg",
+        "resumo": "Uma mãe sente que há algo errado quando seu filho começa a se comportar de maneira estranha. Ao descobrir que um professor é o responsável, ela vai até a escola exigindo saber o que está acontecendo. Enquanto o caso se desenrola pelos olhos da mãe, do professor e da criança, a verdade começa a surgir.",
+        "data_lancamento": "2023-06-02",
+        "link": "https://www.themoviedb.org/movie/1050035"
       },
       {
         "id": 961323,
@@ -47029,6 +47119,15 @@
         "link": "https://www.themoviedb.org/movie/1114901"
       },
       {
+        "id": 1056803,
+        "titulo": "Rascal Does Not Dream of a Sister Venturing Out",
+        "nota": 7.7,
+        "poster": "https://image.tmdb.org/t/p/w300/paTSxRphNiIhi25g2v290FtpX22.jpg",
+        "resumo": "Depois de um dezembro exaustivo, Sakuta está rapidamente se aproximando do final do segundo ano do ensino médio. Como Mai é uma estudante do terceiro ano, eles não têm muito tempo juntos antes da formatura. Enquanto isso, sua irmã, Kaede, está se aventurando lenta mas continuamente ao ar livre novamente. Assim que ela começa a se firmar, ela anuncia seu objetivo mais ambicioso até então: cursar o ensino médio de seu irmão! Sakuta sabe melhor do que ninguém o quão difícil isso será para Kaede e está pronto para apoiá-la como puder. Ele só não tem certeza se isso é o melhor para ela... ou o que ela realmente quer...",
+        "data_lancamento": "2023-06-23",
+        "link": "https://www.themoviedb.org/movie/1056803"
+      },
+      {
         "id": 978415,
         "titulo": "Los agitadores",
         "nota": 7.6,
@@ -47036,15 +47135,6 @@
         "resumo": "",
         "data_lancamento": "2023-06-01",
         "link": "https://www.themoviedb.org/movie/978415"
-      },
-      {
-        "id": 1056803,
-        "titulo": "Rascal Does Not Dream of a Sister Venturing Out",
-        "nota": 7.6,
-        "poster": "https://image.tmdb.org/t/p/w300/paTSxRphNiIhi25g2v290FtpX22.jpg",
-        "resumo": "Depois de um dezembro exaustivo, Sakuta está rapidamente se aproximando do final do segundo ano do ensino médio. Como Mai é uma estudante do terceiro ano, eles não têm muito tempo juntos antes da formatura. Enquanto isso, sua irmã, Kaede, está se aventurando lenta mas continuamente ao ar livre novamente. Assim que ela começa a se firmar, ela anuncia seu objetivo mais ambicioso até então: cursar o ensino médio de seu irmão! Sakuta sabe melhor do que ninguém o quão difícil isso será para Kaede e está pronto para apoiá-la como puder. Ele só não tem certeza se isso é o melhor para ela... ou o que ela realmente quer...",
-        "data_lancamento": "2023-06-23",
-        "link": "https://www.themoviedb.org/movie/1056803"
       },
       {
         "id": 976573,
@@ -47074,7 +47164,7 @@
         "link": "https://www.themoviedb.org/movie/1084660"
       }
     ],
-    "timestamp": 1775022559.897385
+    "timestamp": 1776232386.97952
   },
   "6-2018": {
     "filmes": [
@@ -54906,15 +54996,6 @@
         "link": "https://www.themoviedb.org/movie/1113085"
       },
       {
-        "id": 1142906,
-        "titulo": "Oppenheimer: The Real Story",
-        "nota": 8.3,
-        "poster": "https://image.tmdb.org/t/p/w300/ecYTEmn3JBZyWbqwzjmBFfGvi3U.jpg",
-        "resumo": "",
-        "data_lancamento": "2023-07-17",
-        "link": "https://www.themoviedb.org/movie/1142906"
-      },
-      {
         "id": 1062372,
         "titulo": "SAND LAND",
         "nota": 8.2,
@@ -54924,13 +55005,13 @@
         "link": "https://www.themoviedb.org/movie/1062372"
       },
       {
-        "id": 1153291,
-        "titulo": "Llamada privada",
-        "nota": 8.0,
-        "poster": "https://image.tmdb.org/t/p/w300/tUjSG0q3NghJ1UT9KzDUq3EyjJk.jpg",
+        "id": 1142906,
+        "titulo": "Oppenheimer: The Real Story",
+        "nota": 8.1,
+        "poster": "https://image.tmdb.org/t/p/w300/ecYTEmn3JBZyWbqwzjmBFfGvi3U.jpg",
         "resumo": "",
-        "data_lancamento": "2023-07-11",
-        "link": "https://www.themoviedb.org/movie/1153291"
+        "data_lancamento": "2023-07-17",
+        "link": "https://www.themoviedb.org/movie/1142906"
       },
       {
         "id": 1058616,
@@ -54940,6 +55021,15 @@
         "resumo": "Quando a invasão russa começa, jornalistas ucranianos presos na cidade de Mariupol lutam para continuar documentando as atrocidades da guerra.",
         "data_lancamento": "2023-07-14",
         "link": "https://www.themoviedb.org/movie/1058616"
+      },
+      {
+        "id": 1153291,
+        "titulo": "Llamada privada",
+        "nota": 8.0,
+        "poster": "https://image.tmdb.org/t/p/w300/tUjSG0q3NghJ1UT9KzDUq3EyjJk.jpg",
+        "resumo": "",
+        "data_lancamento": "2023-07-11",
+        "link": "https://www.themoviedb.org/movie/1153291"
       },
       {
         "id": 872585,
@@ -55014,11 +55104,11 @@
         "link": "https://www.themoviedb.org/movie/1148969"
       }
     ],
-    "timestamp": 1775022560.041054
+    "timestamp": 1776232387.098757
   },
   "7-2026": {
     "filmes": [],
-    "timestamp": 1775022559.94057
+    "timestamp": 1776232386.794618
   },
   "6-1960": {
     "filmes": [
@@ -55359,7 +55449,7 @@
       {
         "id": 1188843,
         "titulo": "Le syndrome de l'été sans fin",
-        "nota": 7.8,
+        "nota": 7.6,
         "poster": "https://image.tmdb.org/t/p/w300/g3iOrAJudrfoUaWgAtglU4GaupZ.jpg",
         "resumo": "",
         "data_lancamento": "2024-07-11",
@@ -55393,15 +55483,6 @@
         "link": "https://www.themoviedb.org/movie/1240475"
       },
       {
-        "id": 1317357,
-        "titulo": "Fary : Aime-moi si tu peux",
-        "nota": 7.5,
-        "poster": "https://image.tmdb.org/t/p/w300/rhu6lSxXfRxmsKVQacUDNzbOfg9.jpg",
-        "resumo": "",
-        "data_lancamento": "2024-07-20",
-        "link": "https://www.themoviedb.org/movie/1317357"
-      },
-      {
         "id": 1294931,
         "titulo": "Entra En Mi Vida",
         "nota": 7.5,
@@ -55409,6 +55490,15 @@
         "resumo": "Após uma série de decepções românticas e profissionais, Eugenia decide se tornar uma influenciadora para dar um novo rumo à sua vida",
         "data_lancamento": "2024-07-11",
         "link": "https://www.themoviedb.org/movie/1294931"
+      },
+      {
+        "id": 965094,
+        "titulo": "파일럿",
+        "nota": 7.4,
+        "poster": "https://image.tmdb.org/t/p/w300/i0QIYEuY8BabwAHEFL0LkUsXCrZ.jpg",
+        "resumo": "",
+        "data_lancamento": "2024-07-31",
+        "link": "https://www.themoviedb.org/movie/965094"
       },
       {
         "id": 1155828,
@@ -55420,13 +55510,13 @@
         "link": "https://www.themoviedb.org/movie/1155828"
       },
       {
-        "id": 965094,
-        "titulo": "파일럿",
+        "id": 1317357,
+        "titulo": "Fary : Aime-moi si tu peux",
         "nota": 7.4,
-        "poster": "https://image.tmdb.org/t/p/w300/i0QIYEuY8BabwAHEFL0LkUsXCrZ.jpg",
+        "poster": "https://image.tmdb.org/t/p/w300/rhu6lSxXfRxmsKVQacUDNzbOfg9.jpg",
         "resumo": "",
-        "data_lancamento": "2024-07-31",
-        "link": "https://www.themoviedb.org/movie/965094"
+        "data_lancamento": "2024-07-20",
+        "link": "https://www.themoviedb.org/movie/1317357"
       },
       {
         "id": 1274238,
@@ -55474,15 +55564,6 @@
         "link": "https://www.themoviedb.org/movie/921436"
       },
       {
-        "id": 1209290,
-        "titulo": "Liga da Justiça: Crise nas Infinitas Terras - Parte Três",
-        "nota": 7.2,
-        "poster": "https://image.tmdb.org/t/p/w300/xwmo4ZGTyGe82LL6E2yoCmf5OVv.jpg",
-        "resumo": "Após se revelar como a derradeira ameaça à existência, o ANTIMONITOR lança um ataque implacável às Terras que ainda lutam pela sobrevivência em um universo de bolso. Um por um, esses mundos e todos os seus habitantes são vaporizados! Até o próprio tempo é destruído nos planetas restantes, e heróis do passado juntam-se à Liga da Justiça e a aliados inusitados na resistência contra o ser nefasto. Mas será que o sacrifício dos super-heróis nessa batalha final será o suficiente para salvar a humanidade?",
-        "data_lancamento": "2024-07-15",
-        "link": "https://www.themoviedb.org/movie/1209290"
-      },
-      {
         "id": 1214488,
         "titulo": "Skywalkers: Uma História de Amor",
         "nota": 7.2,
@@ -55490,9 +55571,18 @@
         "resumo": "Colocando à prova os limites do amor e da confiança, um casal decide escalar um dos prédios mais altos do mundo para fazer uma acrobacia.",
         "data_lancamento": "2024-07-12",
         "link": "https://www.themoviedb.org/movie/1214488"
+      },
+      {
+        "id": 1281998,
+        "titulo": "Who is that girl?",
+        "nota": 7.2,
+        "poster": "https://image.tmdb.org/t/p/w300/yUIWd0eJJMtWi8oXJXI35mQA3lz.jpg",
+        "resumo": "Durante o período de férias de verão, a professora temporária Honoka Kimijima está encarregada de uma aula suplementar. Um dia, uma aluna de repente pula do telhado da escola e morre na frente de Honoka Kimijima. Então ela percebe um aluno misterioso que não deveria estar lá.",
+        "data_lancamento": "2024-07-19",
+        "link": "https://www.themoviedb.org/movie/1281998"
       }
     ],
-    "timestamp": 1775022561.662659
+    "timestamp": 1776232388.420944
   },
   "7-2025": {
     "filmes": [
@@ -55560,15 +55650,6 @@
         "link": "https://www.themoviedb.org/movie/1236197"
       },
       {
-        "id": 1175942,
-        "titulo": "Os Caras Malvados 2",
-        "nota": 7.7,
-        "poster": "https://image.tmdb.org/t/p/w300/dbpNAldCtWjotI4vEiphPrz8DJh.jpg",
-        "resumo": "Os agora reformados Bad Guys estão tentando (muito, muito mesmo) ser bons, mas em vez disso se veem sequestrados para um assalto de alto risco e alcance mundial, arquitetado por uma nova equipe de criminosos que eles nunca imaginaram: as Bad Girls.",
-        "data_lancamento": "2025-07-24",
-        "link": "https://www.themoviedb.org/movie/1175942"
-      },
-      {
         "id": 1311031,
         "titulo": "Demon Slayer: Kimetsu no Yaiba Castelo Infinito",
         "nota": 7.7,
@@ -55576,6 +55657,15 @@
         "resumo": "Enquanto os membros dos caçadores e os Hashira participavam de um rigoroso programa de fortalecimento coletivo, conhecido como Treinamento dos Hashira, em preparação para a batalha final contra os demônios, Muzan Kibutsuji aparece na Mansão Ubuyashiki. Com a vida do líder da organização em risco, Tanjiro e os Hashira correm até o quartel-general, mas acabam sendo lançados, pelas mãos de Muzan, em uma queda profunda rumo a um espaço misterioso para um confronto final, o Castelo Infinito.",
         "data_lancamento": "2025-07-18",
         "link": "https://www.themoviedb.org/movie/1311031"
+      },
+      {
+        "id": 1175942,
+        "titulo": "Os Caras Malvados 2",
+        "nota": 7.7,
+        "poster": "https://image.tmdb.org/t/p/w300/dbpNAldCtWjotI4vEiphPrz8DJh.jpg",
+        "resumo": "Os agora reformados Bad Guys estão tentando (muito, muito mesmo) ser bons, mas em vez disso se veem sequestrados para um assalto de alto risco e alcance mundial, arquitetado por uma nova equipe de criminosos que eles nunca imaginaram: as Bad Girls.",
+        "data_lancamento": "2025-07-24",
+        "link": "https://www.themoviedb.org/movie/1175942"
       },
       {
         "id": 1385536,
@@ -55596,15 +55686,6 @@
         "link": "https://www.themoviedb.org/movie/1320400"
       },
       {
-        "id": 1481390,
-        "titulo": "聊斋：兰若寺",
-        "nota": 7.5,
-        "poster": "https://image.tmdb.org/t/p/w300/z1CNbHQe9LBIo8LfaLxLhhZ13ry.jpg",
-        "resumo": "",
-        "data_lancamento": "2025-07-12",
-        "link": "https://www.themoviedb.org/movie/1481390"
-      },
-      {
         "id": 1383072,
         "titulo": "Mahavatar Narsimha",
         "nota": 7.5,
@@ -55612,6 +55693,15 @@
         "resumo": "Acreditando ser invencível, um demônio jura vingança contra o Senhor Vishnu pela morte de seu irmão, mas seu filho devoto se coloca em seu caminho.",
         "data_lancamento": "2025-07-25",
         "link": "https://www.themoviedb.org/movie/1383072"
+      },
+      {
+        "id": 1481390,
+        "titulo": "聊斋：兰若寺",
+        "nota": 7.5,
+        "poster": "https://image.tmdb.org/t/p/w300/z1CNbHQe9LBIo8LfaLxLhhZ13ry.jpg",
+        "resumo": "",
+        "data_lancamento": "2025-07-12",
+        "link": "https://www.themoviedb.org/movie/1481390"
       },
       {
         "id": 1513656,
@@ -55623,15 +55713,6 @@
         "link": "https://www.themoviedb.org/movie/1513656"
       },
       {
-        "id": 1220564,
-        "titulo": "O Agente Secreto",
-        "nota": 7.3,
-        "poster": "https://image.tmdb.org/t/p/w300/t1DQ4XXIqTm5LvUjz8jypN43JjZ.jpg",
-        "resumo": "No Brasil de 1977, Marcelo, um especialista em tecnologia fugindo de um passado misterioso, volta ao Recife em busca de um pouco de paz, mas percebe que a cidade está longe de ser o refúgio que procura.",
-        "data_lancamento": "2025-07-23",
-        "link": "https://www.themoviedb.org/movie/1220564"
-      },
-      {
         "id": 1061474,
         "titulo": "Superman",
         "nota": 7.3,
@@ -55639,6 +55720,15 @@
         "resumo": "Superman, um jovem repórter de Metrópolis, embarca em uma jornada para reconciliar sua herança kryptoniana com sua criação humana como Clark Kent.",
         "data_lancamento": "2025-07-09",
         "link": "https://www.themoviedb.org/movie/1061474"
+      },
+      {
+        "id": 1220564,
+        "titulo": "O Agente Secreto",
+        "nota": 7.3,
+        "poster": "https://image.tmdb.org/t/p/w300/t1DQ4XXIqTm5LvUjz8jypN43JjZ.jpg",
+        "resumo": "No Brasil de 1977, Marcelo, um especialista em tecnologia fugindo de um passado misterioso, volta ao Recife em busca de um pouco de paz, mas percebe que a cidade está longe de ser o refúgio que procura.",
+        "data_lancamento": "2025-07-23",
+        "link": "https://www.themoviedb.org/movie/1220564"
       },
       {
         "id": 1503451,
@@ -55677,7 +55767,7 @@
         "link": "https://www.themoviedb.org/movie/1316147"
       }
     ],
-    "timestamp": 1775022561.351594
+    "timestamp": 1776232388.065748
   },
   "7-2022": {
     "filmes": [
@@ -61923,7 +62013,7 @@
   },
   "8-2026": {
     "filmes": [],
-    "timestamp": 1775022560.245763
+    "timestamp": 1776232387.52905
   },
   "7-1967": {
     "filmes": [
@@ -62990,31 +63080,22 @@
         "link": "https://www.themoviedb.org/movie/1441782"
       },
       {
-        "id": 1400381,
-        "titulo": "Nunca Acaba, Jeff Buckley",
-        "nota": 7.9,
-        "poster": "https://image.tmdb.org/t/p/w300/rrKe8bC6UKFKvfZHvbwA9Bq5hkR.jpg",
-        "resumo": "Um olhar íntimo sobre a vida do jovem astro em ascensão, dono de uma voz de outro mundo, uma arte inovadora, e que abalou o mundo musical dos anos 90 ao morrer repentinamente após o lançamento de seu álbum de estreia, \"Grace\". Com imagens inéditas e relatos pessoais de quem o conheceu de verdade, It's Never Over, Jeff Buckley ilumina uma das figuras mais influentes e enigmáticas da música.",
-        "data_lancamento": "2025-08-08",
-        "link": "https://www.themoviedb.org/movie/1400381"
-      },
-      {
         "id": 1304434,
         "titulo": "Nobody",
         "nota": 7.8,
-        "poster": "https://image.tmdb.org/t/p/w300/t3Rs1BeIDXhwjOt10iyjiFe7BpL.jpg",
+        "poster": "https://image.tmdb.org/t/p/w300/uqALAwsGFsrfi9wqnY5dubat0Up.jpg",
         "resumo": "O pequeno porco Yao decide deixar a montanha Langlang para se juntar à peregrinação. Na jornada para o oeste, que provações os monstrinhos enfrentarão? No final, eles conseguirão realizar seus sonhos e viver como realmente desejam?",
         "data_lancamento": "2025-08-02",
         "link": "https://www.themoviedb.org/movie/1304434"
       },
       {
-        "id": 1465563,
-        "titulo": "Um Poeta",
+        "id": 1400381,
+        "titulo": "Nunca Acaba, Jeff Buckley",
         "nota": 7.7,
-        "poster": "https://image.tmdb.org/t/p/w300/flJSGIpx5vNiNagoUO16ejwiSaI.jpg",
-        "resumo": "Oscar, escritor fracassado e alcoólatra, vaga por Medellín entre lamentos e frustrações. Ao mentorear uma talentosa aluna, encontra sua última chance de redenção.",
-        "data_lancamento": "2025-08-28",
-        "link": "https://www.themoviedb.org/movie/1465563"
+        "poster": "https://image.tmdb.org/t/p/w300/rrKe8bC6UKFKvfZHvbwA9Bq5hkR.jpg",
+        "resumo": "Um olhar íntimo sobre a vida do jovem astro em ascensão, dono de uma voz de outro mundo, uma arte inovadora, e que abalou o mundo musical dos anos 90 ao morrer repentinamente após o lançamento de seu álbum de estreia, \"Grace\". Com imagens inéditas e relatos pessoais de quem o conheceu de verdade, It's Never Over, Jeff Buckley ilumina uma das figuras mais influentes e enigmáticas da música.",
+        "data_lancamento": "2025-08-08",
+        "link": "https://www.themoviedb.org/movie/1400381"
       },
       {
         "id": 1537780,
@@ -63026,6 +63107,15 @@
         "link": "https://www.themoviedb.org/movie/1537780"
       },
       {
+        "id": 1499984,
+        "titulo": "Gladiadores",
+        "nota": 7.6,
+        "poster": "https://image.tmdb.org/t/p/w300/3kYOnF3HtMvkWvxz17omjjTnzC4.jpg",
+        "resumo": "Dois irmãos afastados entram em um torneio clandestino de combate controlado por criminosos. Sob pressão extrema e altas apostas, encaram uma escolha decisiva em uma história de sobrevivência, lealdade e enfrentamento.",
+        "data_lancamento": "2025-08-22",
+        "link": "https://www.themoviedb.org/movie/1499984"
+      },
+      {
         "id": 1124566,
         "titulo": "Valor Sentimental",
         "nota": 7.5,
@@ -63035,22 +63125,13 @@
         "link": "https://www.themoviedb.org/movie/1124566"
       },
       {
-        "id": 1499984,
-        "titulo": "Gladiadores",
-        "nota": 7.5,
-        "poster": "https://image.tmdb.org/t/p/w300/3kYOnF3HtMvkWvxz17omjjTnzC4.jpg",
-        "resumo": "Dois irmãos afastados entram em um torneio clandestino de combate controlado por criminosos. Sob pressão extrema e altas apostas, encaram uma escolha decisiva em uma história de sobrevivência, lealdade e enfrentamento.",
-        "data_lancamento": "2025-08-22",
-        "link": "https://www.themoviedb.org/movie/1499984"
-      },
-      {
-        "id": 1314784,
-        "titulo": "ഹൃദയപൂര്‍വ്വം",
-        "nota": 7.5,
-        "poster": "https://image.tmdb.org/t/p/w300/3dQQ6AX0vNfuDfWzAvilDOjVz69.jpg",
-        "resumo": "",
+        "id": 1465563,
+        "titulo": "Um Poeta",
+        "nota": 7.4,
+        "poster": "https://image.tmdb.org/t/p/w300/flJSGIpx5vNiNagoUO16ejwiSaI.jpg",
+        "resumo": "Oscar, escritor fracassado e alcoólatra, vaga por Medellín entre lamentos e frustrações. Ao mentorear uma talentosa aluna, encontra sua última chance de redenção.",
         "data_lancamento": "2025-08-28",
-        "link": "https://www.themoviedb.org/movie/1314784"
+        "link": "https://www.themoviedb.org/movie/1465563"
       },
       {
         "id": 1495723,
@@ -63071,13 +63152,13 @@
         "link": "https://www.themoviedb.org/movie/1512623"
       },
       {
-        "id": 1290190,
-        "titulo": "ലോകഃ Chapter 1: ചന്ദ്ര",
+        "id": 1537366,
+        "titulo": "Perdidos na Amazônia",
         "nota": 7.4,
-        "poster": "https://image.tmdb.org/t/p/w300/nRn6is4m5sikO1rSoCoRT2rYtXB.jpg",
-        "resumo": "",
-        "data_lancamento": "2025-08-28",
-        "link": "https://www.themoviedb.org/movie/1290190"
+        "poster": "https://image.tmdb.org/t/p/w300/nZi6TJitZjuG2imVovBubsFhQs7.jpg",
+        "resumo": "Contra todas as probabilidades, quatro irmãos indígenas colombianos, ainda crianças, sobrevivem a um acidente aéreo e conseguem resistir por 40 dias na selva colombiana numa emocionante história de sobrevivência, coragem e esperança.",
+        "data_lancamento": "2025-08-30",
+        "link": "https://www.themoviedb.org/movie/1537366"
       },
       {
         "id": 1458454,
@@ -63087,6 +63168,24 @@
         "resumo": "",
         "data_lancamento": "2025-08-17",
         "link": "https://www.themoviedb.org/movie/1458454"
+      },
+      {
+        "id": 1290190,
+        "titulo": "ലോകഃ Chapter 1: ചന്ദ്ര",
+        "nota": 7.4,
+        "poster": "https://image.tmdb.org/t/p/w300/nRn6is4m5sikO1rSoCoRT2rYtXB.jpg",
+        "resumo": "",
+        "data_lancamento": "2025-08-28",
+        "link": "https://www.themoviedb.org/movie/1290190"
+      },
+      {
+        "id": 1314784,
+        "titulo": "ഹൃദയപൂര്‍വ്വം",
+        "nota": 7.3,
+        "poster": "https://image.tmdb.org/t/p/w300/3dQQ6AX0vNfuDfWzAvilDOjVz69.jpg",
+        "resumo": "",
+        "data_lancamento": "2025-08-28",
+        "link": "https://www.themoviedb.org/movie/1314784"
       },
       {
         "id": 1303356,
@@ -63116,15 +63215,6 @@
         "link": "https://www.themoviedb.org/movie/1484453"
       },
       {
-        "id": 1244999,
-        "titulo": "Stans",
-        "nota": 7.3,
-        "poster": "https://image.tmdb.org/t/p/w300/jqIvV9wWIA5h1UREfCcnBBlcr6Q.jpg",
-        "resumo": "Uma jornada reveladora sobre os superfãs obsessivos do rapper Eminem.",
-        "data_lancamento": "2025-08-06",
-        "link": "https://www.themoviedb.org/movie/1244999"
-      },
-      {
         "id": 1515395,
         "titulo": "LEGO Disney Princesa: Vilões Unidos",
         "nota": 7.3,
@@ -63134,6 +63224,15 @@
         "link": "https://www.themoviedb.org/movie/1515395"
       },
       {
+        "id": 1244999,
+        "titulo": "Stans",
+        "nota": 7.3,
+        "poster": "https://image.tmdb.org/t/p/w300/jqIvV9wWIA5h1UREfCcnBBlcr6Q.jpg",
+        "resumo": "Uma jornada reveladora sobre os superfãs obsessivos do rapper Eminem.",
+        "data_lancamento": "2025-08-06",
+        "link": "https://www.themoviedb.org/movie/1244999"
+      },
+      {
         "id": 1078605,
         "titulo": "A Hora do Mal",
         "nota": 7.3,
@@ -63141,18 +63240,9 @@
         "resumo": "Quando todas as crianças de uma mesma classe, exceto uma, somem misteriosamente, na mesma noite e exatamente ao mesmo tempo, todos da cidade começam a se questionar quem ou o que está por trás deste estranho desaparecimento.",
         "data_lancamento": "2025-08-04",
         "link": "https://www.themoviedb.org/movie/1078605"
-      },
-      {
-        "id": 1465560,
-        "titulo": "Guarde o Coração na Palma da Mão e Caminhe",
-        "nota": 7.2,
-        "poster": "https://image.tmdb.org/t/p/w300/fSlAmRSAsWCdA4mPRowQTa7ouTy.jpg",
-        "resumo": "Uma cineasta conecta-se com uma mulher palestina em Gaza que documenta a vida sob bombardeios. Seus mais de 200 dias de trocas digitais ganham um novo significado após a morte de Fatem em um ataque israelense em 16 de abril de 2025.",
-        "data_lancamento": "2025-08-22",
-        "link": "https://www.themoviedb.org/movie/1465560"
       }
     ],
-    "timestamp": 1775022561.371999
+    "timestamp": 1776232388.299441
   },
   "8-2024": {
     "filmes": [
@@ -63178,7 +63268,7 @@
         "id": 1186532,
         "titulo": "A Forja – O Poder da Transformação",
         "nota": 8.2,
-        "poster": "https://image.tmdb.org/t/p/w300/3gux4K8ZOhlPeXRwQUeqxyWgiSM.jpg",
+        "poster": "https://image.tmdb.org/t/p/w300/uMM2o08s3BFUic2nWIEdHgQsG8Z.jpg",
         "resumo": "Um ano depois de encerrar o ensino médio, o jovem Isaías Wright não tem planos para o futuro e é desafiado por sua mãe solo e um empresário de sucesso a começar a traçar um rumo melhor para sua vida. Ele passa a ser discipulado pelo seu novo mentor, conta com orações de sua mãe e de uma guerreira de orações, Dona Clara, e começa a descobrir o propósito de Deus para sua vida.",
         "data_lancamento": "2024-08-22",
         "link": "https://www.themoviedb.org/movie/1186532"
@@ -63213,7 +63303,7 @@
       {
         "id": 1243849,
         "titulo": "Bad Bear",
-        "nota": 7.9,
+        "nota": 7.8,
         "poster": "https://image.tmdb.org/t/p/w300/aqnCQDoA3xazmIeSsKD6ZswLF5P.jpg",
         "resumo": "",
         "data_lancamento": "2024-08-02",
@@ -63231,29 +63321,38 @@
       {
         "id": 1290206,
         "titulo": "O Paraíso dos Espinhos",
-        "nota": 7.7,
+        "nota": 7.8,
         "poster": "https://image.tmdb.org/t/p/w300/pGbxXI7SeeTclecLixo37yu3cZQ.jpg",
         "resumo": "Quando Sek morre, Thongkam perde o direito à propriedade para a família do seu amado parceiro e precisa lutar para reconquistar o lar que os dois construíram juntos.",
         "data_lancamento": "2024-08-22",
         "link": "https://www.themoviedb.org/movie/1290206"
       },
       {
-        "id": 1239121,
-        "titulo": "A Vida Secreta dos Orangotangos",
+        "id": 1214485,
+        "titulo": "در سرزمین برادر",
         "nota": 7.7,
-        "poster": "https://image.tmdb.org/t/p/w300/4ZLQDBcWIYcWsK2rkrJJFzSddWg.jpg",
-        "resumo": "Acompanhe várias gerações de uma família de orangotangos em suas aventuras e desventuras neste documentário imersivo narrado por David Attenborough.",
-        "data_lancamento": "2024-08-21",
-        "link": "https://www.themoviedb.org/movie/1239121"
+        "poster": "https://image.tmdb.org/t/p/w300/v23envUYvX7ntuRetwkDedtQwe2.jpg",
+        "resumo": "",
+        "data_lancamento": "2024-08-15",
+        "link": "https://www.themoviedb.org/movie/1214485"
       },
       {
         "id": 1317887,
         "titulo": "Lolo e Kid",
-        "nota": 7.6,
+        "nota": 7.7,
         "poster": "https://image.tmdb.org/t/p/w300/uNvm06DyYS0zqhJROwKFqxmEgDO.jpg",
         "resumo": "Um golpista e seu neto vivem enganando pessoas ricas. Só que uma oportunidade única pode acabar com o vínculo entre os dois.",
         "data_lancamento": "2024-08-07",
         "link": "https://www.themoviedb.org/movie/1317887"
+      },
+      {
+        "id": 1239121,
+        "titulo": "A Vida Secreta dos Orangotangos",
+        "nota": 7.6,
+        "poster": "https://image.tmdb.org/t/p/w300/4ZLQDBcWIYcWsK2rkrJJFzSddWg.jpg",
+        "resumo": "Acompanhe várias gerações de uma família de orangotangos em suas aventuras e desventuras neste documentário imersivo narrado por David Attenborough.",
+        "data_lancamento": "2024-08-21",
+        "link": "https://www.themoviedb.org/movie/1239121"
       },
       {
         "id": 1098332,
@@ -63292,24 +63391,6 @@
         "link": "https://www.themoviedb.org/movie/1174891"
       },
       {
-        "id": 1320467,
-        "titulo": "Playing God",
-        "nota": 7.5,
-        "poster": "https://image.tmdb.org/t/p/w300/jzhMGv1UfEbh7YgqBu8s2ryPBaw.jpg",
-        "resumo": "",
-        "data_lancamento": "2024-08-28",
-        "link": "https://www.themoviedb.org/movie/1320467"
-      },
-      {
-        "id": 1214485,
-        "titulo": "در سرزمین برادر",
-        "nota": 7.5,
-        "poster": "https://image.tmdb.org/t/p/w300/v23envUYvX7ntuRetwkDedtQwe2.jpg",
-        "resumo": "",
-        "data_lancamento": "2024-08-15",
-        "link": "https://www.themoviedb.org/movie/1214485"
-      },
-      {
         "id": 1287819,
         "titulo": "侍タイムスリッパー",
         "nota": 7.5,
@@ -63328,6 +63409,15 @@
         "link": "https://www.themoviedb.org/movie/1051426"
       },
       {
+        "id": 1320467,
+        "titulo": "Playing God",
+        "nota": 7.4,
+        "poster": "https://image.tmdb.org/t/p/w300/jzhMGv1UfEbh7YgqBu8s2ryPBaw.jpg",
+        "resumo": "",
+        "data_lancamento": "2024-08-28",
+        "link": "https://www.themoviedb.org/movie/1320467"
+      },
+      {
         "id": 1159799,
         "titulo": "Meu Amigo Pinguim",
         "nota": 7.4,
@@ -63337,7 +63427,7 @@
         "link": "https://www.themoviedb.org/movie/1159799"
       }
     ],
-    "timestamp": 1775022561.246386
+    "timestamp": 1776232388.114763
   },
   "8-2022": {
     "filmes": [
@@ -63482,15 +63572,6 @@
         "link": "https://www.themoviedb.org/movie/1032760"
       },
       {
-        "id": 1000495,
-        "titulo": "Nossos Corpos",
-        "nota": 7.9,
-        "poster": "https://image.tmdb.org/t/p/w300/2vENdYaLWvtW8HziwGrpVvMYUC6.jpg",
-        "resumo": "Claire Simon observa as operações diárias da ala ginecológica de um hospital público em Paris. Ela conhece pacientes em todos os estágios da vida: jovens e idosas, cisgêneros e trans. Histórias únicas de fertilidade, transições de gênero e câncer são reveladas, incluindo a da própria cineasta.",
-        "data_lancamento": "2023-08-04",
-        "link": "https://www.themoviedb.org/movie/1000495"
-      },
-      {
         "id": 1163258,
         "titulo": "Repetente",
         "nota": 7.9,
@@ -63500,6 +63581,15 @@
         "link": "https://www.themoviedb.org/movie/1163258"
       },
       {
+        "id": 1000495,
+        "titulo": "Nossos Corpos",
+        "nota": 7.9,
+        "poster": "https://image.tmdb.org/t/p/w300/2vENdYaLWvtW8HziwGrpVvMYUC6.jpg",
+        "resumo": "Claire Simon observa as operações diárias da ala ginecológica de um hospital público em Paris. Ela conhece pacientes em todos os estágios da vida: jovens e idosas, cisgêneros e trans. Histórias únicas de fertilidade, transições de gênero e câncer são reveladas, incluindo a da própria cineasta.",
+        "data_lancamento": "2023-08-04",
+        "link": "https://www.themoviedb.org/movie/1000495"
+      },
+      {
         "id": 1148445,
         "titulo": "Mark Cavendish, Pedalando Até O Fim",
         "nota": 7.8,
@@ -63507,6 +63597,15 @@
         "resumo": "Profundo e cativante, este documentário acompanha a ascensão meteórica, a queda trágica e a inacreditável volta por cima do ciclista Mark Cavendish.",
         "data_lancamento": "2023-08-02",
         "link": "https://www.themoviedb.org/movie/1148445"
+      },
+      {
+        "id": 1128604,
+        "titulo": "Snoopy Apresenta: A Inigualável Marcie",
+        "nota": 7.8,
+        "poster": "https://image.tmdb.org/t/p/w300/reHrpuhshGwE6GmYk5VZdvB10V2.jpg",
+        "resumo": "Marcie, quietinha, gentil e introvertida, pensa em ideias geniais para ajudar os amigos a atingir seus objetivos e resolver seus problemas. Mas quando o mundo todo para pra olhar e ela vira o centro das atenções, compartilhar essas ideias se torna um desafio.",
+        "data_lancamento": "2023-08-17",
+        "link": "https://www.themoviedb.org/movie/1128604"
       },
       {
         "id": 1146916,
@@ -63525,15 +63624,6 @@
         "resumo": "",
         "data_lancamento": "2023-08-31",
         "link": "https://www.themoviedb.org/movie/1157027"
-      },
-      {
-        "id": 1128604,
-        "titulo": "Snoopy Apresenta: A Inigualável Marcie",
-        "nota": 7.8,
-        "poster": "https://image.tmdb.org/t/p/w300/reHrpuhshGwE6GmYk5VZdvB10V2.jpg",
-        "resumo": "Marcie, quietinha, gentil e introvertida, pensa em ideias geniais para ajudar os amigos a atingir seus objetivos e resolver seus problemas. Mas quando o mundo todo para pra olhar e ela vira o centro das atenções, compartilhar essas ideias se torna um desafio.",
-        "data_lancamento": "2023-08-17",
-        "link": "https://www.themoviedb.org/movie/1128604"
       },
       {
         "id": 1160007,
@@ -63615,9 +63705,18 @@
         "resumo": "",
         "data_lancamento": "2023-08-19",
         "link": "https://www.themoviedb.org/movie/1146912"
+      },
+      {
+        "id": 1034055,
+        "titulo": "A Turma da Floresta 2: Ao Redor do Mundo",
+        "nota": 7.2,
+        "poster": "https://image.tmdb.org/t/p/w300/c1q9S6SiNdap74UhZB7kHLtjvPL.jpg",
+        "resumo": "O Esquadrão da Selva tem uma missão: salvar a floresta de um super-vilão com um plano maligno. Eles enfrentam muitas aventuras e trapalhadas ao redor do mundo para encontrar cientistas que possam ajudá-los.",
+        "data_lancamento": "2023-08-16",
+        "link": "https://www.themoviedb.org/movie/1034055"
       }
     ],
-    "timestamp": 1775022562.043623
+    "timestamp": 1776232388.907379
   },
   "8-2018": {
     "filmes": [
@@ -71350,7 +71449,7 @@
   },
   "9-2026": {
     "filmes": [],
-    "timestamp": 1775022560.734242
+    "timestamp": 1776232387.837018
   },
   "8-1960": {
     "filmes": [
@@ -71694,15 +71793,6 @@
         "link": "https://www.themoviedb.org/movie/1538876"
       },
       {
-        "id": 1317149,
-        "titulo": "I Swear",
-        "nota": 8.4,
-        "poster": "https://image.tmdb.org/t/p/w300/vUwyhNWBKkSwK8ELvEeBRwV724h.jpg",
-        "resumo": "John Davidson: diagnosticado com Tourette aos 15 anos, descrito como insano por seus colegas, ele lutou contra uma condição que poucos haviam testemunhado. O filme retrata os desafios de crescer em uma família operária, o bullying na escola e a violência física que sofreu devido aos seus tiques. Quando adulto, ele fez campanha pela síndrome de Tourette, culminando com o recebimento de um MBE (Ordem do Império Britânico) da Rainha em 2019.",
-        "data_lancamento": "2025-09-22",
-        "link": "https://www.themoviedb.org/movie/1317149"
-      },
-      {
         "id": 1374686,
         "titulo": "Jesus - A Luz do Mundo",
         "nota": 8.4,
@@ -71710,6 +71800,15 @@
         "resumo": "Movido pela necessidade de pagar os impostos de sua família, o jovem João inicia uma jornada em busca de ajuda. Nesse caminho, ele encontra Jesus, um homem cujo impacto transformará sua vida por completo. Ao lado de outros discípulos, como Pedro e Tiago, João embarca em uma aventura que se provará crucial e marcará a história para sempre.",
         "data_lancamento": "2025-09-04",
         "link": "https://www.themoviedb.org/movie/1374686"
+      },
+      {
+        "id": 1317149,
+        "titulo": "I Swear",
+        "nota": 8.3,
+        "poster": "https://image.tmdb.org/t/p/w300/vUwyhNWBKkSwK8ELvEeBRwV724h.jpg",
+        "resumo": "John Davidson: diagnosticado com Tourette aos 15 anos, descrito como insano por seus colegas, ele lutou contra uma condição que poucos haviam testemunhado. O filme retrata os desafios de crescer em uma família operária, o bullying na escola e a violência física que sofreu devido aos seus tiques. Quando adulto, ele fez campanha pela síndrome de Tourette, culminando com o recebimento de um MBE (Ordem do Império Britânico) da Rainha em 2019.",
+        "data_lancamento": "2025-09-22",
+        "link": "https://www.themoviedb.org/movie/1317149"
       },
       {
         "id": 1218925,
@@ -71721,22 +71820,22 @@
         "link": "https://www.themoviedb.org/movie/1218925"
       },
       {
+        "id": 1450115,
+        "titulo": "Missão Silenciosa: A Batalha do Oceano Ártico",
+        "nota": 8.2,
+        "poster": "https://image.tmdb.org/t/p/w300/edshCzX3Rl7jrHYZyDEVa3fTAFs.jpg",
+        "resumo": "Nos mares gelados do norte, o submarino nuclear Yamato inicia sua viagem nas profundezas ao som de Mozart, rumo à sede das Nações Unidas, em Nova York. No Estreito de Bering, entre os EUA e a Rússia, um submarino nuclear americano se aproxima e ofusca o Yamato. Agora, começa a batalha entre as placas de gelo rachadas no frio Oceano Ártico.",
+        "data_lancamento": "2025-09-26",
+        "link": "https://www.themoviedb.org/movie/1450115"
+      },
+      {
         "id": 1480382,
         "titulo": "A Voz de Hind Rajab",
-        "nota": 8.1,
+        "nota": 8.0,
         "poster": "https://image.tmdb.org/t/p/w300/9bu1V3NBCKia7x4j7ep3qYrXbHW.jpg",
         "resumo": "Em uma noite de terror em Gaza, o que começa como uma chamada de emergência para o departamento humanitário se transforma em uma luta desesperada pela vida de uma criança palestina de apenas 6 anos. O filme acompanha a agonizante tentativa dos voluntários da Cruz Vermelha de resgatar Hind Rajab, presa sob fogo cruzado dentro de um carro. Em permanente contato telefônico com a menina, cuja voz no filme é real, eles enfrentam o desafio de coordenar uma operação de resgate em um ambiente de violência implacável.",
         "data_lancamento": "2025-09-10",
         "link": "https://www.themoviedb.org/movie/1480382"
-      },
-      {
-        "id": 1432605,
-        "titulo": "My Father's Shadow",
-        "nota": 8.0,
-        "poster": "https://image.tmdb.org/t/p/w300/aLQYyqWlIBBU3L8L84txbh0x1nq.jpg",
-        "resumo": "",
-        "data_lancamento": "2025-09-19",
-        "link": "https://www.themoviedb.org/movie/1432605"
       },
       {
         "id": 1219620,
@@ -71759,7 +71858,7 @@
       {
         "id": 1518749,
         "titulo": "Антарктида",
-        "nota": 7.9,
+        "nota": 7.8,
         "poster": "https://image.tmdb.org/t/p/w300/1YQC0GFgxA8YgK7fn4TB3nYI62Q.jpg",
         "resumo": "",
         "data_lancamento": "2025-09-04",
@@ -71775,6 +71874,15 @@
         "link": "https://www.themoviedb.org/movie/1295026"
       },
       {
+        "id": 1432605,
+        "titulo": "My Father's Shadow",
+        "nota": 7.8,
+        "poster": "https://image.tmdb.org/t/p/w300/aF8AFFh3LJpF8An0KUM8SdTwfVt.jpg",
+        "resumo": "",
+        "data_lancamento": "2025-09-19",
+        "link": "https://www.themoviedb.org/movie/1432605"
+      },
+      {
         "id": 1193861,
         "titulo": "A Mulher da Fila",
         "nota": 7.7,
@@ -71782,6 +71890,15 @@
         "resumo": "Para libertar o filho preso, uma mãe enfrenta um sistema de justiça corrupto e encontra outras mulheres vivendo batalhas semelhantes. Baseado em uma história real.",
         "data_lancamento": "2025-09-04",
         "link": "https://www.themoviedb.org/movie/1193861"
+      },
+      {
+        "id": 1400793,
+        "titulo": "Rompendo Rochas",
+        "nota": 7.7,
+        "poster": "https://image.tmdb.org/t/p/w300/qefjf5TeM0uRzrFU2c4xYt6ew9z.jpg",
+        "resumo": "Sara Shahverdi, a primeira mulher iraniana eleita para a vereança de sua aldeia, luta contra tradições patriarcais ao ensinar meninas a andar de moto, defender o direito à propriedade e combater o casamento infantil, apesar da forte oposição. O documentário acompanha a jornada de Shahverdi, que, mesmo enfrentando dúvidas e resistência, se torna um símbolo de resistência e esperança para uma nova geração.",
+        "data_lancamento": "2025-09-27",
+        "link": "https://www.themoviedb.org/movie/1400793"
       },
       {
         "id": 987400,
@@ -71794,12 +71911,21 @@
       },
       {
         "id": 1337985,
-        "titulo": "遠い山なみの光",
+        "titulo": "A Pale View Of Hills",
         "nota": 7.7,
-        "poster": "https://image.tmdb.org/t/p/w300/gtMAEcQzPoEX9jZwyTiPT9c4FTs.jpg",
-        "resumo": "",
+        "poster": "https://image.tmdb.org/t/p/w300/eYlGoz58v1GIx8vlqcmQBhx4mxG.jpg",
+        "resumo": "Na década de 1980, Niki mora em Londres. Ela tem mãe japonesa, Etsuko, mas seu pai inglês faleceu. Depois de abandonar a universidade, Niki persegue o sonho de se tornar escritora. Para escrever seu próprio livro, ela visita sua mãe, Etsuko. Niki raramente visita a casa de Etsuko desde a morte da meia-irmã mais velha de Niki. Etsuko mora sozinha nos subúrbios de Londres. Ela experimentou o bombardeio atômico em Nagasaki, no Japão, e veio para a Inglaterra, mas Niki não sabe nada sobre o passado de sua mãe.\r Após a morte do marido e da filha do primeiro casamento, Etsuko passou a viver sozinha em sua casa cheia de lembranças. Depois de passar alguns dias com Niki, Etsuko começa a falar sobre um estranho sonho que tem tido recentemente. Seu sonho é sobre uma mulher e sua filha que Etsuko conheceu quando morava em Nagasaki, no Japão, na década de 1950. Baseado na obra \"Toi Yamanami no Hikari\" de Kazuo Ishiguro.",
         "data_lancamento": "2025-09-05",
         "link": "https://www.themoviedb.org/movie/1337985"
+      },
+      {
+        "id": 556574,
+        "titulo": "Hamilton",
+        "nota": 7.7,
+        "poster": "https://image.tmdb.org/t/p/w300/h1B7tW0t399VDjAcWJh8m87469b.jpg",
+        "resumo": "Hamilton é um musical que conta a história da América por vozes americanas. Por meio da história de um dos principais fundadores americanos e primeiro secretário do Tesouro, Alexander Hamilton, a trilha sonora que mistura hip-hop, jazz, R&B e Broadway revoluciona o teatro no The Richard Rodgers Theatre, na Broadway, em junho de 2016.",
+        "data_lancamento": "2025-09-05",
+        "link": "https://www.themoviedb.org/movie/556574"
       },
       {
         "id": 1462322,
@@ -71820,13 +71946,13 @@
         "link": "https://www.themoviedb.org/movie/1227739"
       },
       {
-        "id": 639988,
-        "titulo": "A Única Saída",
+        "id": 1087209,
+        "titulo": "Lady Nazca",
         "nota": 7.6,
-        "poster": "https://image.tmdb.org/t/p/w300/aPO8utrHrnkSrObmL2ezmjuZFVD.jpg",
-        "resumo": "Um homem é demitido da empresa de papel onde trabalhou por 25 anos. Algum tempo depois, ainda desempregado, encontra uma solução: eliminar literalmente sua concorrência.",
-        "data_lancamento": "2025-09-24",
-        "link": "https://www.themoviedb.org/movie/639988"
+        "poster": "https://image.tmdb.org/t/p/w300/ekPZ8UotqTBUNhcVfCJSfoFNELC.jpg",
+        "resumo": "",
+        "data_lancamento": "2025-09-25",
+        "link": "https://www.themoviedb.org/movie/1087209"
       },
       {
         "id": 1276271,
@@ -71836,36 +71962,9 @@
         "resumo": "",
         "data_lancamento": "2025-09-05",
         "link": "https://www.themoviedb.org/movie/1276271"
-      },
-      {
-        "id": 1301844,
-        "titulo": "Belén: Uma História de Injustiça",
-        "nota": 7.5,
-        "poster": "https://image.tmdb.org/t/p/w300/peuYjlv8597BjBfJ2UueOEVoCF5.jpg",
-        "resumo": "No conservador norte da Argentina, Julieta é acusada de infanticídio após uma emergência médica. Correndo o risco de ser presa por um crime que não cometeu, sua única esperança é Soledad, advogada destemida que arrisca tudo para defendê-la. Juntas, elas transformam uma batalha judicial num movimento por justiça, solidariedade e direitos das mulheres.",
-        "data_lancamento": "2025-09-18",
-        "link": "https://www.themoviedb.org/movie/1301844"
-      },
-      {
-        "id": 1538573,
-        "titulo": "O Segredo Final de Cleopatra",
-        "nota": 7.5,
-        "poster": "https://image.tmdb.org/t/p/w300/zsvf4HP6jLjNiGZcqNuAmLyRFZt.jpg",
-        "resumo": "Depois de 20 anos procurando a tumba de Cleópatra, a busca do arqueólogo K. Martinez muda para um local subaquático no Mediterrâneo. Ela se juntou ao descobridor do Titanic Bob Ballard, à Marinha egípcia e às equipes de mergulho.",
-        "data_lancamento": "2025-09-25",
-        "link": "https://www.themoviedb.org/movie/1538573"
-      },
-      {
-        "id": 556574,
-        "titulo": "Hamilton",
-        "nota": 7.5,
-        "poster": "https://image.tmdb.org/t/p/w300/h1B7tW0t399VDjAcWJh8m87469b.jpg",
-        "resumo": "Hamilton é um musical que conta a história da América por vozes americanas. Por meio da história de um dos principais fundadores americanos e primeiro secretário do Tesouro, Alexander Hamilton, a trilha sonora que mistura hip-hop, jazz, R&B e Broadway revoluciona o teatro no The Richard Rodgers Theatre, na Broadway, em junho de 2016.",
-        "data_lancamento": "2025-09-05",
-        "link": "https://www.themoviedb.org/movie/556574"
       }
     ],
-    "timestamp": 1775022561.037931
+    "timestamp": 1776232387.976769
   },
   "9-2020": {
     "filmes": [
@@ -72393,15 +72492,6 @@
         "link": "https://www.themoviedb.org/movie/1025125"
       },
       {
-        "id": 1097000,
-        "titulo": "லப்பர் பந்து",
-        "nota": 7.6,
-        "poster": "https://image.tmdb.org/t/p/w300/jNyLZjIgaYVkBli2JihHwABlAPY.jpg",
-        "resumo": "",
-        "data_lancamento": "2024-09-20",
-        "link": "https://www.themoviedb.org/movie/1097000"
-      },
-      {
         "id": 1325869,
         "titulo": "The Real West",
         "nota": 7.6,
@@ -72409,6 +72499,15 @@
         "resumo": "",
         "data_lancamento": "2024-09-28",
         "link": "https://www.themoviedb.org/movie/1325869"
+      },
+      {
+        "id": 1097000,
+        "titulo": "லப்பர் பந்து",
+        "nota": 7.6,
+        "poster": "https://image.tmdb.org/t/p/w300/jNyLZjIgaYVkBli2JihHwABlAPY.jpg",
+        "resumo": "",
+        "data_lancamento": "2024-09-20",
+        "link": "https://www.themoviedb.org/movie/1097000"
       },
       {
         "id": 1232827,
@@ -72420,7 +72519,7 @@
         "link": "https://www.themoviedb.org/movie/1232827"
       }
     ],
-    "timestamp": 1775022561.094132
+    "timestamp": 1776232388.089265
   },
   "9-2018": {
     "filmes": [
@@ -74796,7 +74895,7 @@
       {
         "id": 1181678,
         "titulo": "¿Quieres ser mi hijo?",
-        "nota": 8.6,
+        "nota": 8.5,
         "poster": "https://image.tmdb.org/t/p/w300/9GuvODahvuFqdhuZ16aBLR4UJoP.jpg",
         "resumo": "",
         "data_lancamento": "2023-09-21",
@@ -74904,7 +75003,7 @@
       {
         "id": 1081676,
         "titulo": "Amor Esquecido",
-        "nota": 7.9,
+        "nota": 7.8,
         "poster": "https://image.tmdb.org/t/p/w300/jTv09AE0h6YL0Jav6N04knTqQN2.jpg",
         "resumo": "Após perder a família e a memória, um ex-cirurgião tem uma oportunidade de redenção ao se reconectar com uma figura do passado.",
         "data_lancamento": "2023-09-26",
@@ -74956,7 +75055,7 @@
         "link": "https://www.themoviedb.org/movie/1166369"
       }
     ],
-    "timestamp": 1775022561.064473
+    "timestamp": 1776232388.079488
   },
   "9-2006": {
     "filmes": [
@@ -81456,7 +81555,7 @@
   },
   "10-2026": {
     "filmes": [],
-    "timestamp": 1775022561.035068
+    "timestamp": 1776232388.538437
   },
   "9-1967": {
     "filmes": [
@@ -82059,7 +82158,7 @@
       {
         "id": 1130276,
         "titulo": "O Jogo da Tentação",
-        "nota": 8.7,
+        "nota": 8.6,
         "poster": "https://image.tmdb.org/t/p/w300/dtdZRfoNRNcH92wnRmIUqU2VVrW.jpg",
         "resumo": "Um rapaz, que acabou de se tornar pai e luta contra a fadiga, inseguranças emocionais e um casamento fracassado, se inscreve em um aplicativo de namoro e encontra uma jovem atraente, que parece ter poderes inumanos.",
         "data_lancamento": "2024-10-06",
@@ -82113,7 +82212,7 @@
       {
         "id": 1300045,
         "titulo": "Гунди - Легенда за любовта",
-        "nota": 8.2,
+        "nota": 8.1,
         "poster": "https://image.tmdb.org/t/p/w300/jLozivZ1j4wcDKUXzOcdkMJU4s5.jpg",
         "resumo": "",
         "data_lancamento": "2024-10-18",
@@ -82149,7 +82248,7 @@
       {
         "id": 1340168,
         "titulo": "Blink",
-        "nota": 8.0,
+        "nota": 7.9,
         "poster": "https://image.tmdb.org/t/p/w300/w8w7QbN4gyX4tL2nvenS7Xh44su.jpg",
         "resumo": "Quando três de seus filhos são diagnosticados com uma doença incurável que leva a uma deficiência visual grave, a família Pelletier embarca em uma jornada para ver as belezas do mundo enquanto ainda podem. À medida que vivenciam destinos de tirar o fôlego e encontros únicos na vida, o amor, a resiliência e o inabalável senso de admiração deles garantem que um futuro incerto não defina o presente.",
         "data_lancamento": "2024-10-04",
@@ -82176,7 +82275,7 @@
       {
         "id": 1154154,
         "titulo": "Regras do Amor na Cidade Grande",
-        "nota": 7.9,
+        "nota": 7.8,
         "poster": "https://image.tmdb.org/t/p/w300/5mVzzCVU0AkxM2zuBmu5mGbaHlR.jpg",
         "resumo": "O filme retrata o amor e a separação da jovem geração de espírito livre, Jae Hee e seu melhor amigo gay, Heung Soo, que dividem uma casa juntos.",
         "data_lancamento": "2024-10-01",
@@ -82228,16 +82327,16 @@
         "link": "https://www.themoviedb.org/movie/1365141"
       },
       {
-        "id": 1214499,
-        "titulo": "Quatro Paredes",
+        "id": 1156151,
+        "titulo": "A Céu Aberto",
         "nota": 7.6,
-        "poster": "https://image.tmdb.org/t/p/w300/m6JCZqP16AQUsjXShvGbSxTfVP5.jpg",
-        "resumo": "Em maio de 2017, a cineasta e jornalista Shiori Ito tornou público o fato de ter sido estuprada pelo jornalista mais próximo e biógrafo do então primeiro-ministro Shinzo Abe. Em poucos dias, Ito é arrastada para o centro da política japonesa.",
-        "data_lancamento": "2024-10-24",
-        "link": "https://www.themoviedb.org/movie/1214499"
+        "poster": "https://image.tmdb.org/t/p/w300/d5Ji9WSBBzf1pVuGjLLuv9z5CKW.jpg",
+        "resumo": "Dois irmãos adolescentes e sua meia-irmã recém-conhecida fazem uma viagem de carro até a fronteira entre o México e os EUA em uma tensa jornada de vingança para rastrear o homem responsável pelo acidente que causou a morte de seu pai.",
+        "data_lancamento": "2024-10-17",
+        "link": "https://www.themoviedb.org/movie/1156151"
       }
     ],
-    "timestamp": 1775022562.036589
+    "timestamp": 1776232388.970334
   },
   "9-1960": {
     "filmes": [
@@ -82549,6 +82648,15 @@
   "10-2025": {
     "filmes": [
       {
+        "id": 1464533,
+        "titulo": "爆弾",
+        "nota": 8.8,
+        "poster": "https://image.tmdb.org/t/p/w300/7d4Gb3R1W6OByg46V5TSCNbbpUW.jpg",
+        "resumo": "",
+        "data_lancamento": "2025-10-31",
+        "link": "https://www.themoviedb.org/movie/1464533"
+      },
+      {
         "id": 1508191,
         "titulo": "Ozzy: No Escape from Now",
         "nota": 8.4,
@@ -82585,15 +82693,6 @@
         "link": "https://www.themoviedb.org/movie/1359916"
       },
       {
-        "id": 1443940,
-        "titulo": "Verdade e Traição",
-        "nota": 8.0,
-        "poster": "https://image.tmdb.org/t/p/w300/wJAdJLTSkpdAtdwa54JnRa2g7BO.jpg",
-        "resumo": "Helmuth Hübener, de 16 anos, forma um grupo de resistência com seus amigos Karl e Rudi após testemunhar a prisão de seu amigo judeu pelos nazistas. Suas ações corajosas os levam a serem julgados na mais alta corte da Alemanha nazista.",
-        "data_lancamento": "2025-10-16",
-        "link": "https://www.themoviedb.org/movie/1443940"
-      },
-      {
         "id": 1546933,
         "titulo": "Rockstar: DUKI desde el fin del mundo",
         "nota": 8.0,
@@ -82612,6 +82711,15 @@
         "link": "https://www.themoviedb.org/movie/1432596"
       },
       {
+        "id": 1443940,
+        "titulo": "Verdade e Traição",
+        "nota": 7.9,
+        "poster": "https://image.tmdb.org/t/p/w300/wJAdJLTSkpdAtdwa54JnRa2g7BO.jpg",
+        "resumo": "Helmuth Hübener, de 16 anos, forma um grupo de resistência com seus amigos Karl e Rudi após testemunhar a prisão de seu amigo judeu pelos nazistas. Suas ações corajosas os levam a serem julgados na mais alta corte da Alemanha nazista.",
+        "data_lancamento": "2025-10-16",
+        "link": "https://www.themoviedb.org/movie/1443940"
+      },
+      {
         "id": 1465711,
         "titulo": "Depeche Mode: M",
         "nota": 7.8,
@@ -82619,6 +82727,15 @@
         "resumo": "",
         "data_lancamento": "2025-10-28",
         "link": "https://www.themoviedb.org/movie/1465711"
+      },
+      {
+        "id": 1290937,
+        "titulo": "Pumuckl und das große Missverständnis",
+        "nota": 7.8,
+        "poster": "https://image.tmdb.org/t/p/w300/ctRbBJ35laTEuLnEi6Qj3etxs65.jpg",
+        "resumo": "",
+        "data_lancamento": "2025-10-30",
+        "link": "https://www.themoviedb.org/movie/1290937"
       },
       {
         "id": 1512581,
@@ -82639,27 +82756,9 @@
         "link": "https://www.themoviedb.org/movie/1277988"
       },
       {
-        "id": 1557977,
-        "titulo": "Mar Branco: A Surreal História de Rabo de Peixe",
-        "nota": 7.7,
-        "poster": "https://image.tmdb.org/t/p/w300/6OFfQFdYICzQJTA1765QMDblLOW.jpg",
-        "resumo": "Em junho de 2001, centenas de quilos de cocaína apareceram no litoral de um vilarejo português de São Miguel. Este documentário revela o impacto que o incidente teve na comunidade, com um relato desse incidente transformador na Vila Rabo de Peixe.",
-        "data_lancamento": "2025-10-16",
-        "link": "https://www.themoviedb.org/movie/1557977"
-      },
-      {
-        "id": 1290937,
-        "titulo": "Pumuckl und das große Missverständnis",
-        "nota": 7.7,
-        "poster": "https://image.tmdb.org/t/p/w300/ctRbBJ35laTEuLnEi6Qj3etxs65.jpg",
-        "resumo": "",
-        "data_lancamento": "2025-10-30",
-        "link": "https://www.themoviedb.org/movie/1290937"
-      },
-      {
         "id": 1062722,
         "titulo": "Frankenstein",
-        "nota": 7.7,
+        "nota": 7.6,
         "poster": "https://image.tmdb.org/t/p/w300/rB0tZwNImTT8febX5qVycZ5YVeF.jpg",
         "resumo": "Dr. Victor Frankenstein, um cientista brilhante, mas egoísta, dá vida a uma criatura em um experimento monstruoso que acaba levando à ruína tanto do criador quanto de sua trágica criação.",
         "data_lancamento": "2025-10-17",
@@ -82675,22 +82774,13 @@
         "link": "https://www.themoviedb.org/movie/1546989"
       },
       {
-        "id": 1457705,
-        "titulo": "Voor de meisjes",
+        "id": 1557977,
+        "titulo": "Mar Branco: A Surreal História de Rabo de Peixe",
         "nota": 7.5,
-        "poster": "https://image.tmdb.org/t/p/w300/qCNwxpgq4DQowStdlLcu1jBurw0.jpg",
-        "resumo": "",
-        "data_lancamento": "2025-10-02",
-        "link": "https://www.themoviedb.org/movie/1457705"
-      },
-      {
-        "id": 1299209,
-        "titulo": "O Filho de Mil Homens",
-        "nota": 7.5,
-        "poster": "https://image.tmdb.org/t/p/w300/tJ4w5lgD2mA9jVNRJrion9IPdcQ.jpg",
-        "resumo": "Em uma pequena vila, um pescador solitário com o sonho de ter um filho se conecta, de forma extraordinária, a um grupo de pessoas e seus segredos.",
-        "data_lancamento": "2025-10-30",
-        "link": "https://www.themoviedb.org/movie/1299209"
+        "poster": "https://image.tmdb.org/t/p/w300/6OFfQFdYICzQJTA1765QMDblLOW.jpg",
+        "resumo": "Em junho de 2001, centenas de quilos de cocaína apareceram no litoral de um vilarejo português de São Miguel. Este documentário revela o impacto que o incidente teve na comunidade, com um relato desse incidente transformador na Vila Rabo de Peixe.",
+        "data_lancamento": "2025-10-16",
+        "link": "https://www.themoviedb.org/movie/1557977"
       },
       {
         "id": 1266016,
@@ -82711,25 +82801,34 @@
         "link": "https://www.themoviedb.org/movie/1547882"
       },
       {
+        "id": 1299209,
+        "titulo": "O Filho de Mil Homens",
+        "nota": 7.4,
+        "poster": "https://image.tmdb.org/t/p/w300/tJ4w5lgD2mA9jVNRJrion9IPdcQ.jpg",
+        "resumo": "Em uma pequena vila, um pescador solitário com o sonho de ter um filho se conecta, de forma extraordinária, a um grupo de pessoas e seus segredos.",
+        "data_lancamento": "2025-10-30",
+        "link": "https://www.themoviedb.org/movie/1299209"
+      },
+      {
         "id": 804370,
         "titulo": "Arco",
-        "nota": 7.5,
+        "nota": 7.4,
         "poster": "https://image.tmdb.org/t/p/w300/agkPfqKgwA8M3OSkrkTGk9zzm72.jpg",
         "resumo": "Um menino de 10 anos, de um futuro distante e pacífico, acidentalmente viaja de volta ao ano 2075 e descobre um mundo em perigo. À medida que Arco desenvolve uma amizade com uma jovem chamada Iris, eles se unem e, junto com seu robô cuidador Mikki, partem em uma jornada para conduzir Arco de volta para casa.",
         "data_lancamento": "2025-10-22",
         "link": "https://www.themoviedb.org/movie/804370"
       },
       {
-        "id": 1254808,
-        "titulo": "Nouvelle Vague",
+        "id": 1156594,
+        "titulo": "Nossa Culpa",
         "nota": 7.4,
-        "poster": "https://image.tmdb.org/t/p/w300/mGSaAfCLtQRWIFbQv6cQ6fIfD4Y.jpg",
-        "resumo": "Acontece de tudo nos bastidores das filmagens de Acossado, de Jean-Luc Godard, um marco do movimento cinematográfico francês Nouvelle Vague.",
-        "data_lancamento": "2025-10-08",
-        "link": "https://www.themoviedb.org/movie/1254808"
+        "poster": "https://image.tmdb.org/t/p/w300/tPq8xqhsTYZzUGwMKuksa0eyeGZ.jpg",
+        "resumo": "O casamento de Jenna e Lion marca o tão esperado reencontro entre Noah e Nick após o término. A incapacidade de Nick de perdoar Noah é uma barreira intransponível. Ele, herdeiro dos negócios do avô, e ela, iniciando a vida profissional, evitam alimentar uma chama ainda acesa. Mas, agora que seus caminhos se cruzaram novamente, será o amor mais forte que o ressentimento?",
+        "data_lancamento": "2025-10-15",
+        "link": "https://www.themoviedb.org/movie/1156594"
       }
     ],
-    "timestamp": 1775022562.07085
+    "timestamp": 1776232389.27762
   },
   "9-1962": {
     "filmes": [
@@ -83352,6 +83451,15 @@
         "link": "https://www.themoviedb.org/movie/1197406"
       },
       {
+        "id": 1071339,
+        "titulo": "Cinderela no Caribe",
+        "nota": 7.8,
+        "poster": "https://image.tmdb.org/t/p/w300/RD21PYErP8FeYcpHu4H1bBKPNZ.jpg",
+        "resumo": "Ashlyn Vanderbilt viaja com sua madrasta Miriam e seu noivo Bruce para seu casamento no destino. Embora Ashlyn encontre amizade e amor com o filho de Bruce, Noah, ela luta para ser feliz para sempre quando descobre que sua família adotiva planeja arruinar Bruce.",
+        "data_lancamento": "2023-10-25",
+        "link": "https://www.themoviedb.org/movie/1071339"
+      },
+      {
         "id": 779816,
         "titulo": "Pássaro Branco: Uma História de Extraordinário",
         "nota": 7.8,
@@ -83399,7 +83507,7 @@
       {
         "id": 840430,
         "titulo": "Os Rejeitados",
-        "nota": 7.6,
+        "nota": 7.7,
         "poster": "https://image.tmdb.org/t/p/w300/ek4FmIkKlH30xthKs2ANqrV7SOI.jpg",
         "resumo": "Um professor mal-humorado de uma prestigiada escola americana é forçado a cuidar de um grupo de alunos que não tem para onde ir durante as férias de Natal. Ele acaba criando um vínculo com um dos estudantes e com a cozinheira da escola, que acaba de perder seu filho no Vietnã.",
         "data_lancamento": "2023-10-27",
@@ -83424,6 +83532,15 @@
         "link": "https://www.themoviedb.org/movie/1033774"
       },
       {
+        "id": 1180196,
+        "titulo": "Rickerl - Musik is höchstens a Hobby",
+        "nota": 7.6,
+        "poster": "https://image.tmdb.org/t/p/w300/7cAc6dIyDBfF0tktHDAIA5cBKAm.jpg",
+        "resumo": "",
+        "data_lancamento": "2023-10-27",
+        "link": "https://www.themoviedb.org/movie/1180196"
+      },
+      {
         "id": 1015356,
         "titulo": "Matar um Tigre",
         "nota": 7.6,
@@ -83431,15 +83548,6 @@
         "resumo": "Depois que sua filha adolescente sobrevive a um crime terrível, um fazendeiro busca incansavelmente por justiça, desafiando a intolerância de seu vilarejo.",
         "data_lancamento": "2023-10-20",
         "link": "https://www.themoviedb.org/movie/1015356"
-      },
-      {
-        "id": 1180196,
-        "titulo": "Rickerl - Musik is höchstens a Hobby",
-        "nota": 7.5,
-        "poster": "https://image.tmdb.org/t/p/w300/7cAc6dIyDBfF0tktHDAIA5cBKAm.jpg",
-        "resumo": "",
-        "data_lancamento": "2023-10-27",
-        "link": "https://www.themoviedb.org/movie/1180196"
       },
       {
         "id": 1186774,
@@ -83451,15 +83559,6 @@
         "link": "https://www.themoviedb.org/movie/1186774"
       },
       {
-        "id": 734002,
-        "titulo": "Camponeses",
-        "nota": 7.5,
-        "poster": "https://image.tmdb.org/t/p/w300/mBURxgfJOpK8Sy9WS1KIM5gDCzi.jpg",
-        "resumo": "Século XIX. Jagna, uma jovem de família humilde, está determinada a forjar seu próprio destino no pequeno vilarejo polonês onde vive.",
-        "data_lancamento": "2023-10-13",
-        "link": "https://www.themoviedb.org/movie/734002"
-      },
-      {
         "id": 897160,
         "titulo": "Mulher Valente",
         "nota": 7.5,
@@ -83469,7 +83568,7 @@
         "link": "https://www.themoviedb.org/movie/897160"
       }
     ],
-    "timestamp": 1775022562.496982
+    "timestamp": 1776232389.513494
   },
   "10-2013": {
     "filmes": [
@@ -93388,7 +93487,7 @@
   },
   "11-2026": {
     "filmes": [],
-    "timestamp": 1775022561.85439
+    "timestamp": 1776232389.086093
   },
   "10-1963": {
     "filmes": [
@@ -93958,21 +94057,21 @@
       },
       {
         "id": 1325678,
-        "titulo": "Óleo de Sarah",
-        "nota": 8.3,
-        "poster": "https://image.tmdb.org/t/p/w300/eZh6ShWg7392xgYOp1qek7nBsuW.jpg",
-        "resumo": "A história verídica de Sarah Rector, de onze anos, uma garota afro-americana nascida no Território Indígena de Oklahoma no início dos anos 1900, que acredita que há petróleo sob a terra árida que ela recebeu e cuja fé está provada correta.",
+        "titulo": "O Tesouro de Sarah",
+        "nota": 8.2,
+        "poster": "https://image.tmdb.org/t/p/w300/vHIPqxm9qYMbXWkhSoFiGLraFvD.jpg",
+        "resumo": "Uma jovem afro-americana, nascida no início do século XX, acredita que há petróleo em suas terras, e a intuição se confirma. Mas, quando chegam exploradores sem escrúpulos, ela precisa recorrer à sua família e a perfuradores independentes para manter o controle das terras.",
         "data_lancamento": "2025-11-06",
         "link": "https://www.themoviedb.org/movie/1325678"
       },
       {
-        "id": 1119537,
-        "titulo": "Des preuves d'amour",
+        "id": 1422404,
+        "titulo": "TOKYOタクシー",
         "nota": 7.8,
-        "poster": "https://image.tmdb.org/t/p/w300/cgE5Oo0qBJ8VAtQaF4vIDFK4OI7.jpg",
+        "poster": "https://image.tmdb.org/t/p/w300/iJHARu7sCkQy419txqTwKCgQQWQ.jpg",
         "resumo": "",
-        "data_lancamento": "2025-11-19",
-        "link": "https://www.themoviedb.org/movie/1119537"
+        "data_lancamento": "2025-11-21",
+        "link": "https://www.themoviedb.org/movie/1422404"
       },
       {
         "id": 1208348,
@@ -93993,6 +94092,15 @@
         "link": "https://www.themoviedb.org/movie/1237082"
       },
       {
+        "id": 1119537,
+        "titulo": "Des preuves d'amour",
+        "nota": 7.7,
+        "poster": "https://image.tmdb.org/t/p/w300/cgE5Oo0qBJ8VAtQaF4vIDFK4OI7.jpg",
+        "resumo": "",
+        "data_lancamento": "2025-11-19",
+        "link": "https://www.themoviedb.org/movie/1119537"
+      },
+      {
         "id": 858024,
         "titulo": "Hamnet: A Vida Antes de Hamlet",
         "nota": 7.7,
@@ -94000,6 +94108,15 @@
         "resumo": "Um dos mais importantes escritores do cânone ocidental, William Shakespeare vive uma tragédia ao lado de sua esposa Agnes quando o casal perde o filho de 11 anos para uma das várias pragas que assolaram o século XVI. Hamnet era o nome do menino. Explorando os temas da perda e da morte, o filme acompanha a rotina e o dia a dia de uma família, as alegrias e as tristezas de viver numa pequena vila na Inglaterra do passado e a história de amor poderosa que inspirou a criação da peça Hamlet.",
         "data_lancamento": "2025-11-26",
         "link": "https://www.themoviedb.org/movie/858024"
+      },
+      {
+        "id": 1462735,
+        "titulo": "旅と日々",
+        "nota": 7.7,
+        "poster": "https://image.tmdb.org/t/p/w300/d5kqa17dP6UqBBctkXJOsbhHjnm.jpg",
+        "resumo": "",
+        "data_lancamento": "2025-11-07",
+        "link": "https://www.themoviedb.org/movie/1462735"
       },
       {
         "id": 1242898,
@@ -94011,6 +94128,15 @@
         "link": "https://www.themoviedb.org/movie/1242898"
       },
       {
+        "id": 1084242,
+        "titulo": "Zootopia 2",
+        "nota": 7.6,
+        "poster": "https://image.tmdb.org/t/p/w300/u5aQDLWgn64uuvtc2jXUbccWtB5.jpg",
+        "resumo": "Os detetives Judy Hopps e Nick Wilde se encontram na trilha sinuosa de um réptil misterioso que chega a Zootopia e vira a metrópole dos mamíferos de cabeça para baixo.",
+        "data_lancamento": "2025-11-26",
+        "link": "https://www.themoviedb.org/movie/1084242"
+      },
+      {
         "id": 1535221,
         "titulo": "A Grand Ole Opry Christmas",
         "nota": 7.6,
@@ -94020,31 +94146,31 @@
         "link": "https://www.themoviedb.org/movie/1535221"
       },
       {
-        "id": 1084242,
-        "titulo": "Zootopia 2",
-        "nota": 7.6,
-        "poster": "https://image.tmdb.org/t/p/w300/fOCTW3D6RywUzoxpvxF7G6YM5bT.jpg",
-        "resumo": "Os detetives Judy Hopps e Nick Wilde se encontram na trilha sinuosa de um réptil misterioso que chega a Zootopia e vira a metrópole dos mamíferos de cabeça para baixo.",
-        "data_lancamento": "2025-11-26",
-        "link": "https://www.themoviedb.org/movie/1084242"
+        "id": 1340625,
+        "titulo": "Deux personnes échangeant de la salive",
+        "nota": 7.5,
+        "poster": "https://image.tmdb.org/t/p/w300/yYSYO7neAeB4t75pWtentV60ivz.jpg",
+        "resumo": "",
+        "data_lancamento": "2025-11-27",
+        "link": "https://www.themoviedb.org/movie/1340625"
+      },
+      {
+        "id": 1549512,
+        "titulo": "Nympho",
+        "nota": 7.5,
+        "poster": "https://image.tmdb.org/t/p/w300/qKyM15CvZPYHuqcSAB0Z1fuECXR.jpg",
+        "resumo": "Uma mulher casada em busca de aventuras secretas encontra um homem que compartilha seus desejos ocultos, colocando sua vida organizada em desordem.",
+        "data_lancamento": "2025-11-07",
+        "link": "https://www.themoviedb.org/movie/1549512"
       },
       {
         "id": 1422166,
         "titulo": "A Era do Desacobertamento",
-        "nota": 7.6,
+        "nota": 7.5,
         "poster": "https://image.tmdb.org/t/p/w300/7f0gVJ2DwygToEFSS5GVsd2kO9T.jpg",
         "resumo": "Revela um acobertamento mundial de 80 anos de formas de vida inteligente não humanas e uma guerra secreta entre grandes nações para fazer a engenharia reversa de tecnologia avançada de origem não humana.",
         "data_lancamento": "2025-11-21",
         "link": "https://www.themoviedb.org/movie/1422166"
-      },
-      {
-        "id": 1340625,
-        "titulo": "Deux personnes échangeant de la salive",
-        "nota": 7.6,
-        "poster": "https://image.tmdb.org/t/p/w300/t8tiutE4pzEIShGPPDSmouK3OuZ.jpg",
-        "resumo": "",
-        "data_lancamento": "2025-11-27",
-        "link": "https://www.themoviedb.org/movie/1340625"
       },
       {
         "id": 1417941,
@@ -94063,15 +94189,6 @@
         "resumo": "Nas colinas enevoadas de Kerala, a busca por um criador de cães enigmático arrasta sua esposa e cuidadora para um mundo de perigos e segredos obscuros.",
         "data_lancamento": "2025-11-21",
         "link": "https://www.themoviedb.org/movie/1070186"
-      },
-      {
-        "id": 1549512,
-        "titulo": "Nympho",
-        "nota": 7.5,
-        "poster": "https://image.tmdb.org/t/p/w300/qKyM15CvZPYHuqcSAB0Z1fuECXR.jpg",
-        "resumo": "Uma mulher casada em busca de aventuras secretas encontra um homem que compartilha seus desejos ocultos, colocando sua vida organizada em desordem.",
-        "data_lancamento": "2025-11-07",
-        "link": "https://www.themoviedb.org/movie/1549512"
       },
       {
         "id": 1383172,
@@ -94099,27 +94216,9 @@
         "resumo": "Vinte e um anos depois de um encontro mágico em um hospital infantil, Bilge e Can de repente começam a ouvir a voz um do outro telepaticamente. O que parece um milagre logo revela um segredo escondido, pois o destino, ao reuni-los depois de décadas, lhes reserva muito mais. Uma aventura emocionante e uma história de amor épica os aguardam.",
         "data_lancamento": "2025-11-24",
         "link": "https://www.themoviedb.org/movie/1522377"
-      },
-      {
-        "id": 1563925,
-        "titulo": "Chris Hemsworth: Uma Viagem para Recordar",
-        "nota": 7.4,
-        "poster": "https://image.tmdb.org/t/p/w300/p1OCxPiyzA02BK6HGsPE19qTQl7.jpg",
-        "resumo": "Chris Hemsworth ajuda seu pai, Craig, diagnosticado com Alzheimer, levando-o em uma viagem de carro repleta de memórias pela Austrália, explorando como os laços sociais e a conexão podem proteger a saúde do cérebro e combater a demência.",
-        "data_lancamento": "2025-11-23",
-        "link": "https://www.themoviedb.org/movie/1563925"
-      },
-      {
-        "id": 1174334,
-        "titulo": "大濛",
-        "nota": 7.4,
-        "poster": "https://image.tmdb.org/t/p/w300/5nXkeQHSHPccTMllRZMURs790fR.jpg",
-        "resumo": "",
-        "data_lancamento": "2025-11-27",
-        "link": "https://www.themoviedb.org/movie/1174334"
       }
     ],
-    "timestamp": 1775022562.573514
+    "timestamp": 1776232389.513465
   },
   "10-1962": {
     "filmes": [
@@ -94672,7 +94771,7 @@
       {
         "id": 1191653,
         "titulo": "ゴジラVSメガロ",
-        "nota": 8.6,
+        "nota": 8.7,
         "poster": "https://image.tmdb.org/t/p/w300/nVnFbYjBq1J3V3Lqj5KRFXmuYyr.jpg",
         "resumo": "",
         "data_lancamento": "2023-11-03",
@@ -94715,15 +94814,6 @@
         "link": "https://www.themoviedb.org/movie/1206577"
       },
       {
-        "id": 957863,
-        "titulo": "年少日記",
-        "nota": 7.9,
-        "poster": "https://image.tmdb.org/t/p/w300/uv5jR3LuPLEaeNJcjDdKLpZlJXW.jpg",
-        "resumo": "",
-        "data_lancamento": "2023-11-16",
-        "link": "https://www.themoviedb.org/movie/957863"
-      },
-      {
         "id": 1224439,
         "titulo": "Novios por Navidad",
         "nota": 7.9,
@@ -94731,6 +94821,15 @@
         "resumo": "",
         "data_lancamento": "2023-11-18",
         "link": "https://www.themoviedb.org/movie/1224439"
+      },
+      {
+        "id": 957863,
+        "titulo": "年少日記",
+        "nota": 7.9,
+        "poster": "https://image.tmdb.org/t/p/w300/uv5jR3LuPLEaeNJcjDdKLpZlJXW.jpg",
+        "resumo": "",
+        "data_lancamento": "2023-11-16",
+        "link": "https://www.themoviedb.org/movie/957863"
       },
       {
         "id": 1180248,
@@ -94742,15 +94841,6 @@
         "link": "https://www.themoviedb.org/movie/1180248"
       },
       {
-        "id": 1016683,
-        "titulo": "Dr. Semmelweis",
-        "nota": 7.8,
-        "poster": "https://image.tmdb.org/t/p/w300/ea105uIesnD56ajaPsRDVTm3Fmm.jpg",
-        "resumo": "Em 1847, uma misteriosa epidemia assola uma maternidade em Viena. Na tentativa de acabar com a febre puerperal, o médico Ignác Semmelweis decide contrariar todas as teorias tradicionais da época.",
-        "data_lancamento": "2023-11-30",
-        "link": "https://www.themoviedb.org/movie/1016683"
-      },
-      {
         "id": 976893,
         "titulo": "Dias Perfeitos",
         "nota": 7.8,
@@ -94758,6 +94848,15 @@
         "resumo": "A história de Hirayama, um homem de meia idade reflexivo que vive sua vida de forma modesta como zelador e limpando banheiros em Tóquio. Sua vida é revelada ao espectador através da música que ouve, dos livros que lê e das fotos que tira das árvores, uma vez que são suas três paixões. À medida que a vida de Hirayama avança, encontros inesperados começam a surgir revelando um passado sombrio e não tão metódico do zelador.",
         "data_lancamento": "2023-11-10",
         "link": "https://www.themoviedb.org/movie/976893"
+      },
+      {
+        "id": 1016683,
+        "titulo": "Dr. Semmelweis",
+        "nota": 7.8,
+        "poster": "https://image.tmdb.org/t/p/w300/ea105uIesnD56ajaPsRDVTm3Fmm.jpg",
+        "resumo": "Em 1847, uma misteriosa epidemia assola uma maternidade em Viena. Na tentativa de acabar com a febre puerperal, o médico Ignác Semmelweis decide contrariar todas as teorias tradicionais da época.",
+        "data_lancamento": "2023-11-30",
+        "link": "https://www.themoviedb.org/movie/1016683"
       },
       {
         "id": 937949,
@@ -94796,13 +94895,13 @@
         "link": "https://www.themoviedb.org/movie/1123902"
       },
       {
-        "id": 1007074,
-        "titulo": "Jigarthanda DoubleX",
+        "id": 1092329,
+        "titulo": "Jornada Para Belém",
         "nota": 7.6,
-        "poster": "https://image.tmdb.org/t/p/w300/rlPTdgLfgsSv8WiQXRZ2AVIDwAi.jpg",
-        "resumo": "Nos anos 1970, um cineasta inusitado sonha em se tornar um astro e faz uma parceria com um famoso gângster apaixonado por faroestes de Hollywood.",
-        "data_lancamento": "2023-11-10",
-        "link": "https://www.themoviedb.org/movie/1007074"
+        "poster": "https://image.tmdb.org/t/p/w300/n0XsEdHp25k4La6r7Hst6H0WBac.jpg",
+        "resumo": "Uma jovem carregando uma responsabilidade inimaginável. Um jovem dividido entre o amor e a honra. Um rei ciumento que não se deterá diante de nada para manter sua coroa. Esta aventura musical de Natal em live-action para toda a família mescla melodias clássicas de Natal com humor, fé e novas canções pop em uma releitura da maior história já contada, a história de Maria e José e o nascimento de Jesus. Uma nova entrada única na coleção de filmes clássicos de férias, este musical épico de Natal é diferente de todos os anteriores.",
+        "data_lancamento": "2023-11-09",
+        "link": "https://www.themoviedb.org/movie/1092329"
       },
       {
         "id": 1006012,
@@ -94814,13 +94913,13 @@
         "link": "https://www.themoviedb.org/movie/1006012"
       },
       {
-        "id": 1092329,
-        "titulo": "Jornada Para Belém",
+        "id": 1192825,
+        "titulo": "AVANTE: Nos Bastidores de Loki: Temporada 2",
         "nota": 7.6,
-        "poster": "https://image.tmdb.org/t/p/w300/n0XsEdHp25k4La6r7Hst6H0WBac.jpg",
-        "resumo": "Uma jovem carregando uma responsabilidade inimaginável. Um jovem dividido entre o amor e a honra. Um rei ciumento que não se deterá diante de nada para manter sua coroa. Esta aventura musical de Natal em live-action para toda a família mescla melodias clássicas de Natal com humor, fé e novas canções pop em uma releitura da maior história já contada, a história de Maria e José e o nascimento de Jesus. Uma nova entrada única na coleção de filmes clássicos de férias, este musical épico de Natal é diferente de todos os anteriores.",
-        "data_lancamento": "2023-11-09",
-        "link": "https://www.themoviedb.org/movie/1092329"
+        "poster": "https://image.tmdb.org/t/p/w300/oPFo8LpPBBAwMkNaN8EA6FjoxUH.jpg",
+        "resumo": "Com entrevistas com as mentes criativas por trás da série e imagens exclusivas do set, descubra como a equipe que desenvolveu \"Loki: Temporada 2\" elevou o nível desta nova aventura do MCU. Testemunhe a criação de figurinos criativos e cenários elaborados, variantes que ganham vida, conheça novos aliados e inimigos, e faça uma viagem no tempo pelo universo em \"Avante: Nos Bastidores de Loki: Temporada 2.\"",
+        "data_lancamento": "2023-11-22",
+        "link": "https://www.themoviedb.org/movie/1192825"
       },
       {
         "id": 1150112,
@@ -94832,7 +94931,7 @@
         "link": "https://www.themoviedb.org/movie/1150112"
       }
     ],
-    "timestamp": 1775022562.469008
+    "timestamp": 1776232389.513507
   },
   "11-2022": {
     "filmes": [
@@ -95658,15 +95757,6 @@
         "link": "https://www.themoviedb.org/movie/1214484"
       },
       {
-        "id": 1160981,
-        "titulo": "Ouça-me: Nosso Verão",
-        "nota": 7.8,
-        "poster": "https://image.tmdb.org/t/p/w300/lXCQmVEcC1ZKOQ5LHQemlMElv6.jpg",
-        "resumo": "Yong-jun, um jovem sem rumo, conhece Yeo-reum, uma garota surda dedicada a cuidar de sua irmã nadadora, Ga-eul, que sonha com as Olimpíadas. Fascinado por Yeo-reum, ele se aproxima usando linguagem de sinais.",
-        "data_lancamento": "2024-11-06",
-        "link": "https://www.themoviedb.org/movie/1160981"
-      },
-      {
         "id": 1290213,
         "titulo": "O Quarto 404",
         "nota": 7.8,
@@ -95674,6 +95764,15 @@
         "resumo": "Nakrob, um jovem golpista imobiliário, descobre um hotel abandonado em uma colina próxima à praia e decide transformá-lo em um golpe de hotel de luxo.",
         "data_lancamento": "2024-11-28",
         "link": "https://www.themoviedb.org/movie/1290213"
+      },
+      {
+        "id": 1160981,
+        "titulo": "Ouça-me: Nosso Verão",
+        "nota": 7.7,
+        "poster": "https://image.tmdb.org/t/p/w300/lXCQmVEcC1ZKOQ5LHQemlMElv6.jpg",
+        "resumo": "Yong-jun, um jovem sem rumo, conhece Yeo-reum, uma garota surda dedicada a cuidar de sua irmã nadadora, Ga-eul, que sonha com as Olimpíadas. Fascinado por Yeo-reum, ele se aproxima usando linguagem de sinais.",
+        "data_lancamento": "2024-11-06",
+        "link": "https://www.themoviedb.org/movie/1160981"
       },
       {
         "id": 842859,
@@ -95703,6 +95802,24 @@
         "link": "https://www.themoviedb.org/movie/1260951"
       },
       {
+        "id": 1372028,
+        "titulo": "O Brilho do Natal",
+        "nota": 7.5,
+        "poster": "https://image.tmdb.org/t/p/w300/mmjPNDQ3W6Io410ZYbrEFaiZQYF.jpg",
+        "resumo": "Um romance de Natal inspirado na história de amor de um astro pop bilionário e um famoso jogador de futebol. O casal tem até o final das festas para confessar seus sentimentos e decidir tentar.",
+        "data_lancamento": "2024-11-23",
+        "link": "https://www.themoviedb.org/movie/1372028"
+      },
+      {
+        "id": 1338498,
+        "titulo": "No Dogs Allowed",
+        "nota": 7.5,
+        "poster": "https://image.tmdb.org/t/p/w300/tfXzVHplxlAtKPfzrNY0vfmOt0c.jpg",
+        "resumo": "Gabo, de 15 anos, luta para controlar e esconder seus impulsos que sabe serem errados, confidenciando apenas em fóruns online onde faz amizade com o manipulador Dave, um homem mais velho. Logo, a linha entre uma amizade de confiança e ser aliciado começa a se confundir. Quando Dave é preso por suspeita de abuso de menores, Gabo deve fazer uma escolha.",
+        "data_lancamento": "2024-11-17",
+        "link": "https://www.themoviedb.org/movie/1338498"
+      },
+      {
         "id": 1290034,
         "titulo": "Desafiar a Gravidade: As Cortinas Se Abrem em Wicked",
         "nota": 7.5,
@@ -95712,18 +95829,9 @@
         "link": "https://www.themoviedb.org/movie/1290034"
       },
       {
-        "id": 1338498,
-        "titulo": "No Dogs Allowed",
-        "nota": 7.4,
-        "poster": "https://image.tmdb.org/t/p/w300/tfXzVHplxlAtKPfzrNY0vfmOt0c.jpg",
-        "resumo": "Gabo, de 15 anos, luta para controlar e esconder seus impulsos que sabe serem errados, confidenciando apenas em fóruns online onde faz amizade com o manipulador Dave, um homem mais velho. Logo, a linha entre uma amizade de confiança e ser aliciado começa a se confundir. Quando Dave é preso por suspeita de abuso de menores, Gabo deve fazer uma escolha.",
-        "data_lancamento": "2024-11-17",
-        "link": "https://www.themoviedb.org/movie/1338498"
-      },
-      {
         "id": 1147416,
         "titulo": "Miraculous World: Londres, Corrida Contra o Tempo",
-        "nota": 7.4,
+        "nota": 7.5,
         "poster": "https://image.tmdb.org/t/p/w300/wcoHmWbTRNp0HSttto4faQL1MKG.jpg",
         "resumo": "Para salvar o futuro, Marinette, agora Chronobug, deve se unir a Bunnyx para resolver o mistério de quem descobriu a identidade secreta de Ladybug. Porque essa pessoa também conseguiu obter o Miraculous da Joaninha, e todos aqueles na Caixa dos Miraculous. Durante suas aventuras, as heroínas descobrem que o ladrão que descobriu o segredo final também é o novo portador do Miraculous da Borboleta. A única esperança de Marinette é ter sucesso em encontrar esse adversário que está escondido em algum lugar no tempo. Caso contrário, será o fim de Ladybug.",
         "data_lancamento": "2024-11-14",
@@ -95739,15 +95847,6 @@
         "link": "https://www.themoviedb.org/movie/1371540"
       },
       {
-        "id": 1372665,
-        "titulo": "As Crianças Perdidas",
-        "nota": 7.4,
-        "poster": "https://image.tmdb.org/t/p/w300/s0rtiZojWCizvu6K4PJZu6Cjf0c.jpg",
-        "resumo": "Após a queda de um avião, quatro crianças indígenas lutam para sobreviver na Amazônia colombiana usando sabedoria ancestral enquanto uma missão inédita tenta resgatá-las.",
-        "data_lancamento": "2024-11-13",
-        "link": "https://www.themoviedb.org/movie/1372665"
-      },
-      {
         "id": 1283819,
         "titulo": "Futni mentem",
         "nota": 7.4,
@@ -95757,7 +95856,7 @@
         "link": "https://www.themoviedb.org/movie/1283819"
       }
     ],
-    "timestamp": 1775022562.819434
+    "timestamp": 1776232389.657886
   },
   "11-2015": {
     "filmes": [
@@ -104515,15 +104614,6 @@
         "link": "https://www.themoviedb.org/movie/1068452"
       },
       {
-        "id": 760774,
-        "titulo": "Uma Vida: A História de Nicholas Winton",
-        "nota": 7.8,
-        "poster": "https://image.tmdb.org/t/p/w300/o65cLhzXPp9nBb5RvKRqLfZiMcH.jpg",
-        "resumo": "Baseado na história real de Nicholas Winton, o enredo acompanha sua visita a Praga em 1938, onde se depara com famílias em condições precárias sob a iminência da invasão nazista. Em uma corrida desesperada contra o tempo, Winton lidera um grupo de apoio para resgatar centenas de crianças antes que as fronteiras sejam fechadas. Décadas depois, em 1988, ele ainda vive atormentado pelo destino daqueles que não conseguiu salvar. No entanto, um reencontro inesperado com sobreviventes oferece a Nicholas a chance de confrontar sua culpa e finalmente encontrar paz com o legado de suas ações.",
-        "data_lancamento": "2023-12-21",
-        "link": "https://www.themoviedb.org/movie/760774"
-      },
-      {
         "id": 1086591,
         "titulo": "Rascal Does Not Dream of a Knapsack Kid",
         "nota": 7.8,
@@ -104531,6 +104621,15 @@
         "resumo": "Finalmente, chegou o dia da formatura de Mai no ensino médio. Enquanto Sakuta espera ansiosamente por sua namorada, uma aluna do ensino fundamental que se parece exatamente com ela aparece diante dele. Suspeita, e por todos os motivos errados... Enquanto isso, o pai de Sakuta e Kaede liga de repente, dizendo que a mãe deles quer ver a filha. Ela foi hospitalizada porque a condição de Kaede era demais para ela suportar, então o que ela poderia querer agora?",
         "data_lancamento": "2023-12-01",
         "link": "https://www.themoviedb.org/movie/1086591"
+      },
+      {
+        "id": 760774,
+        "titulo": "Uma Vida: A História de Nicholas Winton",
+        "nota": 7.8,
+        "poster": "https://image.tmdb.org/t/p/w300/o65cLhzXPp9nBb5RvKRqLfZiMcH.jpg",
+        "resumo": "Baseado na história real de Nicholas Winton, o enredo acompanha sua visita a Praga em 1938, onde se depara com famílias em condições precárias sob a iminência da invasão nazista. Em uma corrida desesperada contra o tempo, Winton lidera um grupo de apoio para resgatar centenas de crianças antes que as fronteiras sejam fechadas. Décadas depois, em 1988, ele ainda vive atormentado pelo destino daqueles que não conseguiu salvar. No entanto, um reencontro inesperado com sobreviventes oferece a Nicholas a chance de confrontar sua culpa e finalmente encontrar paz com o legado de suas ações.",
+        "data_lancamento": "2023-12-21",
+        "link": "https://www.themoviedb.org/movie/760774"
       },
       {
         "id": 1199447,
@@ -104551,11 +104650,11 @@
         "link": "https://www.themoviedb.org/movie/1180683"
       }
     ],
-    "timestamp": 1775022562.931699
+    "timestamp": 1776232389.864351
   },
   "12-2026": {
     "filmes": [],
-    "timestamp": 1775022562.180965
+    "timestamp": 1776232389.51352
   },
   "12-2024": {
     "filmes": [
@@ -104607,7 +104706,7 @@
       {
         "id": 1278101,
         "titulo": "O Meu Pequeno Eu",
-        "nota": 8.0,
+        "nota": 8.1,
         "poster": "https://image.tmdb.org/t/p/w300/kvRhquopoC2idxgkRYnbVN4q2B3.jpg",
         "resumo": "Liu Chunhe, que sofre de paralisia cerebral, rompe corajosamente com as limitações do corpo e da mente para realizar o sonho de sua avó, enquanto busca o sentido da própria vida. Após vivenciar uma transformação durante o verão, ele finalmente embarca em uma nova jornada.",
         "data_lancamento": "2024-12-27",
@@ -104731,16 +104830,16 @@
         "link": "https://www.themoviedb.org/movie/1382406"
       },
       {
-        "id": 1253971,
-        "titulo": "A Vida por Philomena Cunk",
+        "id": 1397314,
+        "titulo": "Avicii: Meu Último Show",
         "nota": 7.4,
-        "poster": "https://image.tmdb.org/t/p/w300/11gh4W7R6xy5GjAp7A8czeNCAkc.jpg",
-        "resumo": "Neste especial em longa-metragem, a documentarista Philomena Cunk confunde filósofos e acadêmicos em sua busca pela compreensão do significado da vida.",
-        "data_lancamento": "2024-12-05",
-        "link": "https://www.themoviedb.org/movie/1253971"
+        "poster": "https://image.tmdb.org/t/p/w300/cCgFqv1RZXqpNbj6kH9TkC4cQDX.jpg",
+        "resumo": "No dia 28 de agosto de 2016, Tim Bergling, mais conhecido como Avicii, subiu ao palco do Ushuaïa em Ibiza para o que seria seu último show.",
+        "data_lancamento": "2024-12-30",
+        "link": "https://www.themoviedb.org/movie/1397314"
       }
     ],
-    "timestamp": 1775022563.304738
+    "timestamp": 1776232390.344651
   },
   "11-1968": {
     "filmes": [
@@ -105194,7 +105293,7 @@
       {
         "id": 1497017,
         "titulo": "Adult Swim's The Elephant",
-        "nota": 8.4,
+        "nota": 8.5,
         "poster": "https://image.tmdb.org/t/p/w300/vq50QGdUSAiUNC2f0BDdgyhUQGg.jpg",
         "resumo": "Contada em três partes por quatro superestrelas da animação sem que cada um soubesse o que os outros estavam fazendo nas suas sessões, The Elephant conta uma história única e humana de autodescoberta através de vários estilos de animação.",
         "data_lancamento": "2025-12-19",
@@ -105210,6 +105309,15 @@
         "link": "https://www.themoviedb.org/movie/1466115"
       },
       {
+        "id": 1147411,
+        "titulo": "Miraculous World: Tóquio - Força Estelar",
+        "nota": 8.2,
+        "poster": "https://image.tmdb.org/t/p/w300/A1SPRIOteeOxvZfO171dbycpXQD.jpg",
+        "resumo": "Marinette e Kyoko vão a Tóquio para se unirem aos heróis da Força Estelar contra um novo supervilão, mas Ladybug logo percebe que a amiga esconde outro motivo para a viagem.",
+        "data_lancamento": "2025-12-07",
+        "link": "https://www.themoviedb.org/movie/1147411"
+      },
+      {
         "id": 1167307,
         "titulo": "Davi: Nasce Um Rei",
         "nota": 8.1,
@@ -105217,33 +105325,6 @@
         "resumo": "Em um reino tomado pelo medo e pela opressão, um jovem pastor de ovelhas decide enfrentar um gigante guerreiro e a escuridão que o acompanha. Com nada além de fé, coragem, uma funda e algumas pedras nas mãos, ele desafia um império e desperta o coração de uma nação.",
         "data_lancamento": "2025-12-14",
         "link": "https://www.themoviedb.org/movie/1167307"
-      },
-      {
-        "id": 1147411,
-        "titulo": "Miraculous World: Tóquio - Força Estelar",
-        "nota": 8.1,
-        "poster": "https://image.tmdb.org/t/p/w300/A1SPRIOteeOxvZfO171dbycpXQD.jpg",
-        "resumo": "Marinette e Kyoko vão a Tóquio para se unirem aos heróis da Força Estelar contra um novo supervilão, mas Ladybug logo percebe que a amiga esconde outro motivo para a viagem.",
-        "data_lancamento": "2025-12-07",
-        "link": "https://www.themoviedb.org/movie/1147411"
-      },
-      {
-        "id": 1309373,
-        "titulo": "Le Chant des forêts",
-        "nota": 8.0,
-        "poster": "https://image.tmdb.org/t/p/w300/5rcsd0iGbsQ6DFTI3HclJPJzY9K.jpg",
-        "resumo": "",
-        "data_lancamento": "2025-12-17",
-        "link": "https://www.themoviedb.org/movie/1309373"
-      },
-      {
-        "id": 1588413,
-        "titulo": "Mirreyes contra Godínez: Un Especial de Navidad",
-        "nota": 8.0,
-        "poster": "https://image.tmdb.org/t/p/w300/bsuS0Wuik77w3MFysqHBpdyButc.jpg",
-        "resumo": "",
-        "data_lancamento": "2025-12-05",
-        "link": "https://www.themoviedb.org/movie/1588413"
       },
       {
         "id": 1571485,
@@ -105255,58 +105336,58 @@
         "link": "https://www.themoviedb.org/movie/1571485"
       },
       {
-        "id": 1600028,
-        "titulo": "A Cela dos Milagres",
+        "id": 1588413,
+        "titulo": "Mirreyes contra Godínez: Un Especial de Navidad",
+        "nota": 8.0,
+        "poster": "https://image.tmdb.org/t/p/w300/bsuS0Wuik77w3MFysqHBpdyButc.jpg",
+        "resumo": "",
+        "data_lancamento": "2025-12-05",
+        "link": "https://www.themoviedb.org/movie/1588413"
+      },
+      {
+        "id": 1309373,
+        "titulo": "Le Chant des forêts",
         "nota": 7.9,
-        "poster": "https://image.tmdb.org/t/p/w300/xaloioubOPQOFaERBPxLHnONyeJ.jpg",
-        "resumo": "Preso por um crime que não cometeu, um pai dedicado luta para provar a própria inocência. Enquanto isso, sua filha precisa se virar sozinha.",
-        "data_lancamento": "2025-12-25",
-        "link": "https://www.themoviedb.org/movie/1600028"
+        "poster": "https://image.tmdb.org/t/p/w300/5rcsd0iGbsQ6DFTI3HclJPJzY9K.jpg",
+        "resumo": "",
+        "data_lancamento": "2025-12-17",
+        "link": "https://www.themoviedb.org/movie/1309373"
       },
       {
         "id": 1562010,
         "titulo": "Taylor Swift | The Eras Tour | The Final Show",
-        "nota": 7.8,
+        "nota": 7.9,
         "poster": "https://image.tmdb.org/t/p/w300/c11km7kLK2F30fTNHP5Si9m8foG.jpg",
         "resumo": "\"Taylor Swift | The Eras Tour | The Final Show\" é o filme do show completo incluindo \"THE TORTURED POETS DEPARTMENT\", gravado em Vancouver, B.C., durante o último show da turnê histórica.",
         "data_lancamento": "2025-12-11",
         "link": "https://www.themoviedb.org/movie/1562010"
       },
       {
+        "id": 1600028,
+        "titulo": "A Cela dos Milagres",
+        "nota": 7.8,
+        "poster": "https://image.tmdb.org/t/p/w300/xaloioubOPQOFaERBPxLHnONyeJ.jpg",
+        "resumo": "Preso por um crime que não cometeu, um pai dedicado luta para provar a própria inocência. Enquanto isso, sua filha precisa se virar sozinha.",
+        "data_lancamento": "2025-12-25",
+        "link": "https://www.themoviedb.org/movie/1600028"
+      },
+      {
         "id": 1473354,
         "titulo": "സർവം മായ",
-        "nota": 7.7,
-        "poster": "https://image.tmdb.org/t/p/w300/mgLY1aQayVX6dQ2DiylLAhjEG8w.jpg",
+        "nota": 7.6,
+        "poster": "https://image.tmdb.org/t/p/w300/ri3Lpt8OkvixST0EIsBDZJmB5l.jpg",
         "resumo": "",
         "data_lancamento": "2025-12-25",
         "link": "https://www.themoviedb.org/movie/1473354"
       },
       {
-        "id": 1464883,
-        "titulo": "The President's Cake",
+        "id": 661568,
+        "titulo": "Mektoub, My Love: Canto Due",
         "nota": 7.6,
-        "poster": "https://image.tmdb.org/t/p/w300/uSrozVUxIUaer6FIUHHFtOdbqj8.jpg",
-        "resumo": "",
-        "data_lancamento": "2025-12-26",
-        "link": "https://www.themoviedb.org/movie/1464883"
-      },
-      {
-        "id": 1264805,
-        "titulo": "만약에 우리",
-        "nota": 7.5,
-        "poster": "https://image.tmdb.org/t/p/w300/3ajXIRwoTGvnlLWVPgZPrHgXIW.jpg",
-        "resumo": "",
-        "data_lancamento": "2025-12-31",
-        "link": "https://www.themoviedb.org/movie/1264805"
-      },
-      {
-        "id": 1589891,
-        "titulo": "A Hora dos Valentes",
-        "nota": 7.5,
-        "poster": "https://image.tmdb.org/t/p/w300/dXa93VNH1uF3IJyOIKyxsHooAIY.jpg",
-        "resumo": "Um psicanalista prestando serviço comunitário ajuda um agente a superar uma infidelidade. Juntos, eles enfrentam uma série de perigos e descobrem que existem segundas chances.",
-        "data_lancamento": "2025-12-18",
-        "link": "https://www.themoviedb.org/movie/1589891"
+        "poster": "https://image.tmdb.org/t/p/w300/Ag0gzbjcdUu8t0eeFks2USP9a5V.jpg",
+        "resumo": "Amin retorna ao sul da França e se reúne com sua família, amigos, primo Tony e sua melhor amiga Ophelie. Ele divide o tempo entre o restaurante da família, os bares e as praias com os turistas.",
+        "data_lancamento": "2025-12-03",
+        "link": "https://www.themoviedb.org/movie/661568"
       },
       {
         "id": 1400032,
@@ -105316,6 +105397,24 @@
         "resumo": "Dois dançarinos opostos em tudo menos na arte concordam em treinar juntos para uma competição. Primeiro eles batem de frente, mas logo sentem uma atração poderosa.",
         "data_lancamento": "2025-12-17",
         "link": "https://www.themoviedb.org/movie/1400032"
+      },
+      {
+        "id": 1464883,
+        "titulo": "The President's Cake",
+        "nota": 7.5,
+        "poster": "https://image.tmdb.org/t/p/w300/abdw51gf1oy3UWllAwqGl6WdkiS.jpg",
+        "resumo": "",
+        "data_lancamento": "2025-12-26",
+        "link": "https://www.themoviedb.org/movie/1464883"
+      },
+      {
+        "id": 1589891,
+        "titulo": "A Hora dos Valentes",
+        "nota": 7.4,
+        "poster": "https://image.tmdb.org/t/p/w300/dXa93VNH1uF3IJyOIKyxsHooAIY.jpg",
+        "resumo": "Um psicanalista prestando serviço comunitário ajuda um agente a superar uma infidelidade. Juntos, eles enfrentam uma série de perigos e descobrem que existem segundas chances.",
+        "data_lancamento": "2025-12-18",
+        "link": "https://www.themoviedb.org/movie/1589891"
       },
       {
         "id": 1397364,
@@ -105345,9 +105444,18 @@
         "link": "https://www.themoviedb.org/movie/1371185"
       },
       {
+        "id": 1264805,
+        "titulo": "만약에 우리",
+        "nota": 7.4,
+        "poster": "https://image.tmdb.org/t/p/w300/3ajXIRwoTGvnlLWVPgZPrHgXIW.jpg",
+        "resumo": "",
+        "data_lancamento": "2025-12-31",
+        "link": "https://www.themoviedb.org/movie/1264805"
+      },
+      {
         "id": 83533,
         "titulo": "Avatar: Fogo e Cinzas",
-        "nota": 7.3,
+        "nota": 7.4,
         "poster": "https://image.tmdb.org/t/p/w300/9k2zKeUfcKkAz1dGt5MP6dZMm4G.jpg",
         "resumo": "Após a devastadora guerra contra a RDA e a perda de seu filho mais velho, Jake Sully e Neytiri enfrentam uma nova ameaça em Pandora: o Povo das Cinzas, uma tribo Na'vi violenta e sedenta por poder, liderada pela implacável Varang. A família de Jake deve lutar por sua sobrevivência e pelo futuro de Pandora em um conflito que os leva aos seus limites emocionais e físicos.",
         "data_lancamento": "2025-12-17",
@@ -105361,18 +105469,9 @@
         "resumo": "",
         "data_lancamento": "2025-12-04",
         "link": "https://www.themoviedb.org/movie/1313013"
-      },
-      {
-        "id": 1277882,
-        "titulo": "Les enfants vont bien",
-        "nota": 7.2,
-        "poster": "https://image.tmdb.org/t/p/w300/yNtWCh8HyamzUStLQdEgJ7xxBPX.jpg",
-        "resumo": "",
-        "data_lancamento": "2025-12-03",
-        "link": "https://www.themoviedb.org/movie/1277882"
       }
     ],
-    "timestamp": 1775022563.457911
+    "timestamp": 1776232390.195572
   },
   "12-2017": {
     "filmes": [
